@@ -1,0 +1,137 @@
+{
+  "episode_number": 72,
+  "biome": "Ocean",
+  "guest_animal": "Manatee",
+  "title": "Daisy Meets a Gentle Giant! \ud83c\udf0a Ocean Adventure with a Manatee!",
+  "description": "\ud83d\udc26 Daisy the bluebird flies over the warm ocean and meets Marina the manatee! \ud83c\udf0a Learn amazing facts about manatees and the ocean together! \ud83d\udc99 A perfect adventure for little explorers everywhere!",
+  "tags": [
+    "kids",
+    "ocean",
+    "manatee",
+    "pip the bluebird",
+    "animal facts for kids",
+    "biome",
+    "educational",
+    "preschool",
+    "toddler",
+    "ocean animals",
+    "sea creatures",
+    "gentle giant",
+    "animated",
+    "nature for kids",
+    "bluebird"
+  ],
+  "thumbnail_prompt": "Bright cheerful cartoon scene: Daisy the small bluebird wearing a tiny red scarf hovers just above sparkling blue-green ocean water, smiling wide-eyed at Marina the large friendly manatee who is half-submerged and waving a flipper, lush sea grass visible beneath the glittering surface, warm golden sunlight sparkles on the water, vivid colors, style suitable for young children",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi, hi, HI! Today I am flying somewhere VERY blue and wavy! Can YOU guess where I am going? Ooooh, I can hear the waves!",
+      "visual_description": "Daisy bursts into frame from the left wearing a bright red scarf, swooping through a bright blue sky. A giant burst of sparkling blue and white color fills the screen as the ocean shimmers below. Daisy flaps wings excitedly and looks directly at the camera with wide curious eyes. Animated sparkle effects pop around Daisy.",
+      "sound_effects": [
+        "upbeat bright intro jingle",
+        "whooshing wing flap",
+        "ocean waves distant",
+        "playful boing sound"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "WHOA! Look at all that WATER! This is the OCEAN! The ocean is big, big, BIG! It is salty and wavy and so, so beautiful! The ocean is everywhere I look! I can feel the warm, wet breeze. Ahhh! I love the OCEAN!",
+      "visual_description": "Wide cinematic reveal shot: Daisy swoops down toward a gorgeous warm shallow ocean with crystal-clear turquoise water. Sunlight dances on the surface. Colorful sea grass sways gently below the water. Gentle waves ripple outward. Daisy hovers above the water, red scarf fluttering in the ocean breeze, spinning around to look in every direction with a huge grin. The word OCEAN appears in big bubbly letters on screen.",
+      "sound_effects": [
+        "big orchestral reveal sting",
+        "ocean waves lapping",
+        "seagull call in distance",
+        "gentle warm wind"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Ooooh! What is THAT? Something big and round is under the water! It is coming UP! Oh! Oh WOW! Hello there, friend! Who are YOU? ... Hi Daisy! I am Marina the MANATEE! I am so happy you are here! ... A MANATEE! You are so big and so ROUND and so CUTE! I love your little smile, Marina!",
+      "visual_description": "Daisy floats above the water peering down with squinted curious eyes. A large round gray shadow slowly rises from below. Marina the manatee surfaces with a gentle splash, big round eyes blinking sweetly, a soft wide smile on her face. She waves a large flat flipper at Daisy. Daisy gasps and does a happy loop-de-loop in the air. Marina bobs gently in the water, sea grass floating around her. Close-up on Marina's friendly wrinkled face and whiskery snout. Daisy lands carefully on Marina's back, red scarf blowing in the breeze.",
+      "sound_effects": [
+        "soft underwater bubble sounds",
+        "gentle water splash",
+        "Daisy gasp sound",
+        "happy warm guitar strum",
+        "manatee low gentle hum"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Marina, what is it like living in the OCEAN? ... Oh Daisy, I love it here! Here is something cool \u2014 manatees eat PLANTS! Sea grass and water plants! Munch, munch, munch! ... PLANTS? YOU eat plants, Marina? ... Yes! Manatees only eat plants. We are very gentle! See me munch? Munch munch munch! ... Hehe, I love that! What else? ... Manatees are MAMMALS, just like dogs and cats! We breathe AIR! Watch me come up for a big breath! ... WHOA! You breathe AIR! In the OCEAN! That is so COOL! ... And one more thing, Daisy! Manatees move very, very SLOW. Slow and peaceful. We like to float and rest. So calm! ... Slow and peaceful! I like that, Marina! The ocean is your cozy home!",
+      "visual_description": "Scene 1: Marina dips her snout below and munches happily on a big patch of green sea grass. Animated chewing motion with little plant pieces floating. Text bubble shows a picture of sea grass. Scene 2: Marina rises to the surface and takes a big breath of air, nostrils flaring open wide. Daisy watches in amazement hovering close. Bubbles float up. A little animation shows lungs filling with air next to Marina. Scene 3: Marina does a very slow, graceful spin in the water. She floats on her back peacefully. Daisy tries to flap as slowly as possible in the air beside her and nearly falls, then laughs. Both characters giggle together. Animated captions pop up: PLANTS, MAMMAL, BREATHE AIR, SLOW AND PEACEFUL.",
+      "sound_effects": [
+        "gentle munching sound",
+        "soft underwater ambience",
+        "big breath in exhale sound",
+        "Daisy giggle",
+        "slow peaceful xylophone melody",
+        "gentle water ripple"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh! Suddenly Daisy saw something. A little piece of fishing net was tangled around a clump of sea grass near Marina! ... Oh no! Marina, look! That net is trapping the sea grass! Your FOOD is stuck! ... Oh dear! I cannot reach it easily. I move too slow! Can you help me, Daisy? ... YES! I can help! I am small and quick! I will use my beak! ... Daisy pecked and pecked at the net. Carefully, carefully... Got it! The sea grass is FREE! ... Hooray, Daisy! You used YOUR special skill to help me! Thank you, friend! ... We make a great team, Marina! You taught ME things and I helped YOU too! That is what friends do!",
+      "visual_description": "Camera pans to show a knotted piece of old netting tangled around a large bunch of green sea grass near the ocean floor in shallow water. Marina looks worried, her big eyes going wide and sad. Daisy sees it and swoops down determinedly, red scarf flying back heroically. Close-up of Daisy pecking carefully and precisely at the netting with a focused expression. Each peck loosens the net a little more. Finally the net floats away and the sea grass springs upright swaying freely. Marina does a happy slow spin, flippers wide open. Daisy lands on Marina's head triumphantly. Both smile at each other warmly. Soft golden light glows around them.",
+      "sound_effects": [
+        "worried low hum",
+        "determined Daisy wings flapping",
+        "pecking beak sounds",
+        "net snap sound",
+        "happy chime when free",
+        "victory fanfare sting",
+        "ocean waves happy"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow, friends! Today I learned SO much! Manatees live in the OCEAN! They eat PLANTS \u2014 munch munch! They are MAMMALS who breathe AIR! And they are slow, gentle, and peaceful! Manatees are sometimes called gentle giants! Because they are SO big but SO kind! Just like my friend Marina! ... And I learned something too, Daisy! Even someone small can be a BIG helper! ... That is RIGHT! Big or small, we ALL have something special to give! Friends help friends! I love you, Marina! ... I love you too, Daisy! Come back and visit the ocean anytime!",
+      "visual_description": "Daisy floats in the air in front of the camera and holds up one tiny wing for each fact. Animated recap panels pop up in bright colorful bubbles around Daisy: sea grass with a bite taken out, a manatee nose above water with air puffs, a manatee floating slowly with Zzz bubbles, a heart between a small bird and a big manatee. Marina and Daisy share a warm nuzzle \u2014 Marina pressing her big round face gently to Daisy who hugs Marina's snout. Warm golden sunset light begins to glow across the ocean. Soft sparkles drift around both characters.",
+      "sound_effects": [
+        "soft recap xylophone notes",
+        "warm string swell",
+        "hug squish sound",
+        "gentle ocean waves",
+        "birds singing softly"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Bye bye, Marina! I will miss you! ... Bye Daisy! Come back soon! ... Okay friends! It is time for me to fly! If YOU loved the ocean and Marina today, give this video a big thumbs up! And SUBSCRIBE so you never miss my next adventure! ... NEXT TIME \u2014 I am flying somewhere VERY cold and snowy! Brrrrr! Where do YOU think I am going? Tell me in the comments! Wings up, FRIENDS!",
+      "visual_description": "Daisy waves a tiny wing at Marina who waves a big flipper from the water. Marina slowly sinks back into the sparkling ocean with one last blink and a happy smile. Daisy flies upward into the bright blue sky, red scarf trailing behind. Daisy turns to face the camera directly, hovering, and taps the subscribe button that appears as a big animated bell in the corner. Daisy does the signature wing-up pose with both wings raised high. Snow and ice flicker briefly as a teaser in a small sparkly portal beside Daisy. Daisy winks and zooms off into the horizon. End card appears with show logo.",
+      "sound_effects": [
+        "goodbye wave music",
+        "splash as Marina submerges",
+        "upbeat outro jingle",
+        "subscribe bell ding",
+        "wind whoosh as Daisy flies away",
+        "cheerful ending chord"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Manatees live in warm shallow ocean water and love sea grass habitats",
+    "Manatees are herbivores \u2014 they only eat plants like sea grass and water plants",
+    "Manatees are mammals, which means they breathe air and must come to the surface to breathe",
+    "Manatees move very slowly and are known for being gentle and peaceful",
+    "Manatees are sometimes called gentle giants because they are large but very kind and calm"
+  ],
+  "moral": "Big or small, everyone has something special to give \u2014 and friends always help each other.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold and snowy \u2014 bundling up for an Arctic adventure!",
+  "total_duration_seconds": 225
+}

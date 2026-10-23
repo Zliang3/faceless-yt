@@ -1,0 +1,221 @@
+{
+  "episode_number": 78,
+  "biome": "Ocean",
+  "guest_animal": "Jellyfish",
+  "title": "Daisy Meets the Glowing Jellyfish! \ud83c\udf0a\u2728",
+  "description": "Join Daisy the bluebird as he dives into the sparkling ocean and meets a glowing jellyfish friend! \ud83e\udebc\ud83d\udc99 Learn amazing facts about jellyfish and the ocean \u2014 and help Daisy and his new friend solve a fun problem together! \ud83c\udf0a\u2728 Perfect for curious little explorers ages 1-6!",
+  "tags": [
+    "kids",
+    "ocean",
+    "jellyfish",
+    "biome",
+    "animals",
+    "educational",
+    "toddlers",
+    "preschool",
+    "Daisy the bird",
+    "underwater",
+    "nature for kids",
+    "animated",
+    "learning",
+    "sea animals",
+    "glow"
+  ],
+  "thumbnail_prompt": "Cute cartoon bluebird named Daisy wearing a tiny red scarf, floating on a glowing ocean surface at night, face-to-face with a friendly smiling pink glowing jellyfish with big sparkly eyes, surrounded by soft blue-green bioluminescent light, bright bubbles, colorful coral in background, vibrant saturated colors, child-friendly illustration style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi hi HI! Today I am flying somewhere BIG and blue and WET! Can YOU guess where I am going? Hmmmm?",
+      "visual_description": "Daisy the bluebird bursts onto screen from the left with a big swoosh, tiny red scarf flapping wildly. Bright blue color burst fills the background. Daisy flaps wings excitedly and winks at the camera. Sparkling water droplets pop around the frame. Big energetic entrance with swirling blues and greens.",
+      "sound_effects": [
+        "whoosh swoop",
+        "upbeat cheerful jingle",
+        "water splash twinkle",
+        "kid giggle"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "WHOA! Look at that! It is the OCEAN! The ocean! SO much water! The ocean is big \u2014 really, REALLY big! It is salty and deep and full of life! Can you say OCEAN? Say it with me \u2014 O-CEAN! Yay!",
+      "visual_description": "Daisy swoops down and hovers just above a vast sparkling blue ocean. Gentle waves shimmer in bright sunshine. Camera pans wide to show the enormous blue horizon. Little fish jump playfully below the surface. Daisy's eyes go wide and sparkly with amazement. Sunlight glitters on the water. Bright, warm, inviting palette.",
+      "sound_effects": [
+        "ocean waves gentle",
+        "seagull call",
+        "magical shimmer chime",
+        "cheerful background music swell"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:15",
+      "end_time": "0:25",
+      "narration": "The ocean covers most of our whole Earth! Wow wow WOW! It is deep and cold down below. And warm and bright up top! The ocean is amazing!",
+      "visual_description": "Split visual \u2014 top half shows sunny bright ocean surface with Daisy hovering. Bottom half reveals a glowing underwater world \u2014 colorful fish, coral, soft blue light filtering down. Daisy peeks over the water edge looking down with big curious eyes. Bubbles float upward.",
+      "sound_effects": [
+        "deep underwater hum",
+        "soft wonder chime",
+        "bubble pop sounds"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Ooooh! What is THAT? Something is glowing down there! It is pink and floaty and \u2014 OH! Hello there! Who are YOU? Wow, you are SO pretty!",
+      "visual_description": "Daisy spots a soft pink glow beneath the water surface. Camera zooms in \u2014 a friendly cartoon jellyfish with big shiny eyes and a sweet smile floats up slowly. The jellyfish pulses gently, trailing long soft tentacles. Bioluminescent glow pulses pink and purple. Daisy gasps with delight, leaning forward.",
+      "sound_effects": [
+        "soft magical glow hum",
+        "gentle bloop underwater sound",
+        "surprise gasp",
+        "warm friendly music sting"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:38",
+      "end_time": "1:00",
+      "narration": "The jellyfish giggles softly. She says \u2014 Hi little bird! My name is Jelly! I live here in the ocean! Welcome! Daisy says \u2014 WOW Jelly! You GLOW! How do you DO that?!",
+      "visual_description": "Jelly the jellyfish bounces happily, her bell pulsing with a soft pink-purple glow. Little sparkle bursts pop around her. Daisy flutters wings with huge excitement, nearly falling into the water. Jelly laughs \u2014 shown with wavy lines and musical notes floating up. Both characters face each other warmly. Bubbles float between them.",
+      "sound_effects": [
+        "soft giggle",
+        "gentle plop water sound",
+        "cheerful warm music",
+        "sparkle twinkle"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Jelly says \u2014 I glow because of something inside me! Some jellyfish make their OWN light! It is called bioluminescence! Bio-lumi-NES-cence! Say it slow \u2014 bio \u2014 lumi \u2014 nescence! It helps me in the dark deep ocean!",
+      "visual_description": "Close-up on Jelly's glowing body. Animated diagram shows tiny glowing cells lighting up inside her bell \u2014 shown as little cartoon light bulbs switching on. The ocean darkens around her and Jelly glows brighter like a little lantern. Daisy watches with mouth wide open. Caption word 'BIOLUMINESCENCE' pops on screen in bubbly letters.",
+      "sound_effects": [
+        "light switch click sound",
+        "magical shimmer",
+        "soft underwater ambience",
+        "wonder musical sting"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:20",
+      "end_time": "2:00",
+      "narration": "And look at Jelly move! She goes SQUISH \u2014 and floats up! SQUISH \u2014 and floats up! Jelly has no bones! No bones at ALL! She is soft all over! Jellyfish are soft and squishy! Squish squish squish!",
+      "visual_description": "Jelly demonstrates her movement \u2014 her bell squishes down then expands, propelling her upward in slow pulses. Cute cartoon squish animation with bouncy sound. Daisy tries to copy by squishing \u2014 fails adorably and tumbles sideways. Both laugh. X-ray style pop-up shows a jellyfish body with NO bones \u2014 just a smiley soft blob. Text: 'NO BONES!' pops up.",
+      "sound_effects": [
+        "squishy squish sound effect",
+        "boing bounce",
+        "Daisy tumble flap",
+        "happy laughter",
+        "bubbly music"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:42",
+      "end_time": "2:00",
+      "narration": "Jelly says \u2014 I also have no brain! And no heart! But I am still GREAT at finding food! I use my long arms \u2014 my tentacles \u2014 to catch tiny snacks in the water! Cool, right?",
+      "visual_description": "Jelly wiggles her long trailing tentacles playfully. Tiny cartoon plankton float by and Jelly's tentacles gently scoop them up \u2014 shown in a friendly, cute, non-scary way like catching butterflies. Pop-up labels point to 'TENTACLES' and 'NO BRAIN \u2014 NO HEART' with little cartoon hearts and brain icons crossed with friendly X marks. Daisy scratches head in amazement.",
+      "sound_effects": [
+        "gentle swoosh tentacle wave",
+        "nom nom cute eating sound",
+        "boing pop for labels",
+        "curious wondering music"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Daisy looks around. The sky is getting DARK! Oh! Daisy cannot see! It is too dark out here! Daisy says \u2014 Jelly! I am a little scared! I cannot see my way home!",
+      "visual_description": "The ocean scene dims \u2014 sun sets quickly behind the horizon, sky turns deep blue-purple. Daisy flutters nervously, eyes wide, wings hugging self. Little wobble lines show Daisy feeling unsure. Stars begin to appear. Jelly notices and swims up closer, expression soft and caring. Gentle dramatic but NOT scary lighting \u2014 more like cozy twilight.",
+      "sound_effects": [
+        "whoosh of wind",
+        "soft nighttime cricket chirp",
+        "nervous flutter wings",
+        "soft worried music sting"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:15",
+      "end_time": "2:40",
+      "narration": "Jelly smiles and says \u2014 Do not worry, Daisy! I can GLOW for you! Watch! And Jelly lights up \u2014 BRIGHT and beautiful! Daisy says \u2014 WOW! Your light helps me SEE! Bioluminescence helps US!",
+      "visual_description": "Jelly takes a big breath and pulses with a brilliant warm pink-white glow \u2014 lighting up the area around them like a gentle nightlight. Daisy's face goes from worried to AMAZED \u2014 eyes sparkle, wings spread with joy. The ocean around them glimmers beautifully. Daisy can now clearly see the way. Magical, warm, safe feeling. Stars twinkle above.",
+      "sound_effects": [
+        "magical glow whoosh",
+        "soft gasp of wonder",
+        "triumphant warm music sting",
+        "sparkle chime burst"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Daisy says \u2014 WOW! I learned so much today! Jellyfish live in the ocean! They are soft \u2014 no bones! They have tentacles to catch food! And some jellyfish GLOW! That glow is called bioluminescence! Say it one more time \u2014 bioluminescence! Great job, friends!",
+      "visual_description": "Daisy floats happily above the glowing ocean at night. Recap cards pop up one by one \u2014 cute illustrated cards showing: 1) Ocean waves, 2) Squishy jellyfish with 'NO BONES', 3) Tentacles catching food, 4) Jelly glowing in the dark with the word 'BIOLUMINESCENCE'. Each card bounces in with a cheerful pop. Daisy points to each one proudly.",
+      "sound_effects": [
+        "pop sound for each card",
+        "cheerful learning music",
+        "chime sparkle",
+        "clapping sound"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:05",
+      "end_time": "3:20",
+      "narration": "And the most important thing? Jelly helped Daisy when it was dark and scary! Good friends help each other! Daisy and Jelly are friends \u2014 different but kind!",
+      "visual_description": "Daisy and Jelly face each other. Daisy reaches out a wing and Jelly gently bops it with her bell \u2014 a sweet high-five moment. Big animated heart bursts between them. Warm golden light. Both smiling big. Daisy's red scarf flutters in the gentle breeze. Bubbles float upward around them like confetti.",
+      "sound_effects": [
+        "warm friendship music swell",
+        "heart pop sound",
+        "cheerful chime",
+        "soft ocean wave"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Daisy waves a wing. Goodbye Jelly! I will miss you! Jelly glows and waves her tentacles. Goodbye Daisy! Come back soon! Daisy turns to the camera \u2014 Wings up, FRIENDS! See you next time!",
+      "visual_description": "Daisy hugs Jelly one last time \u2014 Jelly glows extra bright during the hug. Then Daisy launches upward into the starry night sky, red scarf trailing behind. Jelly waves with her tentacles from below, glowing softly. Daisy shrinks into the distance as a tiny blue speck with a red scarf. Beautiful starry ocean sky.",
+      "sound_effects": [
+        "hug squish sound",
+        "whoosh takeoff",
+        "waving tentacle wobbly sound",
+        "cheerful goodbye music"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:38",
+      "end_time": "3:55",
+      "narration": "Next time I am flying somewhere SUPER cold and white! Brrrr! Can YOU guess where I am going? And hey \u2014 if you liked flying with me today, hit that subscribe button! Do it do it DO IT! See you next time, friends! Wings UP!",
+      "visual_description": "Daisy pops back into frame close-up, red scarf now dusted with a little snowflake \u2014 teasing next episode. Daisy shivers and grins at the camera. Big colorful SUBSCRIBE button bounces on screen with a cartoon hand pressing it. Daisy does final big wing wave. Screen fades with Daisy flying into a glowing horizon. End card with show logo.",
+      "sound_effects": [
+        "brrr shiver sound",
+        "snowflake sparkle chime",
+        "subscribe button boing",
+        "final cheerful theme music",
+        "crowd cheer kids sounds"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Some jellyfish can make their own light \u2014 this is called bioluminescence",
+    "Jellyfish have no bones \u2014 they are soft and squishy all over",
+    "Jellyfish have no brain and no heart",
+    "Jellyfish use their tentacles to catch tiny food in the water",
+    "The ocean covers most of the Earth and is very deep",
+    "Jellyfish move by squishing their bell to push through water"
+  ],
+  "moral": "Good friends help each other \u2014 even in the dark, kindness lights the way.",
+  "next_episode_tease": "Next time Daisy flies somewhere SUPER cold and white \u2014 bundle up for the Arctic tundra!",
+  "total_duration_seconds": 235
+}

@@ -1,0 +1,178 @@
+{
+  "episode_number": 83,
+  "biome": "Desert",
+  "guest_animal": "Roadrunner",
+  "title": "Daisy Meets the Roadrunner! \ud83c\udfdc\ufe0f Desert Adventure",
+  "description": "Join Daisy the bluebird as he zooms into the hot, sandy desert! \ud83c\udfdc\ufe0f Today Daisy meets a super speedy new friend \u2014 the roadrunner! \ud83d\udc26 Together they explore the amazing desert and learn some really cool facts! \ud83c\udf35",
+  "tags": [
+    "kids",
+    "desert",
+    "roadrunner",
+    "animals for kids",
+    "biome",
+    "nature for kids",
+    "pip the bluebird",
+    "educational",
+    "preschool",
+    "kindergarten",
+    "animated",
+    "birds",
+    "wildlife"
+  ],
+  "thumbnail_prompt": "Daisy the small bluebird wearing a tiny red scarf stands next to a tall brown roadrunner in a bright sunny desert landscape. Giant saguaro cacti tower behind them. The sand is golden and warm. Daisy looks amazed and happy. The roadrunner is mid-stride looking speedy and cool. Bright blue sky with a blazing yellow sun. Vivid, colorful, cartoon style for kids.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! Hi! Hi! Today I am flying somewhere SUPER hot! It is sandy and dry and BIG! Can YOU guess where I am going? I think you can!",
+      "visual_description": "Daisy the small bluebird swoops into frame wearing his tiny red scarf. He does a big looping swoop across a bright white sky. A burst of orange and yellow colors explodes behind him like a sunburst. Daisy looks directly at camera with big excited eyes. Fast, bouncy animation.",
+      "sound_effects": [
+        "swoosh of wings",
+        "upbeat xylophone jingle",
+        "sun sizzle sound effect",
+        "sparkle chime"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoooooa! Look at that! SO much sand! It is HOT! It is DRY! This is the DESERT! The desert! Can you say that? DES-ERT! The desert is so big and sunny and warm, warm, WARM!",
+      "visual_description": "Daisy flies over a rolling landscape of golden sand dunes. Giant saguaro cacti appear below him. A bright blazing sun sits high in a deep blue sky. Heat shimmer ripples rise from the sand. Daisy lands on top of a round red rock and fans his wings dramatically from the heat. Camera pans wide to show the enormous beautiful desert stretching to the horizon.",
+      "sound_effects": [
+        "desert wind whoosh",
+        "cicada buzzing",
+        "gentle marimba background music",
+        "Daisy landing sound soft thud"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Wow, it is SO hot here! I wonder who lives in this desert. Wait \u2014 what was THAT?! Something zoomed past me REALLY fast! There it goes again! Oh my goodness! Hello? Hello friend! Who ARE you?! Wow, look at those long legs! And that big tail! You are so cool!",
+      "visual_description": "Daisy is standing on the red rock looking around curiously. Suddenly a brown and white blur ZOOMS past him kicking up a little dust cloud. Daisy spins around surprised. The blur zooms past again even faster. Then it stops suddenly right in front of Daisy. It is a tall lean roadrunner with speckled brown and white feathers, a long tail held up high, a small crest of feathers on his head, and long powerful legs. He has friendly big eyes. He grins at Daisy. Daisy's mouth drops open in amazement.",
+      "sound_effects": [
+        "zoom whoosh sound",
+        "dust poof sound",
+        "record scratch stop sound",
+        "cheerful plucky guitar strum"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "The roadrunner said \u2014 Hi there little bird! My name is Rio! I am a ROADRUNNER! I LOVE the desert! It is my favorite place in the whole world!",
+      "visual_description": "The roadrunner named Rio does a happy little skip and his crest feathers pop up on top of his head with excitement. He spreads his wings slightly and grins a big friendly grin. Daisy smiles back warmly, his red scarf fluttering in the hot desert breeze. They are now standing together on the golden sand beside a tall cactus.",
+      "sound_effects": [
+        "friendly boing sound",
+        "soft desert wind",
+        "warm cheerful ukulele note"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:10",
+      "end_time": "2:00",
+      "narration": "Daisy asked \u2014 Rio, how do you live here? It is SO hot! Rio said \u2014 Great question! First \u2014 I can RUN super fast! Really, really FAST! Roadrunners run on the ground! We can run up to 20 miles per hour! That is ZOOM fast! Watch THIS!",
+      "visual_description": "Rio crouches down low with a big grin and then ZOOMS across the sand in a straight line leaving a trail of dust. A speed-line animation follows him. Numbers showing 20 appear in fun bold cartoon font briefly. Daisy watches with his beak hanging open. Rio zooms back and skids to a stop right next to Daisy. His tail bobs up and down. Daisy tries to run fast too but his little legs go comically fast and he barely moves.",
+      "sound_effects": [
+        "running zoom whoosh",
+        "dust cloud poof",
+        "speedy cartoon running sound",
+        "Daisy's tiny running feet pattering",
+        "boing stop sound"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "2:00",
+      "end_time": "2:25",
+      "narration": "WOW that is so fast! What else Rio? Rio said \u2014 I eat lizards and bugs and seeds! Lots of yummy things live in the desert! The desert has LOTS of food if you know where to look! See this little bug? Yummy!",
+      "visual_description": "Rio walks slowly and carefully along the sand, peering left and right with sharp eyes. He spots a cartoon beetle near a rock. He pounces quickly and picks it up in his beak happily. Daisy watches with big curious eyes. The camera shows a close-up of the desert floor revealing small cartoon lizards, beetles, and seeds near rocks and cacti. Everything looks friendly and cute, not scary.",
+      "sound_effects": [
+        "soft sneaky music",
+        "pounce sound effect",
+        "happy munch sound",
+        "cheerful chime"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "2:25",
+      "end_time": "2:45",
+      "narration": "Ooooh! And Rio \u2014 do you FLY? Rio said \u2014 A little bit! But I like to RUN more! Roadrunners have wings but our LEGS are super strong! Strong legs help us zoom across the desert sand! That is so cool!",
+      "visual_description": "Rio flaps his wings and hops up onto a low rock showing he can do a short flutter-flight. Then he hops back down and does a proud little tap dance with his powerful legs on the sand. Daisy flaps his own wings and flies in a little circle above Rio. They both laugh and smile together. A fun graphic briefly shows a cartoon roadrunner leg with a small glowing muscle symbol.",
+      "sound_effects": [
+        "wing flap sound",
+        "happy boing boing",
+        "tap tap of feet on ground",
+        "giggling kids laughter sound"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:45",
+      "end_time": "3:20",
+      "narration": "Then \u2014 uh oh! Daisy looked down. OH NO! His little red scarf blew away in the wind! The desert wind took it! Oh no, oh no! Daisy said \u2014 My scarf! I LOVE my scarf! Rio said \u2014 Do not worry friend! I will HELP you! Ready? Watch how fast I am!",
+      "visual_description": "A sudden warm desert breeze kicks up a small swirl of sand. Daisy's tiny red scarf lifts right off his neck and tumbles and rolls across the sand, getting caught near the base of a cactus about 20 yards away. Daisy's eyes go wide and worried. He starts flapping after it but it is rolling too fast. Rio crouches into a running stance, his crest feathers rising with determination. His eyes lock on the red scarf.",
+      "sound_effects": [
+        "desert wind gust sound",
+        "dramatic short sting music",
+        "sad little chime",
+        "determined drumbeat buildup"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "3:20",
+      "end_time": "3:40",
+      "narration": "Rio ZOOMED across the sand! Fast as the wind! He grabbed the red scarf just before it blew away! He ran all the way back and gave it to Daisy! Daisy said \u2014 You saved my scarf! THANK YOU Rio! Rio said \u2014 That is what friends are FOR!",
+      "visual_description": "Rio explodes forward in a burst of speed, dust trails behind him, zoom lines everywhere. He snatches the red scarf from near the cactus right before another gust could take it further. He sprints back and gently places the scarf around Daisy's neck with his beak. Daisy's whole face lights up with relief and joy. Rio smiles proudly and bobs his tail. They both do a happy little jump together.",
+      "sound_effects": [
+        "zoom whoosh",
+        "triumphant little fanfare",
+        "happy sparkle chime",
+        "upbeat celebratory music burst"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:40",
+      "end_time": "4:05",
+      "narration": "Daisy gave Rio a big hug! Today Daisy learned SO much! The desert is hot and dry and amazing! Roadrunners can run super fast \u2014 20 miles per hour! They run on the ground with their strong legs! And they eat bugs and lizards and seeds! The desert has food everywhere! And the BEST thing Daisy learned today? Friends help each other! That is the BEST feeling!",
+      "visual_description": "Daisy hugs Rio around his long neck warmly. Rio wraps a wing around little Daisy. They are surrounded by golden desert light, tall cacti, and a warm glowing sunset beginning to color the sky orange and pink. Small animated recap icons appear briefly one at a time \u2014 a cartoon roadrunner running, a strong leg, a beetle, a seed \u2014 each with a soft glow. Then they fade and we see Daisy and Rio smiling together.",
+      "sound_effects": [
+        "warm soft music swell",
+        "heart chime sound",
+        "gentle desert breeze",
+        "soft happy ukulele melody"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "4:05",
+      "end_time": "4:20",
+      "narration": "Daisy said \u2014 Goodbye Rio! Thank you for showing me the AMAZING desert! Rio said \u2014 Come back anytime fast friend! Daisy laughed and said \u2014 WINGS UP, FRIENDS! If you loved the desert \u2014 give this video a big thumbs up! And SUBSCRIBE so you never miss our next adventure! See you next time!",
+      "visual_description": "Daisy waves his little wing at Rio who waves back with a big grin and bobs his long tail. Daisy jumps into the air and flies upward in a big happy spiral. Rio watches from below giving a thumbs up gesture with his wing. The desert glows beautifully in warm sunset colors. Daisy flies toward the camera getting closer and closer then zooms past with a whoosh. A subscribe button animation pops up in the corner. Cut to black with the show logo.",
+      "sound_effects": [
+        "big whoosh of wings",
+        "cheerful outro jingle",
+        "subscribe bell ding",
+        "Rio calling out a friendly goodbye chirp"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Roadrunners live in the desert and love the hot dry environment",
+    "Roadrunners can run at speeds of up to 20 miles per hour",
+    "Roadrunners prefer running on the ground over flying because their legs are very strong",
+    "Roadrunners eat lizards, insects, and seeds found in the desert",
+    "The desert may look empty but it has lots of food and life if you know where to look"
+  ],
+  "moral": "True friends use their special talents to help each other when it matters most.",
+  "next_episode_tease": "Next time Daisy is flying somewhere VERY cold and icy! Brrr! Where do YOU think he is going? Tell us in the comments!",
+  "total_duration_seconds": 260
+}

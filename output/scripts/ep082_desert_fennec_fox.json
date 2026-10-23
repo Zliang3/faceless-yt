@@ -1,0 +1,190 @@
+{
+  "episode_number": 82,
+  "biome": "Desert",
+  "guest_animal": "Fennec Fox",
+  "title": "Daisy Meets the Fennec Fox! \ud83e\udd8a A Desert Adventure",
+  "description": "Join Daisy the bluebird as he flies into the hot, sandy desert and meets the CUTEST little fox with the BIGGEST ears! \ud83e\udd8a\ud83c\udfdc\ufe0f Learn amazing facts about the desert and the fennec fox in this fun adventure! \ud83c\udf35\u2728",
+  "tags": [
+    "kids",
+    "desert",
+    "fennec fox",
+    "biome",
+    "animals",
+    "learning",
+    "pip the bird",
+    "educational",
+    "toddlers",
+    "preschool",
+    "cute animals",
+    "wildlife",
+    "nature for kids",
+    "bluebird"
+  ],
+  "thumbnail_prompt": "Bright sunny desert scene with golden sand dunes and a blue sky, featuring Daisy the small bluebird wearing a tiny red scarf perched next to an adorable wide-eyed fennec fox with enormous ears, cartoon style, vibrant colors, cactus in background, warm orange and yellow tones, cheerful and inviting, kids animated style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi there! Today I am flying somewhere VERY hot! And VERY sandy! Can YOU guess where I am going? Let's find out!",
+      "visual_description": "Daisy the small bluebird swoops into frame from the left wearing his tiny red scarf, a big burst of warm yellow and orange light fills the screen behind him, he flaps his wings excitedly and looks straight at the viewer with wide curious eyes, sandy particles swirl around him",
+      "sound_effects": [
+        "upbeat whoosh sound",
+        "cheerful music sting",
+        "sand swirling sound"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all that sand! This is the DESERT! The desert! Wow! It is so hot, hot, hot here! And SO dry! There is sand everywhere I look! This is the desert, friends!",
+      "visual_description": "Wide cinematic reveal of a vast golden desert with tall sand dunes, a bright blazing sun high in the sky, a few green cacti dotting the landscape, heat waves shimmering off the ground, Daisy lands on top of a small sandy dune and fans himself with one wing looking amazed, pan across the landscape slowly",
+      "sound_effects": [
+        "desert wind ambience",
+        "soft sand settling sound",
+        "upbeat wonder music"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! What is that I see? Two BIG ears behind that cactus! Hi there! Who are YOU? Oh WOW! Look at those ears! They are HUGE! So cute! Hello! I am Daisy! What is your name?",
+      "visual_description": "Daisy hops curiously toward a tall cactus, two enormous round ears peek out from behind it, a tiny adorable fennec fox with huge ears, big brown eyes, and fluffy cream-colored fur steps out shyly then smiles warmly, the fennec fox waves a tiny paw at Daisy, they stand face to face",
+      "sound_effects": [
+        "playful curiosity music",
+        "soft cute animal sound",
+        "gentle giggle sound effect"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "My name is FENN! I am a fennec fox! I live right here in the desert! Welcome, Daisy! I am so happy you came!",
+      "visual_description": "The fennec fox named Fenn stands tall and proud in the desert sand, pointing to himself with a big smile, his giant ears wiggle happily, Daisy claps his little wings together with delight, bright warm colors fill the scene",
+      "sound_effects": [
+        "happy chime sound",
+        "light cheerful music"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Fenn, why are your ears so BIG? Ooh great question, Daisy! My big ears help me HEAR things far away! Far, far away! And my big ears keep me cool! Cool in the hot desert! Big ears are the BEST in the desert!",
+      "visual_description": "Fenn cups his enormous ears forward and tilts his head, animated sound waves ripple out from his ears showing him hearing distant sounds like a beetle walking under the sand, then a glowing cool breeze visually flows through his ears shown with light blue swirling lines, Daisy stares in awe with his beak wide open",
+      "sound_effects": [
+        "deep listening sound effect",
+        "cool breeze whoosh",
+        "wow musical sting"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:20",
+      "end_time": "1:40",
+      "narration": "Fenn, how do you walk on all this hot sand? Watch my feet, Daisy! My paws are furry on the bottom! Furry paws! The fur keeps my feet safe on the HOT sand! Like little boots! Furry boot paws!",
+      "visual_description": "Fenn lifts one fluffy paw toward the camera showing thick fur on the bottom, close-up shot of the furry paw, then Fenn trots easily across the glowing hot sand while Daisy hops and lifts his feet quickly from the heat, Daisy looks at his own bare bird feet with a surprised expression",
+      "sound_effects": [
+        "soft pattering paw steps",
+        "sizzling sand sound",
+        "playful bouncy music"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:40",
+      "end_time": "2:00",
+      "narration": "Fenn, when do you sleep? I sleep in the DAY, Daisy! The day is too hot! I come out at NIGHT when it is cooler! Cooler at night! I love the cool night desert!",
+      "visual_description": "A split screen shows daytime with blazing sun and Fenn curled up asleep in a cozy underground burrow on the left, and nighttime with a big moon and twinkling stars and Fenn happily trotting through the silver-lit sand on the right, Daisy looks back and forth between both sides with wide eyes",
+      "sound_effects": [
+        "daytime crickets sound",
+        "nighttime desert ambience",
+        "twinkling star chime sound"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! Fenn's favorite toy ball has rolled far away! It is stuck behind a big rock! Fenn cannot reach it! His arms are too short! Can YOU help us think? Hmm! Wait! Daisy has an idea!",
+      "visual_description": "A small round toy ball rolls across the sand and gets wedged tightly behind a large boulder, Fenn runs after it and stretches his little arms but cannot reach it, he looks sad with his big ears drooping, Daisy tilts his head thinking hard with a little thought bubble showing a plan",
+      "sound_effects": [
+        "rolling ball sound",
+        "sad soft music sting",
+        "thinking music hum"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:40",
+      "end_time": "3:00",
+      "narration": "Fenn, use your BIG ears to listen! Where is it exactly? Fenn listened with his big ears! He heard exactly where the ball was! Then Daisy flew up high and nudged the ball free! They did it TOGETHER!",
+      "visual_description": "Fenn presses his giant ears toward the rock and closes his eyes concentrating, animated sound-wave rings pulse from his ears to the ball, he points to the exact spot, Daisy flies up above the boulder and gives the ball a gentle nudge with his wing, the ball pops out and rolls to Fenn who catches it happily, both cheer",
+      "sound_effects": [
+        "sound wave pulse effect",
+        "joyful pop sound",
+        "celebratory cheer and music"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:00",
+      "end_time": "3:20",
+      "narration": "Wow! Today I learned SO much! Fennec foxes have BIG ears to hear and stay cool! Their furry paws walk on hot sand! And they come out at NIGHT! The desert is an amazing home! Every home is special!",
+      "visual_description": "Daisy stands next to Fenn in the golden desert, a soft glowing recap appears as small illustrated icons float above them: big ears with sound waves, furry paws, a moon and stars, Daisy taps each icon with his wing, both characters smile warmly at the viewer",
+      "sound_effects": [
+        "warm recap music",
+        "gentle chime for each fact"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:20",
+      "end_time": "3:30",
+      "narration": "Fenn is so smart! And SO kind! I am so glad I found a new friend today! Friends are the BEST! Even in the hot, hot desert!",
+      "visual_description": "Daisy and Fenn share a big warm hug, Fenn's huge ears wrap around Daisy like a cozy blanket, both laugh, the desert glows with warm golden light around them, little sparkles float in the air",
+      "sound_effects": [
+        "heartwarming music swell",
+        "soft giggle sounds",
+        "sparkle chime"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:30",
+      "end_time": "3:50",
+      "narration": "Goodbye Fenn! See you next time! Bye Daisy! Come back soon! Wings up, friends! If you liked this adventure, press the subscribe button right NOW! Can you press it? We need YOUR help!",
+      "visual_description": "Daisy waves his wing goodbye to Fenn who waves back enthusiastically with both paws and wiggles his big ears, Daisy leaps into the air and begins flying away, a bright animated subscribe button bounces on screen, Daisy points to it with a wink",
+      "sound_effects": [
+        "goodbye wave sound",
+        "bouncy subscribe button pop",
+        "cheerful send-off music"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:50",
+      "end_time": "4:00",
+      "narration": "Next time I am flying somewhere VERY cold and VERY snowy! Where do YOU think I am going? Leave your answer below! Wings up, friends! See you soon!",
+      "visual_description": "Daisy flies off into a bright sunny sky, the desert shrinks below him, then the screen transitions to a quick teaser showing a snowy icy landscape with a question mark over it, Daisy peeks at the viewer with a big excited grin, his red scarf flutters in the wind",
+      "sound_effects": [
+        "flying whoosh sound",
+        "icy wind tease sound effect",
+        "outro music sting"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Fennec foxes have very large ears that help them hear prey moving underground from far away",
+    "Fennec fox ears also help release body heat to keep them cool in the hot desert",
+    "Fennec foxes have thick fur on the bottom of their paws to protect them from hot desert sand",
+    "Fennec foxes sleep during the hot daytime and come out at night when it is cooler",
+    "Fennec foxes live in the desert biome which is very hot and dry"
+  ],
+  "moral": "Every animal has special gifts that help them thrive in their home, and friends can achieve more by working together.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold and snowy \u2014 bundle up for a brand new biome adventure!",
+  "total_duration_seconds": 240
+}

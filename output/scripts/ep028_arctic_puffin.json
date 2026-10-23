@@ -1,0 +1,135 @@
+{
+  "episode_number": 28,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Atlantic Puffin",
+  "title": "Daisy Meets the Puffin! \u2744\ufe0f Arctic Adventure",
+  "description": "\ud83d\udc26 Daisy the bluebird flies to the freezing Arctic and meets a colorful puffin named Percy! \ud83d\udc27\u2744\ufe0f Together they discover how puffins survive the cold, dive for fish, and make cozy burrows. A fun, icy adventure full of friendship and cool facts! \ud83c\udf0a",
+  "tags": [
+    "kids",
+    "arctic",
+    "puffin",
+    "biome",
+    "animals",
+    "educational",
+    "preschool",
+    "toddler",
+    "nature",
+    "birds",
+    "ocean",
+    "tundra",
+    "pip the bird",
+    "animated",
+    "learning"
+  ],
+  "thumbnail_prompt": "Bright digital cartoon illustration: Daisy the small bluebird wearing a tiny red scarf stands on an icy Arctic cliff next to a cheerful Atlantic puffin with a colorful orange-and-yellow beak. Northern lights glow green and purple in the sky behind them. Icy ocean waves below. Bold, saturated colors. Kids animated style. Wide smile on both characters. Snow sparkles in the foreground.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! It is SO cold today! I am flying somewhere freezing and icy. Can YOU guess where I am going? Brrrr!",
+      "visual_description": "Daisy the small bluebird swoops into frame wearing his tiny red scarf. A burst of icy blue and white sparkles explodes behind him. Daisy shivers dramatically and his breath makes little puffs of steam. He winks at the camera. Bright white and blue color palette. Upbeat bouncy animation.",
+      "sound_effects": [
+        "whooshing wind",
+        "cheerful xylophone jingle",
+        "ice tinkling sound",
+        "Daisy's brrr shiver sound"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at all the ICE! This is the ARCTIC! The Arctic is cold, cold, cold! See the big icy cliffs? See the dark blue ocean? This is the Arctic! Wow, it is so beautiful!",
+      "visual_description": "Wide cinematic reveal shot: Daisy flies over a stunning Arctic landscape. Tall icy white cliffs rise from a deep blue churning ocean. Snow dusts the rocky ground. The sky is pale blue with wispy clouds. Northern lights shimmer faintly at the horizon. Daisy lands on a snowy cliff ledge and spins around with big wide eyes, jaw dropping in amazement. His red scarf flutters in the icy breeze.",
+      "sound_effects": [
+        "arctic wind howling softly",
+        "ocean waves crashing",
+        "magical sparkle chime on reveal",
+        "Daisy's excited gasp"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! What is that? I see something black and white! And look at that BEAK \u2014 so bright and colorful! Oh wow! Hello there, friend! Who are YOU? ... Hi Daisy! I am Percy the Puffin! I live here in the Arctic! ... A puffin! A PUFFIN! I have never met a puffin before! So cool!",
+      "visual_description": "Daisy hops along the icy ledge and peeks around a snowy rock. Percy the Puffin pops up from behind it \u2014 black and white feathers, enormous bright orange and yellow striped beak, tiny orange feet, and big friendly round eyes. Percy bows with a little happy wiggle. Daisy jumps back in delighted surprise, then rushes forward excitedly. The two birds stand face to face, both grinning. Close-up on Percy's magnificent colorful beak. Daisy points at it with one tiny wing, eyes wide.",
+      "sound_effects": [
+        "curious plucking harp notes",
+        "Percy's cheerful squawk greeting",
+        "Daisy's gasp of delight",
+        "bouncy discovery musical sting"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Percy, what is it like living in the Arctic? ... I love it here, Daisy! Let me show you! First \u2014 look at my wings! Puffins can FLY in the air! AND puffins can swim underwater! We use our wings like flippers! Swim, swim, swim! ... Whoa! You can fly AND swim? That is amazing! ... Yes! And look at my beak! My beak can hold LOTS of fish! So many fish at once! See? I catch fish for my dinner! ... Wow, that beak is so strong! So colorful too! ... Thank you! My beak gets MORE colorful in springtime! And one more thing \u2014 puffins dig BURROWS! A burrow is a little underground home! Cozy and warm, away from the cold! ... A home underground! That is so smart, Percy!",
+      "visual_description": "Scene 1 \u2014 Percy flaps his wings then dives off the cliff into the ocean below. Underwater shot: Percy zooms through bright blue water, wings pumping like flippers, chasing shimmery little silver fish. Daisy watches from the cliff edge with huge amazed eyes. Scene 2 \u2014 Percy pops back up from the water and opens his beak wide to reveal a row of tiny fish perfectly lined up inside. Close-up shot of the colorful beak packed with fish. Daisy's eyes go wide and sparkly. Scene 3 \u2014 Percy leads Daisy to a small round hole dug into the grassy clifftop soil. Percy hops inside and peeks back out cozily. Cutaway shows a cozy illustrated cross-section of the burrow, warm and snug underground. Text labels pop up for each fact: 'FLY AND SWIM!', 'BEAK HOLDS FISH!', 'COZY BURROW HOME!' in bright friendly fonts.",
+      "sound_effects": [
+        "splashing water dive sound",
+        "underwater bubbly music",
+        "fish catching pop sounds",
+        "cozy warm musical tone for burrow scene",
+        "Daisy's repeated wow exclamations"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! A big cold wind is coming! WHOOOOSH! Percy's fish blew away from the nest! Oh no, oh no! Those fish are for Percy's baby puffin inside the burrow! The baby is hungry! Can YOU help us find the fish? ... Daisy! The fish landed near the water! But it is slippery! I do not want you to fall! ... I can do it, Percy! I will flap my wings really carefully \u2014 just like YOU showed me! Slow and steady! ... You did it, Daisy! You got the fish! ... Yay! The baby puffin can eat now! Hooray!",
+      "visual_description": "A strong gust of Arctic wind swoops through, shown as a big swirling white blast of air. A small bundle of fish near Percy's burrow entrance gets blown down toward the icy rocks near the water's edge. Percy looks worried, covering his beak with his wings. A tiny fluffy baby puffin peeks out of the burrow with big hungry eyes. Daisy puffs up his chest bravely. Daisy carefully hops down the slippery icy rocks, wings spread wide for balance, moving very slowly and carefully. He reaches the fish, picks them up in his beak, and carefully hops back up. Percy and the baby puffin cheer. The baby puffin gobbles up a fish happily. Daisy and Percy high-five with their wings.",
+      "sound_effects": [
+        "dramatic wind whoosh",
+        "worried musical tone",
+        "baby puffin squeaky chirp",
+        "careful tiptoeing musical notes",
+        "triumphant cheerful fanfare",
+        "baby puffin happy eating sounds",
+        "cheering crowd jingle"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow, what a day! I learned SO much! Puffins live in the cold Arctic! They can fly AND swim underwater! Their beaks hold lots and lots of fish! And they have cozy burrows to stay warm! The Arctic is an amazing place! And Percy, you are an amazing friend! ... You are amazing too, Daisy! Remember \u2014 every home is special! Even a cold, icy one! ... Yes! Every home is special! I love that! Friends, was that not the coolest thing? The ARCTIC is so cool! Cold cool! Ha ha!",
+      "visual_description": "Daisy and Percy sit side by side on the sunny clifftop. Soft golden Arctic light glows around them. As each fact is recapped, a small glowing illustrated icon floats up: a bird flying, a bird swimming, a colorful beak with fish, a cozy burrow. Percy puts a friendly wing around Daisy. Daisy's red scarf blows gently in the breeze. Both characters smile warmly at the camera. The Arctic ocean sparkles beautifully behind them. The baby puffin toddles out of the burrow and sits between them adorably.",
+      "sound_effects": [
+        "warm gentle piano melody",
+        "soft Arctic wind",
+        "magical fact-recap chime for each icon",
+        "warm friendship musical swell"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Okay friends, it is time for me to fly! Goodbye Percy! Goodbye baby puffin! ... Bye Daisy! Come back soon! ... I will! And friends \u2014 if YOU liked this adventure, press the subscribe button! That way you never miss our next trip! And next time \u2014 I am flying somewhere with REALLY tall trees and LOTS of rain! Where do YOU think I am going? Tell me in the comments! Wings up, friends!",
+      "visual_description": "Daisy hugs Percy warmly, the baby puffin squeezing in for a three-way hug. Daisy steps back, waves his tiny wing at the camera, and leaps off the cliff, soaring up into the pale Arctic sky. His red scarf trails behind him. Percy and the baby puffin wave from the clifftop below, getting smaller as Daisy flies higher. A big bright animated SUBSCRIBE button bounces into the corner of the screen. Daisy does a final loop-the-loop in the sky and the frame fills with sparkles, snow flurries, and the show's logo. Fade out on the shimmering northern lights.",
+      "sound_effects": [
+        "warm goodbye musical theme",
+        "Percy's farewell squawk",
+        "baby puffin chirp",
+        "whooshing takeoff sound",
+        "subscribe button pop sound",
+        "outro theme music swells",
+        "sparkle and snow sound effects"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Puffins can both fly through the air AND swim underwater, using their wings like flippers.",
+    "A puffin's beak can hold many small fish at one time.",
+    "Puffins dig underground homes called burrows to stay warm and safe.",
+    "Puffins live in cold Arctic regions near the ocean.",
+    "A puffin's beak becomes more colorful during springtime."
+  ],
+  "moral": "Every home is special, no matter how cold or different it may seem.",
+  "next_episode_tease": "Next time Daisy flies somewhere with VERY tall trees and lots of rain \u2014 the rainforest!",
+  "total_duration_seconds": 225
+}

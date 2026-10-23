@@ -1,0 +1,134 @@
+{
+  "episode_number": 75,
+  "biome": "Ocean",
+  "guest_animal": "Nautilus",
+  "title": "Daisy Meets the Spiral Shell! \ud83d\udc1a Ocean Adventure",
+  "description": "Daisy the bluebird dives into the deep blue ocean and meets a very special friend \u2014 the nautilus! \ud83d\udc1a Learn amazing facts about this spiral-shelled sea creature and the beautiful ocean biome! \ud83c\udf0a Perfect for little learners who love sea animals!",
+  "tags": [
+    "kids",
+    "ocean",
+    "nautilus",
+    "sea animals",
+    "biome",
+    "educational",
+    "toddler",
+    "preschool",
+    "bluebird",
+    "pip",
+    "underwater",
+    "shells",
+    "nature",
+    "animals",
+    "learning"
+  ],
+  "thumbnail_prompt": "Bright cheerful illustration of Daisy the small bluebird wearing a tiny red scarf, floating in a magical glowing deep blue ocean next to a large friendly nautilus with a beautiful brown-and-white spiral shell, colorful coral and bubbles all around, soft golden light rays shining through the water, wide eyes and big smiles on both characters, vibrant saturated colors, kids cartoon style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! It's me, Daisy! Today I'm flying somewhere BIG and BLUE and WET! Can YOU guess where I'm going? I think I hear\u2026 waves!",
+      "visual_description": "Daisy the small bluebird with tiny red scarf swoops into frame from the left against a bright white background, then a big colorful burst of blue and teal explodes behind them. Daisy flaps excitedly, eyes wide, looking at the camera. Sound ripple effect radiates outward. The background quickly hints at sparkling ocean water.",
+      "sound_effects": [
+        "whoosh of wings flapping",
+        "cheerful xylophone jingle",
+        "wave crashing sound in distance",
+        "bubbly water splash"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at ALL that water! This is the OCEAN! The ocean is big, BIG, BIG! It covers most of our whole Earth! The ocean is salty \u2014 not like your drinking water! And listen\u2026 whoooosh! Those are waves! The ocean, friends. Say it with me: O-CEAN!",
+      "visual_description": "Daisy glides down and lands on a gentle ocean wave, bobbing happily. Camera sweeps wide to show a vast sparkling blue ocean stretching to the horizon under a sunny sky. Then the view dips below the surface to reveal a stunning underwater world \u2014 colorful coral, swaying sea plants, little fish darting past, gentle blue light filtering down. Daisy peers down into the water with huge curious eyes, red scarf fluttering in the sea breeze.",
+      "sound_effects": [
+        "ocean wave whoosh",
+        "gentle underwater bubbling ambience",
+        "soft wonder musical chime",
+        "seagull call in distance"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Ooooh! What is THAT? Something is floating up from the deep water! It has a beautiful spiral shell! Round and round and round! Hello? Helloooo! Oh! It has little eyes! And tiny tentacles! Hi there, little friend! \u2026 Hi Daisy! My name is Nina the Nautilus! Welcome to my ocean! \u2026 WOW! A nautilus! Nice to meet you, Nina! What ARE you exactly? \u2026 I am a nautilus! I have lived in the ocean for a very, very long time! \u2026 That is SO cool, Nina!",
+      "visual_description": "Daisy floats on the water surface and spots a glow rising from below. A friendly nautilus named Nina slowly drifts upward into view, her shell a gorgeous brown-and-cream spiral, her many small tentacles wiggling gently, her big friendly eyes blinking. She pokes her head above water and smiles warmly. Daisy's jaw drops in amazement. They do a little excited wiggle at each other. Nina does a slow graceful spin to show off her beautiful shell. Daisy claps wings together in delight.",
+      "sound_effects": [
+        "magical rising chime as nautilus appears",
+        "soft bubbly sound",
+        "friendly greeting musical sting",
+        "gentle underwater hum"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Nina, what is it like living in the ocean? \u2026 Oh Daisy, the ocean is my home! I love it here! Let me show you! \u2026 Okay! \u2026 First \u2014 see my shell? It is a SPIRAL shell! Spiral means it curls round and round! My shell has little rooms inside! Teeny tiny rooms! And I can move from room to room! Isn't that amazing? \u2026 WOW! Rooms in your shell! \u2026 Yes! And here is another cool thing \u2014 I use those rooms to go UP and DOWN in the water! I fill the rooms with water or air! Air makes me go up! Water makes me go down! \u2026 Ohhh! Like a little submarine! \u2026 Exactly, Daisy! And one more thing \u2014 I have LOTS of tentacles! Count with me friends! Nautilus can have up to NINETY tentacles! That is so many! I use them to find food and hold things! \u2026 Ninety tentacles, WOW! That is more than I have feathers almost! Ha ha!",
+      "visual_description": "Nina and Daisy are side by side in the water, Nina half submerged. Nina rotates her shell toward camera so viewers can see the beautiful spiral pattern up close with a glowing cutaway diagram showing the inner chambers. Then Nina demonstrates rising and sinking \u2014 she fills rooms with air and bobs up, then sinks down with a glowing blue effect, Daisy watching in awe from the surface. Finally Nina spreads her many tentacles wide like jazz hands, and a fun number graphic counts up to 90 on screen with bouncy animation. Daisy tries to count along with exaggerated counting face.",
+      "sound_effects": [
+        "soft magical tone for each fact reveal",
+        "bubbly gurgling as Nina rises and sinks",
+        "fun counting boing sounds",
+        "splashing water",
+        "cheerful educational jingle"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "This is the BEST day ever! \u2026 Oh! Oh no, Daisy! Look! My little baby shell friend Sammy got turned upside down by a big wave! He is spinning and spinning! He does not know which way is up! \u2026 Oh no! What do we do Nina? \u2026 Hmm! Remember what I taught you, Daisy? \u2026 Oh! Oh yes! Air goes UP! \u2026 That is right! Sammy needs to fill his rooms with air! \u2026 Sammy! Fill your rooms with air! Air goes UP! You can do it! \u2026 Blub blub blub\u2026 I am trying! \u2026 You are doing it Sammy! Look! \u2026 He is going UP! He did it! Hooray! \u2026 Thank you Daisy! I knew you would help!",
+      "visual_description": "A small baby nautilus named Sammy tumbles in from the left, spinning helplessly in a swirl of bubbles after a wave disturbance, his shell upside down. Nina looks worried, her tentacles fluttering anxiously. Daisy bounces up and down thinking hard, then gets a big lightbulb moment. Daisy calls out encouragingly. Sammy's shell glows softly as he concentrates \u2014 tiny bubbles fill his chambers shown in a cute cutaway \u2014 and he slowly rights himself and floats steadily upward to the correct position. Everyone cheers with confetti bubbles popping around them.",
+      "sound_effects": [
+        "worried musical tone",
+        "swirling water sound",
+        "lightbulb ding sound effect",
+        "bubbling gurgle as Sammy rights himself",
+        "big triumphant cheer and splash",
+        "celebratory fanfare"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Yay! Great job, Sammy! We did it together! \u2026 Today I learned SO much! The ocean is big and salty and full of waves! And the nautilus has a beautiful SPIRAL shell with little rooms inside! Those rooms help the nautilus go up and down in the water! And nautilus have up to ninety \u2014 NINETY \u2014 tentacles! That is a LOT! Nina, you and your ocean home are so amazing! \u2026 And YOU are amazing too, Daisy! Even a little bird can help a friend in the ocean! \u2026 That is right, friends. We can ALL help each other. No matter where we live!",
+      "visual_description": "Daisy and Nina float together side by side, glowing warmly. A soft recap montage flashes in friendly illustrated bubbles around them \u2014 the ocean biome, the spiral shell with rooms labeled, the chambers filling with air, and ninety tiny tentacles. Then Daisy and Nina do a sweet celebratory moment \u2014 Nina wraps a few gentle tentacles around Daisy in a soft hug, and Daisy pats Nina's shell with one wing. Baby Sammy floats happily nearby. Warm golden underwater light glows around them all.",
+      "sound_effects": [
+        "warm gentle background music",
+        "soft recap chime for each fact bubble",
+        "soft hug squish sound",
+        "happy gentle melody swells"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Awww, goodbye Nina! Goodbye Sammy! I will miss you! \u2026 Goodbye Daisy! Come back soon! \u2026 I will! Okay friends \u2014 did YOU learn something new today? Tell me in the comments \u2014 what was YOUR favorite part? Was it the spiral shell? The little rooms? Or ninety tentacles? And hey \u2014 if you want to come on MORE adventures with me, hit that subscribe button! I would LOVE that! Okay friends \u2014 Wings up! See you next time! I am flying somewhere very very COLD next! Brrr! Where do YOU think I am going? Bye bye!",
+      "visual_description": "Daisy waves both wings at Nina and Sammy who wave back from the water's surface. Daisy leaps into the air and soars upward, red scarf trailing behind, spinning once in a joyful loop. The camera pulls back to show the wide beautiful ocean below as Daisy becomes a tiny dot in the bright blue sky. A friendly subscribe button animation bounces in the corner. The final frame shows Daisy flying toward a distant horizon where icy white shapes hint at cold snowy lands ahead. Warm sunshine and sparkles fill the frame.",
+      "sound_effects": [
+        "emotional farewell musical sting",
+        "splashing wave goodbye",
+        "big wing flap whoosh",
+        "cheerful ending theme music",
+        "subscribe button chime",
+        "wind picking up as Daisy flies away"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The ocean is Earth's largest biome and covers most of our planet",
+    "Ocean water is salty, unlike fresh drinking water",
+    "The nautilus has a beautiful spiral shell with many small chambers inside",
+    "The nautilus controls whether it rises or sinks by filling its chambers with air or water",
+    "A nautilus can have up to 90 tentacles, which it uses to find food and grab things",
+    "The nautilus is one of the oldest types of sea creatures on Earth"
+  ],
+  "moral": "No matter where you live or how different you look, we can all help each other and learn from each other.",
+  "next_episode_tease": "Next time Daisy is flying somewhere very COLD and icy \u2014 bundle up friends! Where do YOU think Daisy is going?",
+  "total_duration_seconds": 225
+}

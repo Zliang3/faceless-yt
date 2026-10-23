@@ -1,0 +1,137 @@
+{
+  "episode_number": 22,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Arctic Fox",
+  "title": "Daisy Meets the Arctic Fox! \u2744\ufe0f A Snowy Tundra Adventure",
+  "description": "Join Daisy the bluebird as he flies to the icy Arctic tundra and meets Finn the Arctic Fox! \ud83e\udd8a\u2744\ufe0f Learn amazing facts about how Arctic foxes stay warm and camouflage in the snow. A perfect adventure for curious little learners! \ud83c\udf28\ufe0f\ud83d\udc99",
+  "tags": [
+    "kids",
+    "arctic",
+    "tundra",
+    "arctic fox",
+    "animals for kids",
+    "biome",
+    "educational",
+    "preschool",
+    "kindergarten",
+    "nature",
+    "pip the bird",
+    "wildlife",
+    "winter animals",
+    "camouflage",
+    "bluebird"
+  ],
+  "thumbnail_prompt": "Cute cartoon bluebird named Daisy wearing a tiny red scarf standing nose-to-nose with a fluffy white Arctic fox, both smiling and surrounded by sparkling snow drifts and icy blue sky, bright and colorful digital illustration style for kids YouTube thumbnail, bold warm title text overlay space at top",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! I'm Daisy! Today I'm flying somewhere SUPER cold and snowy! Brrr! Can YOU guess where I'm going?",
+      "visual_description": "Daisy the small bluebird bursts into frame from the left wearing his tiny red scarf, does a big looping swoop across a white background. A sudden burst of blue and white sparkles and snowflakes explodes behind him. He turns to face the camera with wide excited eyes, rubbing his wings together as if chilly.",
+      "sound_effects": [
+        "whoosh of wings",
+        "upbeat xylophone sting",
+        "sparkle twinkle sound",
+        "light wind gust"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all the snow! We made it! This is the ARCTIC TUNDRA! The arctic tundra is cold, cold, COLD! Everything is white and icy! The wind goes WHOOOOSH! This is the arctic tundra, friends!",
+      "visual_description": "Wide cinematic pan across a stunning snowy landscape \u2014 rolling white snow drifts, pale blue sky, tiny ice crystals glittering in the air. Daisy flies in from above and lands gently on a soft snow drift. He shivers in a cute exaggerated way, his red scarf blowing in the wind. He looks left, right, and all around with big amazed eyes. Snow falls softly in the background.",
+      "sound_effects": [
+        "cold howling wind",
+        "soft snow crunch on landing",
+        "gentle wonder chime",
+        "light snowfall ambient sound"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! I see lots of snow! But wait \u2014 what is THAT? Something white is moving! Oh! OH WOW! It's a fox! A fluffy white fox! Hello there, friend! Hi! I'm Daisy! Who are YOU?  I'm Finn! I'm an ARCTIC FOX! I live right here in the tundra! Oh Finn, you are SO fluffy! Hee hee, thank you Daisy! My fluff keeps me warm! Ooooh! What is it LIKE living here in the cold?",
+      "visual_description": "Daisy tilts his head curiously as a lumpy patch of snow nearby suddenly wiggles. Two bright amber eyes blink open. Finn the Arctic Fox pops up \u2014 pure white fluffy fur, big bushy tail, tiny black nose, warm friendly smile. He shakes snow off his coat dramatically. Daisy jumps back in surprise then flutters forward excitedly. The two characters stand face to face. Finn does a happy full-body wiggle. Daisy gestures around at the snowy landscape with a curious expression.",
+      "sound_effects": [
+        "soft surprised chirp from Daisy",
+        "playful boing sound as fox pops up",
+        "snow shake rustle",
+        "warm friendly string music begins",
+        "gentle giggle"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Finn says: I LOVE the tundra, Daisy! Let me show you! First \u2014 see my thick fluffy fur? Arctic foxes have SUPER thick fur! It keeps us warm in the cold! Even our PAWS are furry! Fluffy fur = warm fox! Wow, Finn! Your fur is like a big cozy blanket! Exactly! And look at my coat, Daisy! In winter I am WHITE \u2014 just like the snow! This is called CAMOUFLAGE! Camouflage means I match my home! White fox, white snow \u2014 hard to see! Can YOU see me now? Finn steps into the snow and nearly disappears! And one more thing! Arctic foxes have short ears and a short nose! Small ears keep the cold OUT! Smart, right? Small ears, warm fox!",
+      "visual_description": "Scene 1 \u2014 Finn holds up one fluffy paw to show Daisy the fur on the bottom. Daisy reaches out and touches it with wide eyes. Close-up shot of the incredibly fluffy paw pad. Scene 2 \u2014 Finn trots a few steps away and sits perfectly still in the snow. He blends in almost completely \u2014 only his amber eyes and tiny black nose visible. A playful spotlight circle helps kids look for him. Then he pops back up grinning. Daisy claps his wings. Scene 3 \u2014 Split fun graphic showing a big-eared rabbit next to Finn's small round ears, with a friendly arrow and snowflake icon. Finn points to his own tiny ears proudly. Daisy mimics covering his own ears with his wings.",
+      "sound_effects": [
+        "warm educational piano melody throughout",
+        "soft wow sound from Daisy",
+        "camouflage whoosh shimmer effect",
+        "playful pop when Finn reappears",
+        "discovery chime for each new fact"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh! Suddenly the wind blows REALLY hard! WHOOOOSH! Oh no! Daisy's red scarf flies away! It lands deep in the snow! I can't see it, Finn! It's buried! Can we find it? Hmm! I have an idea, Daisy! Arctic foxes are GREAT at finding things under snow! We use our ears! I'll LISTEN for it! Finn goes super still. He tilts his tiny ears. He POUNCES into the snow \u2014 BOOF! And pops back up \u2014 with the red scarf in his mouth! YAY! You found it, Finn! You used your amazing fox ears! Those small ears still WORK great! Ha ha, they sure do, Daisy!",
+      "visual_description": "A sudden strong gust of wind sweeps through the scene. Daisy grabs his scarf but it slips free and tumbles through the air in slow motion, landing and sinking into a fluffy snowdrift. Daisy looks worried, fluttering above the drift searching. Finn's ears perk up sharply. He crouches low, amber eyes focused, in a classic fox-hunting pose. He leaps dramatically into the snowdrift \u2014 a big poof of white snow sprays everywhere. A beat of silence. Then Finn pops up triumphantly, red scarf hanging from his smiling mouth. Daisy cheers and does a happy spin. Finn carefully hands the scarf back. Daisy ties it back around his neck with relief.",
+      "sound_effects": [
+        "dramatic wind gust",
+        "soft worried chirp from Daisy",
+        "tense little musical sting",
+        "fox pounce boof sound",
+        "snow spray whoosh",
+        "triumphant ta-da fanfare",
+        "Daisy's happy celebratory chirping"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! What a day, friends! Let's remember what we learned! The arctic tundra is cold and snowy! Arctic foxes have thick fur to stay WARM! Their white fur is CAMOUFLAGE \u2014 they match the snow! Their small ears help keep the cold out! And Finn used his amazing ears to save my scarf! Every animal is PERFECT for their home! Finn gives Daisy the warmest biggest fluffy hug. Daisy disappears in all the fluff! Ha ha! Finn, you are the BEST hugger! Fluffy fox hugs are the BEST, Daisy!",
+      "visual_description": "Daisy and Finn stand together in the snowy landscape. As Daisy lists each fact, small cute illustrated icon cards pop up beside them \u2014 a snowflake for tundra, a fluffy paw for warm fur, a fox blending into snow for camouflage, a tiny ear for small ears. After the last card, Finn opens his arms wide. Daisy flies in for a huge hug and is completely swallowed by Finn's fluffy white tail and fur. Only Daisy's tiny feet and red scarf tip stick out. Both giggle. Warm golden light glows around them.",
+      "sound_effects": [
+        "gentle recap piano melody",
+        "fact card pop sounds x4",
+        "warm laughter",
+        "cozy hug squish sound",
+        "warm golden shimmer sound"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "It's time to fly, friends! Bye bye, Finn! Stay warm! Bye Daisy! Come back soon! If you LOVED our arctic adventure \u2014 give us a big thumbs up! And SUBSCRIBE so you never miss a trip! Can you say CAMOUFLAGE? Say it with me \u2014 CAM-O-FLAGE! Great job! Next time I'm flying somewhere with REALLY tall trees and LOTS of rain! Where do YOU think I'm going? Wings up, friends!",
+      "visual_description": "Daisy and Finn wave goodbye enthusiastically. Finn does his full-body happy wiggle one last time. Daisy leaps into the air and does a signature looping swoop upward. He turns back to camera and winks, red scarf trailing behind him. A subscribe button animation bounces in the corner. The word CAMOUFLAGE appears in big colorful bouncy letters for kids to sound out. Daisy shrinks into the distance flying off over the white tundra horizon. The screen fades to a warm blue with a small Finn waving from below and a small Daisy waving from above.",
+      "sound_effects": [
+        "warm farewell orchestral swell",
+        "Finn's happy bark-yip goodbye",
+        "wing whoosh upward",
+        "subscribe animation chime",
+        "bouncy letter pop sounds",
+        "upbeat outro music",
+        "final catchphrase echo effect"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The Arctic tundra biome is extremely cold and covered in snow and ice",
+    "Arctic foxes have very thick fluffy fur \u2014 even on the bottom of their paws \u2014 to stay warm in freezing temperatures",
+    "Arctic foxes have white fur in winter that acts as camouflage, helping them blend into the snow",
+    "Arctic foxes have short rounded ears and a short nose which helps reduce heat loss in cold weather",
+    "Arctic foxes can locate things hidden under snow using their sharp hearing, then pounce to uncover them"
+  ],
+  "moral": "Every animal is perfectly made for the place they call home.",
+  "next_episode_tease": "Next time Daisy flies somewhere with really tall trees and lots of rain \u2014 a tropical rainforest! \ud83c\udf34\ud83c\udf27\ufe0f",
+  "total_duration_seconds": 225
+}

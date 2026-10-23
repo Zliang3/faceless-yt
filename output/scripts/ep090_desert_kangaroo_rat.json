@@ -1,0 +1,134 @@
+{
+  "episode_number": 90,
+  "biome": "Desert",
+  "guest_animal": "Kangaroo Rat",
+  "title": "Daisy Meets the Jumping Desert Star! \ud83c\udfdc\ufe0f",
+  "description": "Join Daisy the bluebird as he flies into the hot, sandy desert and meets a very special friend \u2014 a kangaroo rat! \ud83d\udc00\u2728 Learn amazing facts about how this tiny animal survives in the scorching heat! \ud83c\udf35\ud83c\udf1e Perfect for curious little learners who love animals and adventure!",
+  "tags": [
+    "kids",
+    "desert",
+    "kangaroo rat",
+    "educational",
+    "animals",
+    "biome",
+    "nature",
+    "preschool",
+    "toddler",
+    "learning",
+    "Daisy the bluebird",
+    "wildlife",
+    "animated",
+    "cute animals",
+    "facts for kids"
+  ],
+  "thumbnail_prompt": "Cute cartoon bluebird named Daisy wearing a tiny red scarf, standing in a bright sunny desert with golden sand dunes and green cacti, next to an adorable big-eyed kangaroo rat mid-jump, warm orange and yellow sunset sky background, colorful and vibrant children's illustration style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Today I am flying somewhere SO hot! There is sand EVERYWHERE! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird swoops into frame from the left wearing his tiny red scarf, a bright golden burst of light flashes behind him, he does a big looping swoop in the air, wide excited eyes, desert sand dunes visible at the bottom of frame starting to appear, vibrant warm colors fill the screen",
+      "sound_effects": [
+        "whoosh of wings flapping",
+        "upbeat cheerful xylophone jingle",
+        "sand blowing sound",
+        "bright sparkle chime"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at all that SAND! This is the DESERT! The desert is hot, hot, HOT! There are tall prickly cacti! The sun is so bright! The desert is DRY too \u2014 not much water anywhere! This is the DESERT, friends!",
+      "visual_description": "Daisy lands on top of a round golden sand dune, camera pans wide to reveal a stunning desert landscape, giant orange sand dunes stretch to the horizon, tall green saguaro cacti dot the scene, the sun blazes in a pale blue sky, heat shimmer waves ripple off the sand, small rocks and dry brush scattered around, Daisy fans his wing across his forehead looking warm, his red scarf flutters in a hot breeze",
+      "sound_effects": [
+        "desert wind ambient sound",
+        "sizzling heat sound effect",
+        "hawk cry in distance",
+        "bright wonder musical sting"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! What is that behind that cactus? Something is peeking out! Oh WOW! Look at those HUGE back legs! And that long fluffy tail! Hello there! Who are YOU? Hi Daisy! I am a kangaroo rat! My name is Kiki! A KANGAROO RAT! Wow, Kiki, you are SO cute! Kiki, what is it like living here in the hot desert?",
+      "visual_description": "Daisy tilts his head curiously and notices two big shiny eyes peeking from behind a cactus, animated sparkle around the eyes, Kiki the kangaroo rat hops out dramatically on her giant back legs, she is small and round with a huge fluffy tipped tail, enormous dark eyes, tiny front paws held to her chest, she gives a big happy smile and waves, Daisy claps his wings together in delight, they face each other warmly in the golden sand",
+      "sound_effects": [
+        "rustling behind cactus",
+        "cute boinging spring sound as Kiki hops out",
+        "friendly warm musical notes",
+        "Daisy gasping in delight"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "I LOVE living in the desert, Daisy! But it is very hot in the daytime! So I SLEEP during the day! I come out at NIGHT when it is cool! Wow! She sleeps in the DAY and plays at NIGHT! That is so smart! And look at my big back legs, Daisy! I can JUMP super far! Watch me! Whoooa! She jumped SO HIGH! Kangaroo rats jump to stay safe from danger! Just like a kangaroo! And here is my favorite fact! I do not need to drink water! WHAT?! No water?! I get ALL my water from the seeds I eat! Seeds give me water! I find seeds and store them in my cheeks! Seeds, seeds, seeds \u2014 they keep me full AND give me water!",
+      "visual_description": "Kiki acts out each fact with big expressive animation \u2014 first she curls up and pretends to snore with little Z bubbles floating up, a moon and stars appear around her, then a bright sun appears and she waves it away with her paw, next Kiki crouches low and springs into the air with a dramatic long leap across the dune as motion lines trail behind her, Daisy watches with jaw dropped, finally Kiki puffs out her cheeks to show them full of tiny seeds, she points to the seeds proudly, a simple diagram bubble pops up showing a seed with a tiny water drop inside, Daisy tries to stuff imaginary seeds in his beak and giggles",
+      "sound_effects": [
+        "snoring sound effect",
+        "moon and stars twinkle chime",
+        "big boing jump sound",
+        "sand landing thud",
+        "seed shaking rattle sound",
+        "Daisy giggling"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! The wind is blowing so HARD! Daisy! Your red scarf! It is flying away! Oh NO, my scarf! I need it! Do not worry Daisy! I can help! Watch my big legs! Kiki jumped SO HIGH and SO FAR! She grabbed the scarf right out of the air! Here you go, Daisy! Oh THANK YOU Kiki! You used your amazing jump to help me! That is what friends are for!",
+      "visual_description": "A sudden gust of desert wind swoops across the scene, sand swirls in a mini dust cloud, Daisy's tiny red scarf unties and flies up into the air tumbling away, Daisy flaps his wings frantically reaching for it but it keeps blowing further, Kiki spots it, bends her big back legs, and launches into the sky with a dramatic leap, she catches the scarf perfectly in her tiny front paws at the peak of her jump, triumphant sparkles burst around her, she lands softly and ties the scarf gently back around Daisy's neck, Daisy hugs Kiki with happy tears in his eyes",
+      "sound_effects": [
+        "whooshing desert wind gust",
+        "scarf fluttering sound",
+        "Daisy yelping in surprise",
+        "heroic little trumpet fanfare",
+        "soft landing thud",
+        "happy warm chime when scarf returned"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow friends, I learned SO much today! The desert is hot and DRY! Kangaroo rats sleep in the day and come out at NIGHT! They jump really REALLY far on their big back legs! And they get water from SEEDS \u2014 no drinking needed! Every animal is special! Kiki is perfectly made for the desert! And good friends always help each other! Right, Kiki? RIGHT, Daisy! I will miss you so much!",
+      "visual_description": "Daisy stands in the warm golden light of a desert sunset, the sky turns beautiful shades of orange, pink, and purple, Kiki stands beside him, a soft recap montage plays as small glowing bubbles appear showing each fact \u2014 a moon, jumping legs, and a seed with a water drop \u2014 Daisy points to each bubble as he speaks, then the bubbles pop softly, Daisy and Kiki share a big warm hug, Kiki's fluffy tail wraps around Daisy gently, both have happy shining eyes, cacti silhouettes glow in the background",
+      "sound_effects": [
+        "soft desert evening ambient sound",
+        "crickets beginning to chirp",
+        "warm gentle piano melody",
+        "hug sound effect \u2014 soft squeeze",
+        "emotional warm musical swell"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Goodbye Kiki! Thank you for teaching me about the DESERT! Bye bye Daisy, come back soon! Wings up, FRIENDS! Did YOU learn something new today? Tell me in the comments! And if you want to fly with me on my next adventure, HIT that subscribe button! Next time I am flying somewhere VERY cold and VERY snowy! Where do YOU think I am going? See you next time, friends!",
+      "visual_description": "Daisy gives one last big wave to Kiki who jumps up and down excitedly waving her tiny paws, Daisy leaps into the air and does a looping swirl upward into the sunset sky, his red scarf trails behind him like a ribbon, the camera pulls back wide to show the full beautiful desert landscape below, a glowing subscribe button bounces playfully in the lower corner, a small animated snowflake teaser icon appears in the top corner hinting at the next episode, Daisy becomes a tiny silhouette flying off into the colorful sky",
+      "sound_effects": [
+        "upbeat adventure outro music",
+        "Kiki boing jump sound",
+        "wing flap whoosh",
+        "cheerful bell chime on subscribe button bounce",
+        "fading desert wind as Daisy flies off into distance"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Kangaroo rats are nocturnal \u2014 they sleep during the hot day and come out at night when it is cooler",
+    "Kangaroo rats have very large strong back legs and can jump very long distances to escape danger",
+    "Kangaroo rats do not need to drink water \u2014 they get all the water they need from the seeds they eat",
+    "Kangaroo rats store seeds in pouches in their cheeks",
+    "The desert biome is very hot and dry with very little water available"
+  ],
+  "moral": "Every creature is perfectly made for its home, and true friends use their special gifts to help each other.",
+  "next_episode_tease": "Next time Daisy flies somewhere freezing cold and covered in snow and ice \u2014 a whole new chilly biome adventure awaits!",
+  "total_duration_seconds": 225
+}

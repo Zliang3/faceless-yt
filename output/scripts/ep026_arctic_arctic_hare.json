@@ -1,0 +1,178 @@
+{
+  "episode_number": 26,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Arctic Hare",
+  "title": "Daisy Meets the Snow Bunny! \u2744\ufe0f | Arctic Adventure",
+  "description": "\ud83d\udc26 Daisy the bluebird flies to the freezing Arctic tundra and meets a fluffy Arctic hare named Flurry! \u2744\ufe0f\ud83d\udc07 Together they learn amazing facts about how animals stay warm and safe in the snow! A perfect episode for curious little explorers! \ud83c\udf1f",
+  "tags": [
+    "kids",
+    "arctic",
+    "tundra",
+    "arctic hare",
+    "bluebird",
+    "pip",
+    "animals",
+    "biome",
+    "educational",
+    "preschool",
+    "nature",
+    "snow",
+    "wildlife",
+    "toddler learning",
+    "animal friends"
+  ],
+  "thumbnail_prompt": "A cheerful cartoon bluebird named Daisy wearing a tiny red scarf hovers excitedly in a snowy Arctic landscape, next to a big fluffy white Arctic hare with bright friendly eyes. Snow-covered tundra stretches behind them under a vivid purple-blue sky with soft glowing northern lights. Bold warm colors on the characters contrast the icy blue-white background. The scene is bright, cute, and inviting for young children.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi hi HI! Today I am flying somewhere VERY cold! Like... really, REALLY cold! Brrr! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird swoops into frame from the left wearing his tiny red scarf, which flutters wildly. A big sparkly burst of icy blue and white confetti explodes behind him. He shivers dramatically and his breath makes little puff clouds. He winks directly at the camera. Upbeat bouncy intro music plays.",
+      "sound_effects": [
+        "whoosh of wings",
+        "sparkly twinkle burst",
+        "cartoon shiver sound",
+        "upbeat xylophone jingle"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa!! LOOK at all that SNOW! Everything is white! And cold! This is the ARCTIC! The Arctic is a freezing, icy place. Say it with me \u2014 THE ARCTIC! Wow, it is SO cold here. And look \u2014 the ground is flat and snowy as far as I can see! That flat snowy land is called the TUNDRA! The Arctic tundra! Brrr!",
+      "visual_description": "Daisy lands gently on a snowy mound in a vast open Arctic tundra. The camera pans wide to show a stunning snowy landscape \u2014 flat, white, and endless \u2014 under a pale blue sky. Soft snowflakes drift down. Daisy looks left, right, and up in wide-eyed amazement. His red scarf blows in a gentle icy wind. Frost sparkles on the ground. On the horizon, faint shimmers of green northern lights begin to glow.",
+      "sound_effects": [
+        "soft snowy wind",
+        "magical sparkle shimmer",
+        "gentle snow crunch underfoot",
+        "soft wonder music sting"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm. I wonder who lives HERE in the Arctic! It is so cold and snowy. Wait \u2014 what is THAT? Oh! OH WOW! Something fluffy! And white! And it is hopping! Hello?! Hellooo? ... Hi there! I am Daisy! Who are YOU?! Oh friends, look at those big fluffy ears! How cute is THAT?!",
+      "visual_description": "Daisy tilts his head and spots a small movement in the snow nearby. A big fluffy white Arctic hare named Flurry slowly hops into view, blending almost perfectly with the snow at first. Flurry has huge sparkly eyes, an adorably twitchy pink nose, and extra-thick fluffy white fur. Flurry notices Daisy and does a happy little binky jump \u2014 leaping into the air \u2014 then lands and waves a tiny paw. Daisy gasps and claps his wings in delight. The two characters are now face to face.",
+      "sound_effects": [
+        "soft boing of a hop",
+        "cute surprised gasp",
+        "cheerful meet-and-greet music sting",
+        "happy bunny nose-twitch sound"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL - ANIMAL INTRO",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "Hi Daisy! I am FLURRY! I am an Arctic hare! I LOVE it here in the Arctic! It is my home!",
+      "visual_description": "Flurry stands upright on her hind legs, paws clasped together happily, nose wiggling. She gestures broadly at the snowy tundra around her with pride. Daisy smiles and leans forward on his little bird feet, totally fascinated. Snow drifts gently around them both.",
+      "sound_effects": [
+        "warm friendly chime",
+        "soft snow crunch"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL - CURIOSITY QUESTION",
+      "start_time": "1:10",
+      "end_time": "1:25",
+      "narration": "Flurry, it is SO cold here! And SO snowy! How do you live in the ARCTIC? I am FREEZING! Can you teach me?",
+      "visual_description": "Daisy shivers exaggeratedly, his red scarf fluttering, feathers all puffed up. He looks up at Flurry with giant curious eyes. Flurry laughs a sweet, gentle laugh and pats Daisy warmly on the head with one soft paw. She looks confident and cozy. She gestures to herself as if to say \u2014 I have secrets to share!",
+      "sound_effects": [
+        "cartoon shiver rattle",
+        "warm gentle laugh",
+        "curious questioning music note"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION - FACT 1",
+      "start_time": "1:25",
+      "end_time": "1:55",
+      "narration": "Oh yes, Daisy! I have tricks for the cold! See my fur? It is WHITE! My fur is white like the SNOW! That means I match the snow! When I match the snow, other animals cannot see me. I stay safe! White fur helps me HIDE! Can YOU see me in the snow, friends?",
+      "visual_description": "Flurry hops a few steps away and stands very still in the snow. Because her white fur matches the white snow perfectly, she almost disappears \u2014 only her sparkly eyes and little pink nose are visible. The camera zooms out to show her nearly invisible against the tundra. Then a fun animated dotted outline highlights her shape so young viewers can find her. Daisy gasps and points his wing. A big friendly text label pops up: 'WHITE FUR = CAMOUFLAGE!' in bold friendly letters.",
+      "sound_effects": [
+        "sneaky tip-toe music",
+        "magical disappear shimmer",
+        "tada reveal sound",
+        "viewer engagement chime"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION - FACT 2",
+      "start_time": "1:55",
+      "end_time": "2:25",
+      "narration": "And Daisy \u2014 feel my fur! It is SO thick! Thick fur keeps me WARM! My fur is like a big fluffy blanket! A blanket you WEAR! And my feet \u2014 look at my BIG feet! Big wide feet help me walk ON the snow! I do not sink in! Like snowshoes! Big feet on the snow \u2014 I can run FAST!",
+      "visual_description": "Flurry holds out her paw toward Daisy, who tentatively touches it with his wingtip and immediately looks amazed \u2014 miming how incredibly soft and warm it feels. Then Flurry hops quickly across the snow, her giant fluffy hind feet visible as she skims the surface without sinking. Small animated speed lines trail behind her. Daisy tries to follow and sinks slightly into the snow, looking down at his tiny bird feet with a funny expression. They both giggle. A label reads: 'THICK FUR = WARM! BIG FEET = FAST ON SNOW!'",
+      "sound_effects": [
+        "soft cozy fluff sound",
+        "fast happy hopping boing boings",
+        "comedic sinking plop",
+        "both characters laughing lightly"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION - FACT 3",
+      "start_time": "2:25",
+      "end_time": "2:45",
+      "narration": "One more trick, Daisy! In the WINTER, I snuggle with my friends! We huddle together in a big group! We share our warmth! Together we stay warmer! Sharing is warm! Can YOU think of a time you snuggled with someone warm, friends?",
+      "visual_description": "Flurry points to a nearby snowdrift where \u2014 to Daisy's absolute delight \u2014 THREE more fluffy white Arctic hares are huddled together in a cozy little pile, ears tucked in, eyes half-closed contentedly. They wiggle and scoot to make room. Flurry hops over and nestles in beside them. Daisy stares in wonder. A soft golden warm glow emanates from the huddle group. The camera slowly zooms into the cozy huddle. A label reads: 'HUDDLING = SHARING WARMTH!'",
+      "sound_effects": [
+        "cozy warm music swell",
+        "soft group murmur of hares",
+        "gentle wind howling outside the warm huddle",
+        "heartwarming chime"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:45",
+      "end_time": "3:20",
+      "narration": "Oh! Oh no! Friends \u2014 look! The wind is blowing SO hard now! A big snowstorm is coming! Daisy's red scarf \u2014 oh no \u2014 it FLEW AWAY! The wind took it! Daisy needs his scarf! It is so cold! Flurry \u2014 can you HELP?",
+      "visual_description": "Suddenly the Arctic wind picks up dramatically. Snow swirls everywhere. Daisy's beloved red scarf is whipped off by a gust and tumbles across the snowy tundra, landing behind a large snow mound. Daisy looks alarmed \u2014 reaching after it with his wings. But the snow is deep and Daisy is small. Flurry immediately perks up, her giant ears swiveling toward the scarf. She winks at Daisy confidently. She crouches, then LEAPS powerfully across the snow \u2014 her big wide feet carrying her swiftly \u2014 and snatches the red scarf gently in her mouth in just two big bounds. She trots back and wraps it back around Daisy's neck with her paws. The storm then gently calms.",
+      "sound_effects": [
+        "dramatic wind whoosh",
+        "Daisy's little worried cry",
+        "heroic boing leap sound effect",
+        "triumphant mini-fanfare",
+        "soft storm calming down"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Flurry SAVED my scarf! Thank you, FLURRY! Friends \u2014 today I learned SO much! Arctic hares have WHITE fur to hide in the snow! They have THICK fur to stay warm! They have BIG feet to run on snow! AND they huddle with FRIENDS to share warmth! Sharing and helping \u2014 that is the BEST! Just like Flurry helped ME today!",
+      "visual_description": "Daisy has his red scarf back, snug and happy. Flurry and Daisy face the camera together. As Daisy lists each fact, small animated icons pop up beside them: a white fluffy shape for camouflage, a snowflake with a cozy glow for warmth, big cartoon feet, and a group huddle icon. Then Flurry and Daisy share a big warm hug \u2014 Flurry's fluffy fur enveloping Daisy completely. Daisy peeks out from the fur looking blissfully warm and giggles. A warm golden light glows around them both.",
+      "sound_effects": [
+        "warm lesson music sting",
+        "pop sounds for each fact icon",
+        "big happy hug squish sound",
+        "gentle triumphant music swell"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:45",
+      "end_time": "4:05",
+      "narration": "Goodbye Flurry! I will MISS you! Friends \u2014 if YOU liked today's adventure, give us a big THUMBS UP! And hit SUBSCRIBE so you never miss an adventure with me \u2014 PIP! Now \u2014 wings up, friends! Next time I am flying somewhere with TALL trees and crunchy orange leaves! Where do YOU think I am going? Bye byeee! WINGS UP, FRIENDS!",
+      "visual_description": "Daisy hugs Flurry one last time, then waves enthusiastically at the camera. Flurry waves back with both paws, nose twitching happily. Daisy leaps into the air and swoops up and to the right \u2014 his red scarf trailing behind him \u2014 flying off into the pale Arctic sky. A subscribe button animation bounces into the lower corner of the screen. Flurry watches Daisy fly away, smiling, then turns to the viewer and gives one last friendly wave before hopping back toward the snowy horizon. The screen irises out with a sparkly snowy circle wipe.",
+      "sound_effects": [
+        "happy farewell music",
+        "wing flap whoosh",
+        "sparkly outro jingle",
+        "subscribe bell ding",
+        "soft Arctic wind fading out"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Arctic hares have white fur that camouflages them in the snow, helping them stay safe",
+    "Arctic hares have very thick fur that acts like a warm blanket to protect them from freezing temperatures",
+    "Arctic hares have large wide hind feet that act like snowshoes, letting them run fast on top of snow without sinking",
+    "Arctic hares huddle together in groups during winter to share body heat and stay warm"
+  ],
+  "moral": "Sharing warmth and helping friends makes even the coldest days feel cozy and bright.",
+  "next_episode_tease": "Next time Daisy flies somewhere with tall trees and crunchy orange leaves \u2014 a temperate forest in autumn!",
+  "total_duration_seconds": 245
+}

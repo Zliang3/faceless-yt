@@ -1,0 +1,135 @@
+{
+  "episode_number": 64,
+  "biome": "Ocean",
+  "guest_animal": "Whale Shark",
+  "title": "Daisy Meets the Biggest Fish in the Ocean!",
+  "description": "\ud83c\udf0a Daisy the bluebird flies over the sparkling ocean and meets a GIANT new friend \u2014 the whale shark! \ud83e\udd88 Learn amazing facts about the biggest fish in the sea! \ud83d\udc99 A perfect adventure for little ocean explorers!",
+  "tags": [
+    "kids",
+    "ocean",
+    "whale shark",
+    "biome",
+    "animals",
+    "educational",
+    "bluebird",
+    "pip",
+    "fish",
+    "sea",
+    "underwater",
+    "nature",
+    "preschool",
+    "toddler",
+    "learning"
+  ],
+  "thumbnail_prompt": "Cute cartoon bluebird named Daisy wearing a tiny red scarf, floating on the ocean surface next to a massive friendly whale shark with a wide smile and polka dot pattern, bright blue tropical ocean background with sunlight rays underwater, vibrant and colorful kids animation style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Today I am flying somewhere big and BLUE! It is sparkly and WET! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird swoops into frame from the left wearing his tiny red scarf, a big burst of sparkling blue light fills the screen, Daisy flaps his wings excitedly over shimmering blue water below, viewer POV angle, bright sunny sky",
+      "sound_effects": [
+        "swoosh of wings",
+        "upbeat cheerful jingle",
+        "ocean waves splashing",
+        "sparkle chime"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at all that WATER! This is the OCEAN! The ocean is SO big! It is deep and wide and blue, blue, BLUE! I can hear the waves! Whoooosh! The ocean is a little cold on my feathers! Brrr! But it is SO beautiful!",
+      "visual_description": "Wide panoramic shot of a vast sparkling blue ocean, sunlight glittering on the surface, gentle waves rolling, Daisy hovers just above the water looking amazed with big wide eyes, camera slowly pans across the water horizon, colorful fish visible just below the surface, a warm golden sun overhead",
+      "sound_effects": [
+        "ocean waves",
+        "seagull calls in distance",
+        "gentle wind",
+        "happy wonder musical sting"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! I wonder who lives in this big ocean! Oh! OH! What is THAT?! Something is coming up from the water! It is HUGE! It is SPOTTED! Oh wow! Hello there! Who are YOU? Hi Daisy! I am Shelly the whale shark! I am the BIGGEST fish in the whole ocean! WOW! Hi Shelly! You are SO big! But you have such a friendly smile! Thank you Daisy! I love making new friends! What is it like living in the ocean?",
+      "visual_description": "Daisy perches on a small floating piece of driftwood, a giant shadow appears beneath the water, a massive friendly whale shark rises near the surface with enormous polka dot patterned skin and a huge wide grin, Shelly has big kind cartoon eyes, Daisy stumbles back in surprise then waves happily, Shelly's giant mouth curves into a warm smile, bubbles float up around them",
+      "sound_effects": [
+        "deep underwater rumble",
+        "big splash",
+        "comedic surprised squeak from Daisy",
+        "friendly whale shark hum",
+        "bubbly underwater sounds"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Oh I have SO much to show you Daisy! First \u2014 I am a fish! A whale shark is a FISH! Not a whale! FISH! Even though I am called a whale shark, I breathe through gills! See my gills? They help me breathe in the water! Wow! Gills! That is how fish breathe! Next \u2014 see my spots? Every whale shark has different spots! My spots are MINE! Just like your fingerprints are yours! No two whale sharks look the same! Amazing! And one more thing Daisy \u2014 I eat tiny tiny food! I open my BIG mouth and I eat little things called plankton! Plankton are teeny tiny! I swim with my mouth open and swooooop them up! A huge fish eating tiny food! Is that not funny? Ha ha! It IS funny Shelly!",
+      "visual_description": "Scene one: Shelly points a fin toward her gills on the side of her body, close up on the gill slits gently moving, Daisy peers in closely with magnifying glass expression. Scene two: overhead shot of Shelly's back showing beautiful white spots on dark grey skin, Daisy traces the spots with his wing in wonder. Scene three: Shelly opens her enormous wide mouth and glides slowly forward, tiny illustrated plankton swirl into her mouth, Daisy watches with jaw dropped, animated plankton look like little glowing green and gold dots",
+      "sound_effects": [
+        "bubbling water sounds",
+        "soft educational chime for each fact",
+        "Daisy gasping in amazement",
+        "gentle whooshing as Shelly swims",
+        "playful tuba honk for the funny moment"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Suddenly \u2014 oh no! Daisy's little red scarf blew off in the ocean breeze! Oh no! My scarf! It is floating away! It is going into the water! Do not worry Daisy! I can help! Shelly dipped her nose gently under the scarf! She lifted it up so softly! Here you go little friend! Oh thank you Shelly! But how did you find it so fast? I used my eyes! Whale sharks have very good eyes! We can see a lot even in big dark water! Wow! Your eyes helped you find my scarf! That is AMAZING! Can YOU say amazing? AMAZING!",
+      "visual_description": "Wind gust animation, Daisy's tiny red scarf flies off his neck and tumbles through the air landing on the ocean surface, Daisy flaps frantically, Shelly spots the scarf with a close up on her large cartoon eye, she gently nudges the scarf upward with her snout, the scarf lands perfectly back around Daisy's neck, Daisy hugs Shelly's nose, both giggle together, sparkle effect around the reunited scarf",
+      "sound_effects": [
+        "gust of wind",
+        "Daisy worried chirp",
+        "gentle splash",
+        "triumphant little fanfare",
+        "giggling sounds",
+        "sparkle chime"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Today I learned SO much! The ocean is big and blue and beautiful! Whale sharks are the BIGGEST fish in the sea! They breathe with gills! Every whale shark has their very own spots \u2014 just like YOU are one of a kind! And whale sharks eat tiny plankton with their giant mouths! Big fish, tiny food! Ha! And the most important thing I learned? Even the biggest friend can be the KINDEST friend! Shelly is SO big! But she was so so gentle and kind! Thank you Shelly! Thank you Daisy! Come visit the ocean anytime! I will ALWAYS be here! Daisy and Shelly hugged \u2014 well, Daisy hugged Shelly's nose! The best kind of hug!",
+      "visual_description": "Daisy floats above the water as a recap montage shows: the sparkling ocean, a close up of Shelly's gills, the beautiful polka dot spots, Shelly's wide open mouth with plankton, and the scarf rescue moment \u2014 each shown in a round bubble frame. Then Daisy lands on Shelly's nose for a big hug, both glow with a warm golden light, heart shapes float up around them",
+      "sound_effects": [
+        "warm heartfelt music swell",
+        "gentle ocean waves",
+        "soft chime for each recap bubble",
+        "happy giggling",
+        "heart pop sounds"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Bye bye Shelly! Bye Daisy! Come back soon! I will! Friends \u2014 if you love the ocean, give this video a big THUMBS UP! And if you want to fly with me to a new place every week, hit SUBSCRIBE! I have SO many more friends to meet! Now \u2014 next time I am flying somewhere VERY cold and snowy! Brrrr! Where do YOU think I am going? Tell me in the comments! And remember friends \u2014 WINGS UP! Wings up, friends! See you next time!",
+      "visual_description": "Daisy waves his tiny wing goodbye to Shelly who splashes her tail fin in farewell, Shelly slowly descends back into the sparkling blue water, a final wave goodbye, Daisy turns to face the camera directly with a big smile and his red scarf flapping in the breeze, a subscribe button animation bounces on screen, Daisy does a big looping fly-off into the bright sky, the ocean shimmers below, freeze frame on Daisy mid-flight with a bright sunburst behind him",
+      "sound_effects": [
+        "upbeat outro jingle",
+        "big splash from Shelly's tail",
+        "Daisy's cheerful whistle",
+        "subscribe button chime",
+        "triumphant wings flapping",
+        "fade out music"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Whale sharks are fish, not whales \u2014 they breathe through gills",
+    "Whale sharks are the biggest fish in the entire ocean",
+    "Every whale shark has a unique spot pattern, like a fingerprint",
+    "Whale sharks eat tiny organisms called plankton by swimming with their mouths open",
+    "Whale sharks have good eyesight that helps them navigate the ocean"
+  ],
+  "moral": "Even the biggest friends can be the gentlest and kindest of all.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold and snowy \u2014 bundle up and come along for the chilly adventure!",
+  "total_duration_seconds": 225
+}

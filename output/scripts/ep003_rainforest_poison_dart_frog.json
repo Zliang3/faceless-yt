@@ -1,0 +1,130 @@
+{
+  "episode_number": 3,
+  "biome": "Rainforest",
+  "guest_animal": "Poison Dart Frog",
+  "title": "Daisy Meets the Rainbow Frog! \ud83c\udf08 | Rainforest Adventure",
+  "description": "\ud83c\udf34 Daisy the bluebird flies into the rainforest and meets Dazzle the poison dart frog! \ud83d\udc38 Together they explore the amazing rainforest and learn why Dazzle is SO colorful! \ud83c\udf08 A perfect nature adventure for curious little ones!",
+  "tags": [
+    "kids",
+    "rainforest",
+    "poison dart frog",
+    "frog",
+    "colorful animals",
+    "nature for kids",
+    "animals for kids",
+    "educational",
+    "Daisy the bird",
+    "biome",
+    "preschool",
+    "toddler learning",
+    "rainforest animals",
+    "animated"
+  ],
+  "thumbnail_prompt": "Bright illustrated scene: Daisy the small bluebird wearing a tiny red scarf stands face-to-face with a vivid blue-and-yellow poison dart frog named Dazzle on a giant green leaf. Lush rainforest background with tall trees, colorful flowers, waterfalls, and dappled sunlight. Bold, saturated colors. Kid-friendly cartoon style. Expressive happy faces on both animals.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! I'm Daisy! Today I'm flying somewhere VERY green and wet! I hear dripping water! Can YOU guess where I'm going?",
+      "visual_description": "Daisy the bluebird bursts onto screen from the left wearing a tiny red scarf. Big colorful swoop animation with a bright green color burst behind him. Daisy flaps wings excitedly and looks directly at camera with big eyes. Animated sparkle trail behind him.",
+      "sound_effects": [
+        "upbeat whoosh sound",
+        "cheerful xylophone jingle",
+        "bird chirp"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all those trees! So tall! So GREEN! This is the RAINFOREST! The rainforest is wet and warm and wild! It rains here a LOT! That's why it's called the RAIN-forest! Drip, drip, drip!",
+      "visual_description": "Wide cinematic pan across a lush rainforest. Enormous trees stretch up to the sky. Thick green leaves everywhere. Water drips from every leaf. Colorful flowers pop out of the green. Daisy flies in slowly, eyes wide, jaw dropped in awe. Soft golden sunlight filters through the canopy above. Mist floats near the forest floor.",
+      "sound_effects": [
+        "tropical birds calling",
+        "rain dripping on leaves",
+        "gentle rushing water",
+        "wonder chime sound"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Ooooh! Wait! What is THAT?! Something is on that leaf! It's so... SHINY! And BLUE! And YELLOW! Wow! Hello? Hello there, little friend! ... Hi Daisy! I'm Dazzle! I'm a poison dart frog! I LOVE this rainforest! It's my home! Nice scarf by the way! Oh thank you Dazzle! Wow, you are SO colorful! What's it like living here in the rainforest?",
+      "visual_description": "Daisy lands on a mossy branch and spots a tiny brilliant blue-and-yellow frog sitting proudly on a giant round leaf below. The frog \u2014 Dazzle \u2014 has huge friendly eyes, a big smile, and glows with vivid color. Dazzle waves one tiny foot at Daisy. Daisy hops closer with curiosity. They are now face to face. Dazzle puffs up chest proudly when introducing himself. Daisy adjusts red scarf nervously and smiles big.",
+      "sound_effects": [
+        "curious plucking string sound",
+        "soft frog ribbit",
+        "friendly 'boing' sound",
+        "giggle"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Dazzle says: Living here is the BEST! The rainforest has everything I need! First \u2014 look at all this RAIN! The rainforest gets rain every single day! Every. Single. Day! All that rain helps HUGE trees grow! And big trees make shade! I love shade! It keeps me cool and wet! Daisy says: Wow, rain every day! That's so much water! Dazzle says: And look at my colors, Daisy! I am BLUE and YELLOW! I am SO bright! These colors are like a SIGN! They say: hey, I am not a snack! My bright colors keep me safe! Daisy says: Oh WOW! Your colors are like a superhero suit! Dazzle says: Exactly! And one more thing! The rainforest floor is full of tiny bugs! I eat bugs with my super long tongue! Watch! Thwap! Daisy says: WHOA! Your tongue is SO fast! That was AMAZING!",
+      "visual_description": "Scene 1: Animated rain falling gently through the canopy, drops bouncing off enormous leaves. Dazzle spreads arms wide showing off the forest. Giant trees illustrated growing upward with time-lapse effect. Dazzle sits happily in a cool shady spot looking cozy. Scene 2: Close-up on Dazzle as sparkle lines radiate from his bright blue-and-yellow skin. An arrow graphic pops up pointing to his color with a little shield icon. Dazzle strikes a superhero pose on the leaf. Daisy looks amazed with stars in eyes. Scene 3: A tiny cartoon bug crawls past on a leaf. Dazzle's tongue shoots out with a THWAP and reels it in like a rubber band. Daisy jumps back in shocked delight, feathers puffing out.",
+      "sound_effects": [
+        "rain sound effect",
+        "magical sparkle chime",
+        "superhero whoosh",
+        "tongue thwap sound effect",
+        "Daisy surprised squawk",
+        "happy boing"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Suddenly \u2014 oh no! Daisy looks worried! Daisy says: Dazzle! I can't find my red scarf! I think it blew away in the wind! I can't fly home without it! Dazzle says: Don't worry Daisy! In the rainforest, we look carefully! Things hide in the green! Let's look TOGETHER! Can YOU help us find the red scarf, friends? Look closely! Daisy says: I see green leaves! I see brown branches! I see... wait... is that RED? There! On that big leaf! Dazzle says: You found it! Bright colors are easy to SPOT! Just like me! Daisy says: You're right Dazzle! Bright colors stand out! Thank you for helping me look!",
+      "visual_description": "Daisy reaches up to adjust red scarf and realizes it is gone. Worried animated expression \u2014 eyebrows up, wings patting neck. Dazzle hops over looking determined. Both characters start searching together, looking left and right. Camera pans slowly across leafy rainforest scene. A tiny flash of red is barely visible tucked under a large round leaf in the corner of the frame. Daisy spots it, flies over, and picks it up happily. Dazzle claps tiny frog feet together. Daisy wraps scarf back on with a relieved smile. Both jump with joy.",
+      "sound_effects": [
+        "worried little violin sting",
+        "searching tiptoeing music",
+        "discovery chime",
+        "happy fanfare",
+        "frog ribbit cheer"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Daisy says: Wow! What a day! I learned SO much! The rainforest gets rain every single day! The rain helps giant trees grow! And Dazzle's bright colors keep him SAFE! Bright colors say: look at me! And we worked TOGETHER to find my scarf! Dazzle says: Friends always help friends, Daisy! Daisy says: I'm going to miss you, Dazzle! Dazzle says: Come back any time! The rainforest is always here! Daisy says: Thank you for teaching me everything! You are the BEST rainforest friend EVER!",
+      "visual_description": "Daisy and Dazzle sit together on a wide mossy log in a warm golden sunbeam breaking through the canopy. Soft animated recap visuals pop up as small thought bubbles above Daisy's head: rain drops, a giant tree, Dazzle's colorful skin with a shield. Both characters look at each other warmly. Dazzle hops up onto Daisy's wing for a hug. Daisy wraps a wing around the tiny frog gently. Both smile at camera. Soft hearts float upward.",
+      "sound_effects": [
+        "soft warm piano melody",
+        "gentle rain ambient",
+        "happy soft chime",
+        "heart pop sounds"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Wings up, friends! It's time for Daisy to fly to a new place! Bye bye Dazzle! See you next time! Friends, if you LOVED meeting Dazzle, hit that subscribe button! So you never miss a new adventure! And next time \u2014 I'm flying somewhere VERY cold and white! Brrrr! Where do YOU think I'm going? Tell me in the comments! Wings up, friends! See you soon!",
+      "visual_description": "Daisy waves goodbye to Dazzle who is perched on a big green leaf waving back with a huge smile. Daisy leaps into the air and swoops upward through the rainforest canopy. View follows Daisy flying up and bursting out above the treetops into bright blue sky. Daisy does a happy loop-the-loop. A big animated subscribe button bounces onto screen. Daisy points at it with one wing. Scene fades to Daisy flying off into the horizon, tiny red scarf trailing behind. Cheerful end card with Dazzle waving in the corner.",
+      "sound_effects": [
+        "upbeat adventure outro music",
+        "bird wings flapping",
+        "cheerful bells",
+        "whoosh flyaway sound",
+        "Dazzle ribbit goodbye"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The rainforest receives rain almost every single day",
+    "All that rain helps enormous trees grow tall and provide shade",
+    "Poison dart frogs have very bright colors that warn other animals to stay away, keeping the frog safe",
+    "Poison dart frogs have extremely long, fast tongues that they use to catch insects to eat",
+    "The rainforest floor is full of tiny bugs that frogs and other animals eat"
+  ],
+  "moral": "Every creature has special gifts that keep them safe, and good friends always help each other.",
+  "next_episode_tease": "Next time Daisy flies somewhere VERY cold and white and icy \u2014 bundle up for a brand new biome adventure!",
+  "total_duration_seconds": 225
+}

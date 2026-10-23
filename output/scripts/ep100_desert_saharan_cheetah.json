@@ -1,0 +1,140 @@
+{
+  "episode_number": 100,
+  "biome": "Desert",
+  "guest_animal": "Saharan Cheetah",
+  "title": "Daisy's 100th Adventure! The Desert's Speedy Cheetah!",
+  "description": "\ud83c\udf89 It's Daisy's 100th adventure! \ud83d\udc26 Today Daisy flies to the hot, sunny Sahara Desert and meets a super speedy Saharan Cheetah! \ud83d\udc06\ud83c\udfdc\ufe0f Together they learn amazing desert facts, help a friend, and celebrate 100 adventures with the FASTEST land animal around!",
+  "tags": [
+    "kids",
+    "desert",
+    "cheetah",
+    "saharan cheetah",
+    "biome",
+    "animals",
+    "educational",
+    "toddler",
+    "preschool",
+    "pip the bird",
+    "100th episode",
+    "milestone",
+    "safari",
+    "africa",
+    "fast animals",
+    "nature for kids",
+    "animated",
+    "learning",
+    "friendly animals",
+    "bluebird"
+  ],
+  "thumbnail_prompt": "Bright sunny Sahara Desert background with golden sand dunes and a blazing yellow sun. Daisy the small bluebird wearing a tiny red scarf stands proudly next to a friendly smiling Saharan Cheetah with spotted golden fur. Both characters look excited and celebratory. Bold colorful confetti and the number 100 float in the air. Vibrant, cartoon style, high contrast colors, kid-friendly illustration.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! WOW! One hundred adventures! Can YOU believe it?! Today I am flying somewhere VERY hot! Can you guess where?",
+      "visual_description": "Daisy the bluebird swoops into frame from a bright golden flash. Daisy wears a tiny red scarf blowing in the wind. A giant sparkling number 100 bursts across the screen in confetti. Daisy does a happy loop-the-loop. Background is bright blue sky. Camera zooms in close on Daisy's excited face.",
+      "sound_effects": [
+        "whoosh of wings",
+        "celebratory trumpet fanfare",
+        "confetti pop",
+        "cheerful upbeat music sting"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at all that SAND! It is everywhere! This is the desert! The DESERT! The Sahara Desert is the biggest hot desert on Earth! It is hot, hot, HOT! Feel that sun! The desert is dry too. Not much water here at all!",
+      "visual_description": "Wide sweeping aerial shot of vast golden sand dunes under a blazing sun. Daisy glides down and lands on top of a tall sand dune. Heat shimmer rises from the sand. A few small dry rocks and a tiny scraggly desert shrub visible in the background. Daisy fans herself with a tiny wing and wipes her forehead. Colors are vivid orange, gold, and bright blue sky.",
+      "sound_effects": [
+        "desert wind whoosh",
+        "dry hot ambient sound",
+        "soft sand shifting",
+        "upbeat curious background music"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! What is that? Something is moving FAST! Really, really FAST! Oh WOW! Hello there! Who are YOU? Hi Daisy! I am Cleo the Saharan Cheetah! A CHEETAH! Right here in the desert! Cleo, do you really live here in this hot desert? I sure do Daisy! The desert is my home! I LOVE it here!",
+      "visual_description": "A flash of movement zips across the sand leaving a small dust trail. Daisy looks startled then excited. A sleek friendly Saharan Cheetah named Cleo slides to a stop. Cleo has golden fur with black spots, a slender build, and a big warm smile. Cleo's fur is slightly lighter and paler than a regular cheetah to show desert adaptation. Daisy and Cleo wave at each other. Cleo does a happy little bounce. Both characters are in close-up, warm lighting.",
+      "sound_effects": [
+        "fast whoosh zip sound",
+        "sand skidding stop",
+        "cheerful greeting musical notes",
+        "light happy background music"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Cleo, you are SO fast! How fast can you run? I can run faster than ANY land animal Daisy! Cheetahs are the FASTEST land animals! The fastest! Wow, FASTEST! Can you show me Cleo? Watch this! ZOOM! See? Super fast! And Daisy, look at my spots! My spots help me HIDE in the sand! Hiding in the sand is called camouflage! Cam-ou-flage! My spots make me hard to see! Oh I see it now! You almost disappeared Cleo! One more thing Daisy! I hunt in the DAY! Most big cats hunt at night. But I use the bright desert sun to spot things far, far away! Your eyes are amazing Cleo! Thank you Daisy! Desert cheetahs have special eyes!",
+      "visual_description": "Cleo crouches low then bursts into a super fast run across the sand dunes. Speed lines and a blur trail follow her. Daisy watches with jaw dropped. Cleo zooms back and skids to a stop. Next Cleo crouches flat against the sand. Her golden spotted coat blends beautifully with the sand color. Daisy squints and points, barely seeing Cleo. Cleo pops up and laughs. Then Cleo stands tall shielding her eyes with one paw, gazing far into the sunny desert horizon. Close-up on Cleo's big bright eyes with a sparkle animation.",
+      "sound_effects": [
+        "rocket speed whoosh",
+        "sand skid",
+        "amazed gasp sound effect",
+        "camouflage shimmer sound",
+        "eye sparkle chime",
+        "upbeat educational background music"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! A little desert mouse is stuck behind a big rock! He is scared! He cannot find his way home! Oh dear! What do we do Cleo? Daisy I have an idea! I will use my FAST running to check all the paths! And I will fly HIGH to see from above! Good idea Daisy! Together we can help! Look! I can see his little home from up here! It is right over there! This way little mouse! He made it home! Hooray! We did it together!",
+      "visual_description": "A tiny round desert mouse with big ears is wedged near a large boulder looking frightened and lost. Daisy and Cleo look at each other and nod with determined smiles. Cleo sprints in a wide circle around the rocks checking different sandy paths. Daisy flies up high into the sky and looks down with a bird's-eye view. Daisy spots a small cozy mouse burrow in the sand near a rock cluster and points excitedly. Cleo gently nudges the mouse in the right direction. The mouse scurries safely into his burrow. The mouse pops his head out and gives a happy squeak. Daisy and Cleo high-five with a paw and wing.",
+      "sound_effects": [
+        "worried small squeak",
+        "fast running whoosh",
+        "wings flapping upward",
+        "triumphant happy chime",
+        "mouse happy squeak",
+        "cheering celebration sound"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow, what a day! I learned SO much! The desert is hot and dry. Saharan Cheetahs are the FASTEST land animals! Cheetahs use their spots for camouflage! And they hunt in the daytime! Most importantly, when friends work TOGETHER, we can help anyone! Right Cleo? Right Daisy! Every home is special. Even the hot, hot desert! I love my desert home! And I love visiting it Cleo! Friends can be SO different. And that is a wonderful thing! Happy 100 adventures Daisy! Happy 100 adventures everyone!",
+      "visual_description": "Daisy and Cleo stand side by side on a golden sand dune. The setting sun turns the sky beautiful orange and pink. Daisy counts on tiny wing feathers recapping the facts. Each fact gets a small illustrated flashback bubble: a thermometer for hot, Cleo running for speed, Cleo camouflaged for spots, a bright sun for daytime. Then Daisy and Cleo share a big warm hug. Giant sparkling 100 appears in the sky again with confetti. Both characters look directly at the camera smiling big.",
+      "sound_effects": [
+        "warm gentle music",
+        "recap chime for each fact",
+        "hug squish sound",
+        "celebratory fanfare",
+        "confetti pop"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Thank you SO much for 100 adventures friends! YOU are the best! Goodbye Cleo! Goodbye Daisy! Come back soon! If you want to come on MORE adventures with me, press that subscribe button! Can YOU find it? And tell me in the comments, what was YOUR favorite adventure? Next time I am flying somewhere VERY cold and icy! Brrr! Where do YOU think I am going? Wings up, friends! See you next time!",
+      "visual_description": "Daisy hugs Cleo one final time on the sand dune. Cleo waves a big paw. Daisy puts on her tiny red scarf proudly, gives a big wink to camera, and leaps into the air flapping her wings. Daisy flies up and away into the colorful sunset sky leaving a little sparkle trail. A glowing subscribe button bounces on screen with a gentle chime. The number 100 with stars frames the final shot. Screen fades to warm gold with Daisy's silhouette flying into the horizon.",
+      "sound_effects": [
+        "warm goodbye music swell",
+        "wing flap takeoff",
+        "sparkle trail sound",
+        "subscribe button chime",
+        "wind whoosh",
+        "cheerful upbeat outro music"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Saharan Cheetahs are the fastest land animals on Earth",
+    "Cheetahs have spotted coats that act as camouflage blending into desert sand",
+    "Saharan Cheetahs hunt during the daytime unlike most big cats",
+    "The Sahara Desert is the largest hot desert on Earth",
+    "The Sahara Desert is very hot and very dry with little water"
+  ],
+  "moral": "When friends work together and share what they know, they can help anyone in need.",
+  "next_episode_tease": "Next time Daisy flies somewhere freezing cold and icy \u2014 bundle up and guess where Daisy is heading next!",
+  "total_duration_seconds": 225
+}

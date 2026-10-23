@@ -1,0 +1,139 @@
+{
+  "episode_number": 36,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Harbor Seal",
+  "title": "Daisy Meets a Seal on the Icy Arctic Shore!",
+  "description": "\ud83d\udc26 Daisy the bluebird flies to the freezing Arctic and meets a friendly harbor seal named Sully! \u2744\ufe0f Together they explore the snow, ice, and chilly ocean water. \ud83e\uddad Kids will learn amazing facts about seals and the beautiful Arctic biome!",
+  "tags": [
+    "kids",
+    "arctic",
+    "tundra",
+    "harbor seal",
+    "seal",
+    "biome",
+    "animals",
+    "educational",
+    "pip the bird",
+    "nature for kids",
+    "preschool",
+    "toddler learning",
+    "wildlife",
+    "bluebird",
+    "ocean animals",
+    "ice",
+    "snow",
+    "youtube kids"
+  ],
+  "thumbnail_prompt": "A cheerful small bluebird wearing a tiny red scarf swoops over a stunning icy Arctic landscape with snow-covered ground and a shimmering frozen ocean. A round, spotted harbor seal with big brown eyes and a wide smile sits on a white ice floe in the foreground, waving a flipper. Bright pastel blue sky, fluffy clouds, sparkly snow glitter effects, bold colorful title text space at top. Cute, friendly, animated style for children.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! It's ME, Daisy! Today I am flying somewhere VERY cold! Brrr! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird bursts onto a white screen in a flash of blue and gold sparkles, tiny red scarf flapping behind. Daisy does a big looping swoop toward the camera, winking. Background transitions quickly from warm yellow to icy pale blue. Snowflakes begin drifting down. Daisy shivers with a big exaggerated wiggle and grins at the viewer.",
+      "sound_effects": [
+        "cheerful upbeat theme jingle",
+        "whooshing wing flap",
+        "sparkle chime burst",
+        "light wind gust beginning"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at all the SNOW! And ICE! This is the ARCTIC! The Arctic is cold, cold, COLD! See the big frozen ocean? That is ice floating on water! This is the ARCTIC, friends!",
+      "visual_description": "Daisy flies in from the top of the frame and lands on a snowy ice ledge. Camera pans wide to reveal a breathtaking Arctic scene \u2014 vast white snowfields, chunks of blue-white ice floating on a glittering grey-blue ocean, and a pale sky with soft pink and gold light near the horizon. Daisy pulls the tiny red scarf tighter and puffs up with wide eyes. Little animated breath clouds puff from Daisy's beak. The word ARCTIC appears in big icy blue letters on screen with a frost shimmer effect.",
+      "sound_effects": [
+        "cold wind whistling softly",
+        "crunching snow underfoot",
+        "gentle lapping icy waves",
+        "icy chime sparkle when text appears"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Oh! What is THAT? Something is moving on the ice! It is round and spotty and... it is a SEAL! Hello, seal! I am Daisy! Who are YOU? ... Hi Daisy! I am Sully! I am a HARBOR SEAL! I LOVE it here in the Arctic! Welcome to my icy home!",
+      "visual_description": "Daisy hops carefully across the ice, looking curious. A large round spotted harbor seal \u2014 Sully \u2014 pops up from behind an ice chunk, big brown eyes wide and friendly, whiskery face smiling. Sully has grey and dark-spotted fur and waves a smooth flipper at Daisy. Daisy jumps back with a big WHOOPS expression, then laughs and hops closer. They do a little greeting \u2014 Daisy bows, Sully claps flippers together. Animated sparkles of friendship appear between them. Sully's name appears on screen in a fun bubble font.",
+      "sound_effects": [
+        "playful seal bark sound",
+        "surprised Daisy chirp",
+        "friendly upbeat musical sting",
+        "ice creaking gently",
+        "both characters laughing softly"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Sully, how do you stay WARM? It is SO cold here! ... Great question, Daisy! I have a thick layer called BLUBBER under my skin! Blubber is like a warm coat INSIDE my body! BLUBBER keeps me cozy! Wow, BLUBBER! Can I have some? Ha ha! You have feathers, Daisy! Those keep YOU warm! ... Oh WOW! And Sully \u2014 what do you EAT? ... I eat FISH! I swim fast and catch them! Watch me! ... WHOOOOSH! Sully swims SO fast! Harbor seals are amazing swimmers! Those big flippers help them swim! Flippers are like hands AND feet together! Cool FLIPPERS! ... And look at my WHISKERS, Daisy! My whiskers feel fish moving in the water! My whiskers help me FIND food! Whiskers are super helpful!",
+      "visual_description": "Scene 1 \u2014 Daisy pokes at Sully's round tummy curiously. Sully puffs up proudly showing off. An animated cross-section diagram appears briefly showing a cute cartoon layer of yellow blubber under seal skin with the word BLUBBER in big letters. Scene 2 \u2014 Sully slides off the ice into the water with a big splash. Underwater view shows Sully zooming after animated fish, flippers propelling gracefully. Daisy watches from the ice edge with jaw dropped in amazement. Scene 3 \u2014 Close-up on Sully's long silver whiskers. Small animated fish swim near them and the whiskers wiggle and glow. Daisy touches own beak feathers and compares with a giggle. Each fact gets a small illustrated fact badge popping onto screen.",
+      "sound_effects": [
+        "big water splash",
+        "underwater bubbling sounds",
+        "fast swooshing swim effect",
+        "fish splashing",
+        "Daisy gasping in amazement",
+        "playful discovery chime for each fact badge",
+        "seal whisker wiggle comedy sound"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! Sully's favorite BALL is floating away on the ice! It is drifting FAR into the cold water! Sully is sad! Can WE help? Hmm... Sully is a great SWIMMER! And Daisy can FLY! Let's work TOGETHER! Daisy will FLY over and spot where the ball is! Then Sully will SWIM fast and get it! Ready? GO! ... I see it! It is over THERE, Sully! Swim swim swim! ... Sully zooms through the water \u2014 SPLASH! Got it! YAY! We did it TOGETHER!",
+      "visual_description": "A bright orange ball sits on a floating ice chunk drifting slowly away from the shore. Sully looks at it with a worried face, flippers pressed together. Daisy flutters up high into the air, scanning with one wing shading their eyes like a little explorer. Daisy points dramatically toward the ball. Sully dives in with a huge splash, water droplets sparkling. Underwater shot of Sully speeding toward the ball, grabbing it in their mouth. Sully pops back up onto the ice triumphantly, ball held high. Daisy lands on Sully's head and they both cheer. Confetti and sparkles burst across the screen.",
+      "sound_effects": [
+        "sad little music sting",
+        "Daisy determined flying sound",
+        "big cannonball splash",
+        "cheering fanfare",
+        "confetti pop sounds",
+        "both characters cheering together"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! Today I learned SO much! The Arctic is cold, cold, COLD \u2014 but animals LOVE it there! Harbor seals have BLUBBER to stay warm! They have FLIPPERS to swim fast! And their WHISKERS help them find food! Every animal has special things that help them! And you know what I learned TOO? Working TOGETHER is always better! Thank you, Sully! You are the BEST friend! ... Come back anytime, Daisy! Wings up!",
+      "visual_description": "Daisy and Sully sit side by side on the ice, both facing the camera. Behind them the Arctic glows with soft golden-pink light \u2014 a beautiful moment. Daisy holds up one wing as each fact is recapped and small illustrated icons pop up: a warm blubber coat icon, a flipper icon, a whiskers icon \u2014 each glowing as it appears. Daisy and Sully turn to each other and share a big hug \u2014 Daisy buries into Sully's soft spotted fur. Both smile warmly at the camera. Arctic snow swirls gently around them like a snow globe.",
+      "sound_effects": [
+        "warm gentle piano melody",
+        "soft snow wind",
+        "chime for each fact icon",
+        "happy gentle hug sound effect",
+        "soft cheerful outro music building"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Bye bye, Sully! I will MISS you! ... Bye Daisy! Come back soon! ... Wings up, FRIENDS! I had SO much fun in the Arctic! Did YOU like the Arctic? Tell me in the comments! And if you want to come on MORE adventures with me \u2014 hit that SUBSCRIBE button! Next time... I am flying somewhere with BIG tall trees and crunchy leaves on the ground! Where do YOU think I am going? See you next time! Wings up!",
+      "visual_description": "Daisy waves enthusiastically at Sully, who claps flippers and bounces happily on the ice. Daisy leaps into the air, red scarf streaming behind, and flies up toward the top of the screen. Camera follows Daisy up and out over the snowy Arctic landscape getting smaller and smaller. A subscribe button animation bounces onto screen with a cheerful bell. Then the scene fades to a question mark icon surrounded by autumn-colored leaves hinting at the next episode. Final frame: Daisy silhouetted against the pale Arctic sky, one wing raised in a wave, red scarf fluttering. Logo appears.",
+      "sound_effects": [
+        "fond farewell music swell",
+        "Sully happy barking goodbye",
+        "wing flap swoosh flying off",
+        "subscribe button pop chime",
+        "outro theme jingle full",
+        "wind fading into silence"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Harbor seals have a thick layer of fat called blubber under their skin that keeps them warm in freezing Arctic temperatures",
+    "Harbor seals use their large flippers to swim fast and gracefully through cold ocean water",
+    "Harbor seals have long sensitive whiskers that can detect vibrations in the water to help them locate fish",
+    "The Arctic is a cold biome covered in snow and ice with a frozen ocean"
+  ],
+  "moral": "Every animal has special gifts that help them thrive, and working together with friends makes every challenge easier to solve.",
+  "next_episode_tease": "Next time Daisy flies to a biome with tall trees and crunchy colorful leaves \u2014 the temperate forest! What animal will Daisy meet there?",
+  "total_duration_seconds": 225
+}

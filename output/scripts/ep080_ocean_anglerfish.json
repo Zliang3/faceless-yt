@@ -1,0 +1,133 @@
+{
+  "episode_number": 80,
+  "biome": "Ocean",
+  "guest_animal": "Anglerfish",
+  "title": "Daisy and the Deep Ocean Glow! \ud83c\udf0a\u2728",
+  "description": "Daisy the bluebird dives deep into the dark ocean and meets a friendly anglerfish named Luna who lights up the darkness! \ud83d\udc1f\u2728 Together they learn all about the deep ocean and how some animals make their own light! \ud83c\udf0a A glowing adventure full of fun, friendship, and amazing facts! \ud83d\udc99",
+  "tags": [
+    "kids",
+    "ocean",
+    "anglerfish",
+    "deep sea",
+    "bioluminescence",
+    "animals",
+    "nature",
+    "educational",
+    "preschool",
+    "Daisy the bluebird",
+    "biome",
+    "underwater",
+    "glow",
+    "light",
+    "friendship"
+  ],
+  "thumbnail_prompt": "Cute cartoon bluebird Daisy wearing a tiny red scarf floating in a deep dark blue ocean, face-to-face with a friendly smiling anglerfish with a glowing light dangling from its head, surrounded by tiny glowing particles and deep sea bubbles, bright teal and navy blue tones, big expressive eyes on both characters, warm magical glow lighting the scene, colorful kids animation style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Today I am flying somewhere very DARK! It is deep, deep underwater! Can YOU guess where I am going? The OCEAN! Let us go!",
+      "visual_description": "Daisy the bluebird swoops into frame wearing tiny red scarf, bright color burst of blues and teals fills the screen, Daisy does a big loop in the air, ocean waves shimmer below, wide excited eyes, big swooping motion toward the water",
+      "sound_effects": [
+        "whoosh swooping sound",
+        "upbeat bubbly intro jingle",
+        "splash sound effect",
+        "cheerful chime"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at this! We are in the OCEAN! The deep, deep ocean! It is SO dark down here! The deep ocean is dark and cold and very, very deep! Wow! Do you see all those tiny glowing lights? The deep ocean is full of surprises!",
+      "visual_description": "Daisy floats underwater in a magical deep ocean scene, dark navy blue water all around, tiny bioluminescent particles drifting by, strange glowing shapes in the distance, Daisy looks around with huge amazed eyes, red scarf floats gently in the water, soft glowing blue and green light dots everywhere, beautiful and mysterious but friendly and warm looking",
+      "sound_effects": [
+        "soft underwater ambient hum",
+        "gentle bubbling sounds",
+        "soft magical sparkle chimes",
+        "low gentle whale-song tone in background"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "What IS that glowing light over there? It is coming closer! Oh! HELLO! Wow, a new friend! Hi! I am Daisy! Who are YOU? Oh my goodness! Look at that LIGHT on her head! So cool! She says her name is LUNA the anglerfish! Hi Luna! What kind of fish are you? She is an ANGLERFISH! An anglerfish lives right here in the deep ocean! Luna, what is it like living down here?",
+      "visual_description": "A glowing light bobs toward Daisy through the dark water, Luna the anglerfish comes into view \u2014 she is big-eyed, friendly looking, purple-gray with shimmery scales, a glowing bioluminescent lure dangling from her forehead on a little stalk, big warm smile showing small rounded friendly teeth, Daisy gasps in delight and waves enthusiastically, Luna wiggles happily and her lure bobs and glows brighter, they face each other warmly",
+      "sound_effects": [
+        "soft magical glow hum",
+        "friendly bubbly greeting sound",
+        "cheerful little musical sting",
+        "bubbles popping gently"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Luna says the deep ocean is very, very dark! No sunshine reaches down here! It is dark ALL the time! WOW! But Luna is not scared! She has her very own LIGHT! See that glowing thing on her head? That is called a LURE! A lure! Luna makes her very own light! That is called bioluminescence! Bio-lu-mi-NES-cence! It means making your own light! Is that not AMAZING? Luna lights up all by herself! She does not need a lamp! She does not need the sun! She makes her OWN light! And look! Luna uses her glowing lure to help her see in the dark! The light helps other little fish come closer too! So cool! Luna is like a little lantern in the deep dark ocean! Daisy tries to glow too \u2014 oh no, birds cannot glow! Ha ha! That is okay Daisy!",
+      "visual_description": "Luna demonstrates her glowing lure by wiggling it, it pulses with warm golden-blue light, Daisy stares with enormous eyes and open beak, Luna swims in a slow circle letting her light illuminate the dark water around them showing other tiny glowing sea creatures in the background, Daisy tries to glow by puffing up and squeezing eyes shut with effort, nothing happens, both characters laugh in a friendly bubbly way, Luna's lure glows brighter as if laughing too, cute animated sparkles around Luna every time she glows",
+      "sound_effects": [
+        "glowing shimmer sound effect",
+        "wonder musical chime",
+        "bubbly giggle sounds",
+        "soft pop when Daisy tries to glow and fails",
+        "warm laughter bubbles"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Daisy looks around and \u2014 uh oh! Everything is SO dark! Daisy cannot see the way back up! It is very dark! Daisy feels a little lost! Oh no! What do we do? Luna says \u2014 do not worry friend! I can HELP! Luna lights up her glowing lure \u2014 BRIGHT! Super bright! Now Daisy can see! Luna uses her light to show Daisy the way! She glows and glows and leads Daisy through the dark water! Daisy follows the light! The glowing lure lights up the path! They swim together \u2014 up, up, up! And there it is! The light from the sun way above! Daisy can see the way! YAY! Luna saved the day with her glow!",
+      "visual_description": "The water around Daisy goes very dark and Daisy spins around looking confused and a little worried, Luna notices and her expression becomes warm and determined, Luna's lure suddenly blazes bright golden-white light illuminating a wide area, Daisy's face floods with relief and joy, Luna slowly swims upward with lure glowing like a lantern, Daisy follows close behind, the path upward becomes visible with soft rays of sunlight filtering down from far above, both characters look happy and the scene feels warm and safe despite the darkness",
+      "sound_effects": [
+        "soft tense low hum briefly",
+        "sudden bright shimmer sound when lure blazes",
+        "hopeful uplifting musical swell",
+        "bubbling swimming sounds",
+        "triumphant cheerful chime at the top"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! What a day! Daisy learned SO much! The deep ocean is very dark and cold! Anglerfish live way down deep! Luna makes her own light! That light is called bioluminescence! She uses her glowing lure to see in the dark! And today Luna used her special light to HELP a friend! That is the best use of a superpower! Helping someone else! Luna, you are an amazing friend! Luna, thank you for sharing your light with me! Luna gives Daisy a big glowing goodbye nuzzle! Daisy glows a little from the reflection \u2014 look! Now Daisy is glowing too! Kind of! Ha!",
+      "visual_description": "Daisy and Luna float side by side near the top of the deep ocean zone, soft light from above and Luna's glow lighting both characters warmly, Daisy gestures with wings as if recounting the adventure, Luna listens proudly and happily, Luna leans in and gives Daisy a gentle nuzzle with her glowing lure touching Daisy's cheek casting a warm golden glow on Daisy's feathers, Daisy looks down at glowing feathers with delighted surprise, both characters share a warm laugh, small glowing hearts float up around them",
+      "sound_effects": [
+        "warm gentle musical theme",
+        "soft glowing shimmer sound",
+        "bubbly happy sounds",
+        "tiny heart pop sounds",
+        "gentle ocean ambience"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "It is time for Daisy to fly home! Bye Luna! Thank you for glowing! Luna waves with her fins and her lure blinks \u2014 like a little goodbye light! So sweet! Did YOU learn something new today friends? Tell me in the comments \u2014 what does bioluminescence mean? I bet you know! And hey \u2014 if you want to come on MORE adventures with me, hit that subscribe button! Wings up, friends! Next time I am flying somewhere with LOTS of trees and jungle sounds! Where do YOU think I am going? See you next time!",
+      "visual_description": "Daisy waves goodbye to Luna at the ocean surface, bright cheerful blue sky above and shimmering ocean water below, Luna pokes her head up briefly with glowing lure blinking in a wave pattern, Daisy does a big happy loop in the air with red scarf streaming behind, turns to face the camera directly with big warm smile, gestures a wing toward the viewer pointing downward toward a subscribe button graphic, then with a big swooping motion Daisy flies off toward the horizon into golden warm light, Luna's glow visible just below the water surface as a farewell twinkle",
+      "sound_effects": [
+        "upbeat cheerful outro jingle",
+        "bloop goodbye sound",
+        "whoosh flying away sound",
+        "ocean wave sound",
+        "final chime sting"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The deep ocean gets no sunlight \u2014 it is completely dark",
+    "Anglerfish live in the deep dark parts of the ocean",
+    "Anglerfish have a glowing lure that grows from their head",
+    "The lure makes light through a process called bioluminescence",
+    "Bioluminescence means an animal makes its own light",
+    "Anglerfish use their glowing lure to see and to attract other animals in the dark"
+  ],
+  "moral": "Your special gifts are even more wonderful when you use them to help a friend.",
+  "next_episode_tease": "Next time Daisy flies into a loud, leafy jungle full of amazing animals \u2014 can you guess what biome is next?",
+  "total_duration_seconds": 225
+}

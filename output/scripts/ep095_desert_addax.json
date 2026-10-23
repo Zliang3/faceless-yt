@@ -1,0 +1,131 @@
+{
+  "episode_number": 95,
+  "biome": "Desert",
+  "guest_animal": "Addax",
+  "title": "Daisy Meets the Addax! | Desert Adventure",
+  "description": "\ud83c\udf35 Daisy the bluebird flies to the hot, sandy desert and meets a very special friend \u2014 the Addax! \ud83e\udd8c Learn amazing facts about how the Addax survives in the desert, and help Daisy and the Addax solve a fun little problem together! \ud83d\udc26\u2764\ufe0f",
+  "tags": [
+    "kids",
+    "desert",
+    "addax",
+    "biome",
+    "animals",
+    "educational",
+    "preschool",
+    "toddlers",
+    "nature",
+    "wildlife",
+    "pip the bird",
+    "bluebird",
+    "animated",
+    "learning",
+    "africa"
+  ],
+  "thumbnail_prompt": "A cute cartoon bluebird named Daisy wearing a tiny red scarf hovers excitedly next to a friendly white Addax antelope with long twisted horns, both smiling, set against a bright golden sandy desert with sand dunes, blue sky, and a blazing sun, vibrant colors, wide-eyed adorable character design, kids animated style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! Hi! Hi! I am flying somewhere VERY hot today! There is SO much sand! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird bursts into frame from the left wearing a tiny red scarf, wings flapping fast, a big burst of golden sparkles explodes behind him, he does a swooping loop, the background is a bright white sky, Daisy looks directly at the viewer with huge excited eyes",
+      "sound_effects": [
+        "upbeat whoosh sound",
+        "sparkle chime burst",
+        "cheerful background music starts"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at ALL that sand! This is the DESERT! The desert! Wow! It is so hot! And so dry! No rain here! The desert is hot, hot, hot! And it goes on and on and on!",
+      "visual_description": "Daisy swoops down and lands on top of a tall golden sand dune, the camera pans wide to show endless rolling sand dunes under a blazing yellow sun, heat waves shimmer in the air, a few rocks and tiny dry shrubs dot the landscape, Daisy fans himself with his wing and looks amazed, bright warm golden color palette",
+      "sound_effects": [
+        "wind blowing softly over sand",
+        "sizzling heat sound effect",
+        "Daisy landing puff of sand sound"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! Who lives here in the desert? Wait! Look over THERE! Oh my goodness! What is THAT? Hello! Hello, friend! Hi! I am Daisy! Who are YOU?... I am Addie the Addax! I live RIGHT here in the desert! Welcome, Daisy! Oh WOW! An Addax! You are BEAUTIFUL! Look at those twisty horns! What is it like living here, Addie?",
+      "visual_description": "Daisy hops along the sand looking curious, peering behind a dune, then a friendly white and sandy-brown Addax with long elegant spiral horns and a fluffy white face patch pops up from behind the dune with a big smile, Daisy jumps back startled then laughs, the two characters face each other warmly, Addie does a little proud head toss showing off her horns, her coat shimmers pale white in the sun",
+      "sound_effects": [
+        "curious plucking music sting",
+        "Addax gentle snort sound",
+        "surprise boing sound effect",
+        "warm friendly music swell"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "I LOVE the desert! It is my home! Oh! But Addie, it is SO hot! How do you stay cool? Well Daisy, my coat is WHITE! White fur keeps the sun away! It reflects the sun! See? My white coat helps me stay cool! Wow! White fur! That is SO smart! And Addie, do you get thirsty? No! I get all my water from PLANTS! I eat plants! The plants have water inside! Water inside plants! Amazing! So you NEVER need to drink? Almost never! The desert plants give me everything! Oh WOW! And look at my feet, Daisy! Your feet? They are BIG and flat! Big flat feet! They help me walk on the sand! Like snowshoes but for SAND! Sand shoes! Hahaha! Sand shoes! I love it!",
+      "visual_description": "Addie stands proudly in the sunlight showing off her pale white coat which gleams, an animated ray of sunlight bounces off her coat illustrated as little arrows reflecting away, then Addie lowers her head and nibbles on a small dry desert shrub, a little water droplet animation pops out of the plant to show the water inside it, then Addie lifts one wide splayed hoof and wiggles it, a close-up shows the broad flat hoof, then Daisy tries to walk on the sand and sinks, then walks beside Addie who walks easily on top, both characters laugh together",
+      "sound_effects": [
+        "magical sparkle sound for each fact",
+        "munching plant sound",
+        "water droplet drip sound",
+        "Daisy sinking in sand squelch sound",
+        "laughing giggle sounds"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh! This is so fun! Wait! Oh no! Look! A big sandstorm is coming! Oh no oh no! Daisy! Do not worry! I know what to do! Come with me! We go behind this big rock! Rocks block the sand and wind! Hurry! OK! Let us go! Phew! We made it! The rock is keeping us safe! You saved us Addie! I knew just what to do! Desert animals know the desert best! Wow! That is SO true!",
+      "visual_description": "The sky behind the dunes suddenly turns orange-brown and a wall of swirling sand begins rolling toward them, Daisy's eyes go wide and he grabs his tiny red scarf to stop it blowing away, Addie looks calm and confident, she nudges Daisy gently with her nose toward a cluster of large smooth boulders, they both dash behind the rocks, the sandstorm swirls past shown as orange swirly lines, behind the rock they are perfectly safe, sand swirls around the rock edges but they are cozy and sheltered, Daisy hugs his red scarf happily",
+      "sound_effects": [
+        "ominous wind building sound",
+        "rushing sand whooshing sound",
+        "fast running footstep sounds",
+        "thud of stopping behind rock",
+        "storm passing whoosh",
+        "sigh of relief sound"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! What a day! I learned SO much! The Addax lives in the DESERT! The desert is hot and dry! Addie has a white coat to stay cool! She gets water from plants! And her big flat feet help her walk on sand! The desert is a very special place! Every animal has a special home! And every home is just right for them! I love my new friend Addie! I love you too Daisy! You are welcome here any time! Awww! Group hug!",
+      "visual_description": "The sandstorm has passed, the sky is clear and golden again, Daisy and Addie walk out from behind the boulder together, Daisy sits on top of Addie's head between her horns, looking happy, a recap montage shows three small circular flashback bubbles: one of Addie's white coat reflecting sun, one of Addie eating a plant with a water drop, one of Addie's wide flat hoof, then Daisy hops down and spreads his wings wide and Addie lowers her head and they share a big warm nuzzle hug, warm sunset light glows behind them",
+      "sound_effects": [
+        "gentle warm music swell",
+        "recap chime for each fact bubble",
+        "warm hug squish sound",
+        "happy sighing music"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Goodbye Addie! Goodbye Daisy! Come back soon! I will! Friends, was that not AMAZING? The Addax is SO cool! If you loved meeting Addie, press the subscribe button right NOW! It looks like a big red button! Can YOU find it? And tell me down below \u2014 what was YOUR favorite Addax fact? Wings up, friends! See you next time! Oh and friends \u2014 next time I am flying somewhere VERY cold and icy! Brrr! Where do YOU think I am going?",
+      "visual_description": "Daisy waves his wing warmly at Addie who waves a hoof back, Daisy then turns and faces the viewer directly with a huge smile and his red scarf fluttering, a big animated red subscribe button bounces on screen with sparkles around it, Daisy points to it excitedly, then Daisy leaps into the air and flies up and away into the blue sky over the desert dunes, a trail of blue sparkles left behind, final freeze frame shows Daisy as a tiny dot in the bright sky with the words WINGS UP FRIENDS in big fun letters, small snowflake graphics appear in the corner as a tease",
+      "sound_effects": [
+        "cheerful wave music",
+        "subscribe button boing sound",
+        "sparkle chime trail",
+        "upbeat outro music swells",
+        "whoosh as Daisy flies away",
+        "wind and distant chime fade out"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The Addax is a desert antelope that lives in the Sahara Desert in Africa",
+    "The Addax has a pale white coat that reflects sunlight to help keep it cool in the heat",
+    "The Addax gets nearly all the water it needs from the plants it eats and rarely needs to drink",
+    "The Addax has wide flat hooves that spread out to help it walk on soft sand without sinking",
+    "Addax are very well adapted to survive in one of the hottest driest places on Earth"
+  ],
+  "moral": "Every animal is perfectly made for its own special home.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold and icy \u2014 bundle up for a brand new Arctic adventure!",
+  "total_duration_seconds": 225
+}

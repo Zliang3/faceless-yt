@@ -1,0 +1,179 @@
+{
+  "episode_number": 51,
+  "biome": "Savanna",
+  "guest_animal": "Flamingo",
+  "title": "Daisy Meets the Pink Flamingo! | Savanna Adventure",
+  "description": "\ud83c\udf05 Daisy the bluebird flies to the sunny savanna and meets Flora the Flamingo! \ud83e\udda9 Together they discover why flamingos are SO pink, how they stand on one leg, and what it feels like to live on the wide open savanna! \ud83c\udf3e A perfect episode for little explorers who love colorful animals!",
+  "tags": [
+    "kids",
+    "savanna",
+    "flamingo",
+    "pip the bluebird",
+    "animals for kids",
+    "educational",
+    "preschool",
+    "nature",
+    "pink flamingo",
+    "african animals",
+    "biome",
+    "wildlife for kids",
+    "toddler learning",
+    "animal friends"
+  ],
+  "thumbnail_prompt": "Daisy the small bluebird wearing a tiny red scarf stands next to Flora the tall bright pink flamingo in a golden savanna landscape at sunset, with tall golden grasses and a shimmering watering hole in the background, warm orange sky, colorful and cartoonish style, big friendly eyes on both animals, vibrant and eye-catching",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! I'm Daisy! Today I'm flying somewhere warm and VERY wide open! I can see SO much grass! Can YOU guess where I'm going?",
+      "visual_description": "Daisy the bluebird swoops into frame from the left wearing his tiny red scarf, bright yellow light burst fills the screen behind him, he flaps his wings excitedly and looks directly at the viewer with big curious eyes, golden grassy plains visible in the blurred background",
+      "sound_effects": [
+        "swoosh of wings",
+        "upbeat xylophone jingle",
+        "wind whoosh",
+        "light sparkle chime"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at this place! It's SO big! This is the SAVANNA! The savanna has lots and lots of golden grass! The savanna is warm and sunny! Can you say it with me? SA-VAN-NA! It's beautiful here on the savanna!",
+      "visual_description": "Wide panoramic reveal of a bright sunny savanna, golden grasses sway in the breeze, a big blue sky with fluffy clouds, a glittering watering hole shines in the distance, acacia trees dot the horizon, Daisy lands on a small rock and spins around looking amazed in every direction, camera slowly pans across the landscape",
+      "sound_effects": [
+        "warm breeze sound",
+        "birds chirping gently",
+        "soft savanna ambient music",
+        "Daisy gasping in wonder"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Oh! Oh! What is THAT?! Something pink is by the water! It's SO tall! And SO pink! Hello! Hello there! Hi! I'm Daisy! Who are YOU? Ooooh! A flamingo! A REAL flamingo! Wow wow WOW!",
+      "visual_description": "Daisy hops along toward the watering hole and spots Flora the Flamingo standing gracefully at the water's edge, Flora is bright pink with a curved beak and long thin legs, she turns her head slowly and sees Daisy, her big eyes light up with a warm friendly smile, she bends her long neck down to say hello at Daisy's level, the water ripples gently around her feet",
+      "sound_effects": [
+        "Daisy's little footsteps hopping",
+        "soft water rippling",
+        "flamingo soft honking call",
+        "cheerful greeting music sting"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "Hi Daisy! I'm Flora the Flamingo! Welcome to MY savanna! I LOVE it here! There's yummy food and warm sun all day!",
+      "visual_description": "Flora the Flamingo stands tall and proud, she does a little happy wiggle, her pink feathers shimmer in the golden sunlight, Daisy sits on a nearby rock looking up at her with stars in his eyes, the watering hole sparkles behind them both",
+      "sound_effects": [
+        "warm cheerful music",
+        "gentle water lapping",
+        "soft wind"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "1:25",
+      "narration": "Flora! You are SO pink! Why are you pink? Ooh! Great question Daisy! I eat tiny pink shrimp! The shrimp make me PINK! The more I eat the pinker I get! Isn't that AMAZING?",
+      "visual_description": "Flora dips her curved beak into the watering hole and scoops up water, small animated pink shrimp are visible in the water, Flora lifts her head and swallows, a little sparkle effect shows her feathers glowing even pinker, Daisy's eyes go wide with amazement, close up on Flora's beautiful pink feathers shimmering",
+      "sound_effects": [
+        "splashing water",
+        "munching sound effect",
+        "magical sparkle chime",
+        "Daisy saying wow"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:25",
+      "end_time": "1:50",
+      "narration": "Wow! Pink shrimp make you PINK! That is SO cool! And Flora \u2014 why are you standing on ONE leg? That looks tricky! Heehee! I stand on one leg to stay warm Daisy! It helps my body save heat! One leg up \u2014 nice and cozy! Can YOU stand on one leg friends?",
+      "visual_description": "Camera pulls back to show Flora elegantly balanced on one leg, her other leg tucked up close to her body, Daisy tries to balance on one leg too and wobbles hilariously, viewer is invited to try at home with a fun animated prompt showing a little foot lifting up, Flora giggles warmly and steadies Daisy with her wing",
+      "sound_effects": [
+        "comedic wobble sound",
+        "Flora laughing softly",
+        "balancing game music",
+        "light boing sound when Daisy wobbles"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:50",
+      "end_time": "2:10",
+      "narration": "Flamingos live together in big groups! A group of flamingos is called a FLOCK! A big flock! Lots and lots of flamingos together! Friends all together on the savanna! Just like US! We are friends too!",
+      "visual_description": "Wide shot reveals dozens of pink flamingos gathered at the watering hole in the background, some standing on one leg, some dipping their beaks in the water, the whole scene is a sea of beautiful pink, Daisy flies up high to see the whole flock and gasps at how many there are, Flora spreads her wings proudly",
+      "sound_effects": [
+        "flock of flamingos calling softly",
+        "sweeping orchestral moment",
+        "Daisy's delighted gasp",
+        "warm ambient savanna sounds"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:10",
+      "end_time": "2:45",
+      "narration": "Oh no! Look! A baby flamingo is all alone! The little one is lost from the flock! The baby looks scared! What do we DO Flora? We have to help! We can find the flock together Daisy! Let's go! Can YOU help us find the flock friends?",
+      "visual_description": "A tiny fluffy grey baby flamingo stands alone near a patch of tall grass looking around nervously with big watery eyes, Daisy and Flora notice the baby and rush over gently, the baby flinches at first then sees their kind faces, Flora kneels her long neck down to nuzzle the baby softly, viewer engagement prompt appears asking them to point to the flock in the background",
+      "sound_effects": [
+        "soft worried music",
+        "baby flamingo peeping sound",
+        "gentle footstep sounds",
+        "heartfelt tender music sting"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:45",
+      "end_time": "3:05",
+      "narration": "Daisy flies up HIGH to look around! I can see the flock! They are by the BIG tree! This way! Come on baby flamingo! Flora leads the baby safely to the flock! The other flamingos cheer! Yay! The baby is HOME!",
+      "visual_description": "Daisy soars up into the sky and spots the flock in the distance near a large acacia tree, he waves his wing and calls back to Flora, Flora gently nudges the baby flamingo forward and they walk together through the golden grass, the flock parts to welcome the baby back, other flamingos nuzzle the baby happily, warm golden light glows over the whole scene",
+      "sound_effects": [
+        "Daisy's wings flapping",
+        "cheerful triumphant music",
+        "flamingo flock calling happily",
+        "baby flamingo happy peeping"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:05",
+      "end_time": "3:25",
+      "narration": "Aww! That was SO wonderful! Today I learned SO much! Flamingos are pink because of what they EAT! They stand on ONE leg to stay warm! And flamingos live together in a big FLOCK! Friends look out for each other! Just like Flora and me!",
+      "visual_description": "Daisy and Flora stand side by side at the watering hole, the whole flock of flamingos is visible behind them in the golden evening light, Daisy looks directly at the viewer and holds up one tiny wing for each fact, Flora nods proudly at each one, they share a warm side hug, the baby flamingo peeks out from behind Flora's leg happily",
+      "sound_effects": [
+        "gentle warm music",
+        "soft splash of water",
+        "birds chirping",
+        "heartwarming chime"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:25",
+      "end_time": "3:45",
+      "narration": "Goodbye Flora! Goodbye savanna friends! Wings up, friends! If you loved our savanna adventure press the subscribe button! Can YOU flap your wings like a flamingo? Next time I am flying somewhere VERY cold and snowy! Where do YOU think I'm going? See you next time friends!",
+      "visual_description": "Daisy hugs Flora one last time, Flora bends her long neck for one final nuzzle, Daisy adjusts his tiny red scarf and takes a running jump into the air, he soars off into the warm orange and pink sunset sky over the savanna, the flock of flamingos below all raise one wing to wave goodbye, a subscribe button animation bounces in the corner, the screen fades to a teaser image of snowflakes falling",
+      "sound_effects": [
+        "Daisy's wings flapping",
+        "farewell music swell",
+        "flamingo flock calling goodbye",
+        "wind whoosh as Daisy flies away",
+        "cheerful ending jingle"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Flamingos get their pink color from eating tiny pink shrimp and algae",
+    "Flamingos stand on one leg to help their body conserve warmth",
+    "A group of flamingos is called a flock",
+    "Flamingos live together in large groups on the savanna",
+    "Baby flamingos are grey and fluffy before they turn pink"
+  ],
+  "moral": "Friends look out for each other, and every creature's home is special and beautiful.",
+  "next_episode_tease": "Next time Daisy flies somewhere VERY cold and snowy \u2014 bundle up for an Arctic adventure!",
+  "total_duration_seconds": 225
+}

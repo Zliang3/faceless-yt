@@ -1,0 +1,132 @@
+{
+  "episode_number": 23,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Snowy Owl",
+  "title": "Daisy and the Snowy Owl! \u2744\ufe0f Arctic Adventure",
+  "description": "Join Daisy the bluebird as he flies all the way to the freezing Arctic! \ud83d\udc26\u2744\ufe0f There, he meets Stella the Snowy Owl, who teaches him amazing things about life in the snow and ice! \ud83e\udd89\u2728 Perfect for little learners who love animals and big adventures!",
+  "tags": [
+    "kids",
+    "arctic",
+    "tundra",
+    "snowy owl",
+    "biome",
+    "educational",
+    "animals",
+    "pip the bird",
+    "nature for kids",
+    "preschool",
+    "kindergarten",
+    "wildlife",
+    "owl facts",
+    "winter animals",
+    "animated"
+  ],
+  "thumbnail_prompt": "A cheerful small bluebird wearing a tiny red scarf stands wide-eyed in a snowy Arctic landscape, face-to-face with a large fluffy white snowy owl with bright yellow eyes, both smiling warmly; bright white snow and pale blue sky in background with soft snowflakes falling, colorful and inviting, cartoon style for kids",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! It's ME, Daisy! Today I am flying somewhere VERY cold! Brrr! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird bursts onto screen from the left in a flash of blue and gold sparkles, tiny red scarf flapping behind him. He flaps his wings excitedly and winks at the camera. Background is a bright white burst transitioning to a swirling snowy sky. Upbeat bouncy intro music plays.",
+      "sound_effects": [
+        "whoosh of wings",
+        "sparkle chime",
+        "upbeat xylophone sting",
+        "wind gust"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all the snow! Everything is WHITE! This is the ARCTIC! The Arctic is cold, cold, COLD! There is ice and snow EVERYWHERE! This place is called the Arctic. Brrr! Do you feel that wind? It is FREEZING!",
+      "visual_description": "Daisy swoops down from the sky and lands gently on a soft pile of snow. The camera pans wide to reveal a vast, beautiful Arctic tundra \u2014 sparkling white snow, pale blue sky, distant icy hills, soft snowflakes drifting down. Daisy shivers and hugs himself, breath visible as little puffs of steam. His red scarf blows in the gentle wind. The scene is bright, magical, and welcoming \u2014 not scary.",
+      "sound_effects": [
+        "soft wind howl",
+        "snow crunch underfoot",
+        "magical sparkle shimmer",
+        "gentle chiming music"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! Who lives HERE in the Arctic? Wait... what is THAT? Oh WOW! Look! It is a big, beautiful white bird! Hello there! Who are YOU? Hi Daisy! I am STELLA! I am a SNOWY OWL! I live right here in the Arctic! A snowy owl! She is SO fluffy! She is white like the snow! Stella, what is it like living here?",
+      "visual_description": "Daisy tilts his head curiously and spots two large bright yellow eyes peering out from behind a snowy mound. Stella the Snowy Owl slowly stands up, shaking a dusting of snow off her gorgeous white and speckled feathers, revealing herself with a big friendly smile. She is large, round, and soft-looking with expressive yellow eyes. Daisy gasps and hops forward excitedly. Stella bows her head warmly. Daisy points at her with his tiny wing in amazement.",
+      "sound_effects": [
+        "soft hoot",
+        "gentle gasp",
+        "friendly flute melody",
+        "snow puff sound"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "I LOVE living in the Arctic, Daisy! Let me show you! Fact one \u2014 look at my feathers! They are WHITE! My white feathers help me HIDE in the snow! When I am still, animals cannot see me! I blend in! That is called CAMOUFLAGE! Camouflage means hiding by matching your home! WOW Stella, you almost disappeared! Fact two \u2014 I have BIG eyes! See them? My big eyes help me SEE far, far away! Even in the dark! Snowy owls can see a very long way! Amazing! Fact three \u2014 my feet have thick feathers TOO! Like little boots! They keep my feet WARM on the cold, cold snow! Feather boots! How cool is THAT?",
+      "visual_description": "Scene one: Stella crouches low against a snowy background and her white feathers blend in almost perfectly. Daisy walks past not seeing her, then does a huge double take. Stella laughs and pops back up. Scene two: Stella opens her eyes very wide and cartoon zoom lines shoot out showing her vision range extending far across the tundra, spotting a tiny snowflake in the distance. Scene three: Stella lifts one foot to show off her heavily feathered toes like fuzzy boots. Daisy tries to put snow on his own feet to make boots and giggles.",
+      "sound_effects": [
+        "camouflage whoosh sound",
+        "eyes popping cartoon sound",
+        "big zoom sound effect",
+        "giggling",
+        "warm cozy chime"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Uh oh! Oh NO! The wind is blowing SO hard! Look! Daisy's little red scarf is blowing away! Oh no, my scarf! It is flying far away! I need my scarf! Do NOT worry Daisy! I can SEE it! Remember my big eyes? I can see exactly where it went! Can YOU see the scarf, friends? Look! There it is! Stella flew fast and quiet and grabbed the scarf! Snowy owls fly very quietly! She got it! YAY! Here you go, Daisy! Thank you SO much Stella! You used your big eyes to save my scarf!",
+      "visual_description": "A gust of wind sweeps across the scene dramatically. Daisy's red scarf lifts off and tumbles through the air in slow motion. Daisy chases after it with small frantic wings, slipping and sliding on the snow comically. Stella snaps to attention, her large eyes zooming in on the scarf far away. She spreads her wide white wings silently and glides smoothly through the air, snatching the scarf gently in her talons without a sound. She floats back and drapes it carefully around Daisy's neck. Both characters jump up and cheer.",
+      "sound_effects": [
+        "big wind gust",
+        "dramatic flute stab",
+        "scarf whooshing",
+        "silent whoosh for owl flight",
+        "happy cheer",
+        "celebratory bells"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! Today I learned SO much! The Arctic is cold and snowy. Snowy owls live in the Arctic! Their white feathers are CAMOUFLAGE! They hide in the snow! They have BIG eyes to see far away! And feathery feet to stay WARM! Every animal has special things that help them live in their home! Stella is SO special! And she is my new BEST friend! Daisy and Stella hug warmly. You are special too, Daisy! We are all special! Friends!",
+      "visual_description": "Daisy stands next to Stella in the soft snowy landscape. As Daisy recaps each fact, small glowing icons pop up beside Stella \u2014 a feather for camouflage, a big eye, fuzzy feet. Then the icons fade and Daisy turns to Stella with a huge smile, opening his tiny wings for a hug. Stella wraps one giant fluffy wing around Daisy gently. Both glow with a warm golden light despite the cold blue setting. Soft snowflakes drift around them like confetti.",
+      "sound_effects": [
+        "soft learning chime for each fact",
+        "warm orchestral swell",
+        "hug sound",
+        "soft hoot of happiness"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "I have to fly now, Stella! Bye bye, Stella! I will miss you! Bye Daisy! Come back soon! I will! And friends \u2014 did YOU like the Arctic? If you did, give us a big THUMBS UP! And SUBSCRIBE so you never miss my next adventure! Wings up, friends! Next time I am flying somewhere with TALL trees and lots of mud and water! Where do YOU think I am going? See you next time, friends! BYE!",
+      "visual_description": "Daisy and Stella wave goodbye. Daisy jumps up and does a twirl, his red scarf spinning around him. He launches into the sky with a big flap of his tiny wings. Stella waves a broad white wing from below, smiling up at him. Daisy turns to camera, points at the subscribe button which appears as a friendly glowing animated button in the corner. He winks, says the catchphrase with both wings raised triumphantly, then zooms off into the pale blue Arctic sky leaving a trail of blue sparkles. Final frame fades to a teaser silhouette of tall trees and murky water.",
+      "sound_effects": [
+        "farewell harp glissando",
+        "wing flap",
+        "subscribe button ding",
+        "whoosh of departure",
+        "sparkle trail sound",
+        "mysterious swamp ambience tease at end"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Snowy owls have white feathers that camouflage them in Arctic snow, making them hard to see",
+    "Snowy owls have very large eyes that help them see long distances, even in low light",
+    "Snowy owls have feathers on their feet that act like warm boots to protect them from cold snow and ice",
+    "The Arctic biome is covered in snow and ice and is extremely cold"
+  ],
+  "moral": "Every animal \u2014 and every friend \u2014 has special gifts that make them perfect for their home.",
+  "next_episode_tease": "Next time Daisy flies somewhere with tall trees, muddy water, and a very surprising new friend \u2014 the Wetlands!",
+  "total_duration_seconds": 225
+}

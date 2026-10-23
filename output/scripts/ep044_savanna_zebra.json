@@ -1,0 +1,152 @@
+{
+  "episode_number": 44,
+  "biome": "Savanna",
+  "guest_animal": "Zebra",
+  "title": "Daisy Meets the Zebra! | Savanna Adventure \ud83e\udd93",
+  "description": "Join Daisy the bluebird on an amazing trip to the sunny savanna! \ud83c\udf3e\ud83e\udd93 Today Daisy meets Zara the Zebra and learns all about those cool stripes! Wings up, friends \u2014 it's going to be a WILD ride! \ud83d\udc26\u2764\ufe0f",
+  "tags": [
+    "kids",
+    "savanna",
+    "zebra",
+    "animals for kids",
+    "educational",
+    "biome",
+    "nature",
+    "preschool",
+    "toddler learning",
+    "pip the bird",
+    "stripes",
+    "africa",
+    "wildlife",
+    "kindergarten",
+    "animal facts"
+  ],
+  "thumbnail_prompt": "A cheerful small bluebird wearing a tiny red scarf flying next to a friendly smiling zebra with bold black and white stripes, set against a wide golden savanna background with tall golden grass, acacia trees, and a bright blue sunny sky, colorful and vibrant cartoon style for kids",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi hi HI! Today I am flying somewhere WARM and GOLDEN. There is SO much tall grass! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird bursts onto screen with a bright golden light flash, tiny red scarf flapping, swooping in a playful loop. Background fades from white to a warm golden glow. Daisy looks directly at the viewer with big sparkling eyes and a wide smile.",
+      "sound_effects": [
+        "upbeat whoosh sound",
+        "cheerful trumpet fanfare",
+        "rustling grass"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "WHOA! Look at all that golden grass! And those big flat trees! This is the SAVANNA! The savanna! Say it with me \u2014 SA-VAN-NA! It is warm and sunny here. The grass is tall, tall, TALL! The savanna is so big and beautiful!",
+      "visual_description": "Daisy swoops down and lands on a tall blade of golden grass. The camera pans wide to show a huge open savanna landscape \u2014 golden grasslands stretching to the horizon, scattered flat-topped acacia trees, a big bright blue sky with fluffy clouds, and a warm glowing sun. Daisy spins around in amazement, scarf swirling.",
+      "sound_effects": [
+        "soft warm wind",
+        "birds chirping in distance",
+        "rustling tall grass",
+        "wonder chime sound"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! What is THAT over there? Black stripes! White stripes! MORE stripes! Oh WOW! It is a ZEBRA! Hello, zebra! Hi! The zebra looks up. She smiles really big. She says \u2014 Hello little bird! My name is ZARA! I am a zebra! Welcome to MY savanna!",
+      "visual_description": "Daisy hops along a branch and peers through tall grass. The grass parts dramatically to reveal Zara the Zebra \u2014 a friendly, round-eyed zebra with bold black and white stripes, long eyelashes, and a big warm smile. Zara does a happy little head toss. Daisy flies over and lands on Zara's nose, both giggling. Zara's tail swishes happily.",
+      "sound_effects": [
+        "playful boing sound",
+        "soft zebra whinny",
+        "gentle giggle",
+        "warm string music sting"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:00",
+      "end_time": "1:05",
+      "narration": "Daisy says \u2014 Zara! I LOVE your stripes! What is it like living here on the savanna?",
+      "visual_description": "Daisy tilts his head curiously, red scarf blowing in the warm breeze. Zara grins and stamps one hoof enthusiastically, ready to share.",
+      "sound_effects": [
+        "curious little flute note",
+        "hoof stamp on ground"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:05",
+      "end_time": "2:00",
+      "narration": "Zara says \u2014 Oh Daisy! I LOVE the savanna! First \u2014 see my stripes? Every zebra has DIFFERENT stripes! No two zebras are the same! Just like YOUR feathers are special \u2014 MY stripes are special! Daisy says \u2014 WOW! Every zebra is different! That is AMAZING! Zara says \u2014 And look at my big herd over there! Zebras live in GROUPS! A group of zebras is called a HERD! We stay together to keep safe! Daisy says \u2014 A HERD! You have so many friends! Then Zara leans down and whispers \u2014 And Daisy \u2014 we LOVE to run! Zebras run really, really FAST! Watch THIS!",
+      "visual_description": "Scene one: Zara turns so the viewer can see her full stripe pattern up close \u2014 the stripes shimmer gently and a sparkle highlight shows uniqueness. A small graphic pops up showing two zebras side by side with different stripe patterns. Scene two: Camera pulls back wide to show a herd of happy animated zebras grazing in the golden grass together. Scene three: Zara breaks into a joyful gallop across the savanna, mane and tail flying, hooves kicking up little golden dust clouds. Daisy chases on the wing, laughing and barely keeping up. Speed lines and fun motion blur.",
+      "sound_effects": [
+        "sparkle chime for fact one",
+        "warm group chatter whinny sounds",
+        "thundering happy hoofbeats",
+        "Daisy laughing",
+        "fast whoosh wind"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "2:00",
+      "end_time": "2:10",
+      "narration": "Daisy pants and lands back on Zara. He says \u2014 You are SO fast, Zara! Zara laughs and says \u2014 Thank you Daisy! Being fast helps us on the savanna! Now you know three cool things about zebras!",
+      "visual_description": "Daisy lands on Zara's back between her stripes, looking a tiny bit dizzy but very happy and laughing. Zara does a proud little shimmy. Three small icon badges pop on screen briefly \u2014 a stripe badge, a herd badge, and a running badge \u2014 glowing cheerfully.",
+      "sound_effects": [
+        "fun pop sounds for each badge",
+        "Zara laughing warmly",
+        "gentle happy music"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:10",
+      "end_time": "2:48",
+      "narration": "Then \u2014 OH NO! Daisy looks down. His little red scarf! It is GONE! The wind blew it away! Daisy says \u2014 My scarf! My special scarf! Where did it GO? Zara says \u2014 Do not worry Daisy! I will help! She lifts her nose HIGH in the air and sniffs. Daisy says \u2014 What are you doing Zara? Zara says \u2014 Zebras have a great sense of smell! I can SNIFF things out! And then \u2014 Zara trots forward. She stops by a tall clump of grass. There it is! The little red scarf, caught on a blade of grass, waving like a tiny flag! Zara uses her nose to gently nudge it free. Daisy grabs it and ties it back on. YAY! Thank you ZARA!",
+      "visual_description": "Daisy reaches for his scarf and finds his neck bare \u2014 big cartoon shocked eyes and a gasp. A tiny red scarf tumbles across the golden grass in the breeze. Zara lowers her head, nostrils flaring dramatically with little scent swirl lines. Zara walks steadily toward a patch of tall golden grass. Close up on the red scarf snagged on a grass blade fluttering. Zara's nose gently nudges it free and it floats up. Daisy catches it mid-air and ties it back on with a happy spin. Both characters celebrate with a jump.",
+      "sound_effects": [
+        "dramatic oh-no sting",
+        "sniffing sound effect",
+        "suspense music",
+        "rustling grass",
+        "cheerful resolution chime",
+        "Daisy cheering"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:48",
+      "end_time": "3:20",
+      "narration": "Daisy hugs Zara's big stripy nose. He says \u2014 Zara, I learned SO much today! Every zebra has UNIQUE stripes \u2014 just like every friend is special! Zebras live in HERDS \u2014 friends together! Zebras run FAST! And your amazing nose saved my scarf! Zara says \u2014 And I learned something too, Daisy! Even a small bird can be a great friend! Daisy says \u2014 Friends help each other! THAT is what I love most!",
+      "visual_description": "Daisy wraps his tiny wings around Zara's nose in a warm hug. The warm golden savanna glows around them. Soft sunset light begins to tint the sky orange and pink. A gentle animated heart floats up between them. The herd of zebras in the background all look over and stomp happily.",
+      "sound_effects": [
+        "warm heartfelt music swell",
+        "gentle herd whinny in background",
+        "soft wind"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Daisy waves a little wing at Zara and all the zebra herd. He says \u2014 Goodbye Zara! Goodbye savanna! I will NEVER forget you! Zara calls out \u2014 Come back soon, Daisy! Daisy turns to the viewer and says \u2014 Did YOU like the savanna? Tell me your favorite part down below! And if you want to fly with me on MORE adventures \u2014 hit that subscribe button! Okay friends \u2014 WINGS UP! See you next time!",
+      "visual_description": "Daisy does a big looping wave, red scarf streaming behind him. Zara rears up gently in a happy goodbye pose, stripes gleaming in the warm sunset light. The herd waves their tails together. Daisy shoots up into the glowing orange and pink sky, leaving a small trail of blue sparkles. The subscribe button pulses gently in the corner. Daisy turns back one last time with a huge grin and a wink, then zooms off into the horizon. The savanna fades peacefully to a warm golden glow end card.",
+      "sound_effects": [
+        "cheerful goodbye music",
+        "herd of zebras calling warmly",
+        "big whoosh launch sound",
+        "sparkle trail sound",
+        "upbeat outro music"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Every zebra has a unique stripe pattern \u2014 no two zebras have the same stripes",
+    "Zebras live together in groups called herds to stay safe",
+    "Zebras can run very fast to move around the savanna",
+    "Zebras have a strong sense of smell that helps them in the wild"
+  ],
+  "moral": "Every friend is unique and special, and good friends always help each other.",
+  "next_episode_tease": "Next time Daisy is flying somewhere VERY cold and icy! Brrrr! Where do YOU think Daisy is going? \ud83e\uddca\u2744\ufe0f",
+  "total_duration_seconds": 225
+}

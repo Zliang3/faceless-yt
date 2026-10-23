@@ -1,0 +1,198 @@
+{
+  "episode_number": 89,
+  "biome": "Desert",
+  "guest_animal": "Elf Owl",
+  "title": "Daisy Meets the Tiniest Owl in the Desert!",
+  "description": "\ud83c\udf35 Daisy the bluebird flies to the hot, sandy desert and meets Ellie the Elf Owl \u2014 the world's smallest owl! \ud83e\udd89 Together they explore the amazing desert at night and learn why tiny can be mighty! Perfect for curious little learners! \u2728",
+  "tags": [
+    "kids",
+    "desert",
+    "elf owl",
+    "biome",
+    "animals",
+    "nature",
+    "educational",
+    "toddler",
+    "preschool",
+    "pip the bird",
+    "tiny owl",
+    "cactus",
+    "nighttime animals",
+    "nocturnal",
+    "wildlife for kids",
+    "animated"
+  ],
+  "thumbnail_prompt": "Bright close-up of Daisy the small bluebird wearing a tiny red scarf standing on a saguaro cactus next to an adorable tiny elf owl with huge yellow eyes, warm golden desert sunset background with orange sand dunes and other cacti, big friendly smiles, vibrant saturated colors, soft cartoon style for kids",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! I'm Daisy! Today I'm flying somewhere super hot! There's sand EVERYWHERE! Can YOU guess where I'm going?",
+      "visual_description": "Daisy zooms into frame from the left wearing a tiny red scarf, a bright yellow starburst color explosion fills the screen, Daisy does a loop-de-loop in a bright blue sky, then winks directly at the camera, upbeat bouncy animation",
+      "sound_effects": [
+        "whoosh of wings flapping",
+        "cheerful xylophone jingle",
+        "wind whoosh",
+        "bright sparkle sound"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all that sand! This is the DESERT! The desert is hot, hot, HOT! I can feel the sun on my feathers! And look \u2014 tall, spiky CACTUS plants! This is the DESERT, friends!",
+      "visual_description": "Wide sweeping shot of a gorgeous Sonoran desert at golden hour \u2014 towering saguaro cacti, rippling orange sand, distant red rock mesas, a big bright sun in the sky. Daisy flies in from above and lands on top of a tall saguaro cactus, fanning himself with one wing, looking amazed in all directions",
+      "sound_effects": [
+        "desert wind ambience",
+        "sizzling heat shimmer sound",
+        "Daisy landing softly on cactus",
+        "crickets beginning faintly"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm. It's getting dark in the desert! The sun is going to sleep. And wait \u2014 do I hear something? There's a little sound coming from INSIDE this cactus! Oh! A tiny face is peeking out! HELLO there, little friend! Who are YOU?",
+      "visual_description": "The desert sky shifts to a warm purple and orange twilight. Daisy tilts his head curiously at a round hole in the saguaro cactus. Two enormous adorable round yellow eyes blink open inside the hole. A teeny tiny owl \u2014 Ellie the Elf Owl \u2014 pops her fluffy head out. She is no bigger than a golf ball with a round face, tiny beak, and striped brown-and-cream feathers. She waves a tiny wing at Daisy.",
+      "sound_effects": [
+        "soft desert night ambience",
+        "gentle cricket chirping",
+        "two small hoots",
+        "Daisy's surprised gasp",
+        "cute discovery chime"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "I'm Ellie! I'm an ELF OWL! I live RIGHT here in this cactus! Isn't it the BEST home ever?",
+      "visual_description": "Ellie fully hops out onto the edge of her cactus hole, puffing up proudly and gesturing grandly at the desert around her with one tiny wing. Stars begin to appear in the sky behind her. She is visibly very small \u2014 tinier than Daisy \u2014 which Daisy notices with wide eyes.",
+      "sound_effects": [
+        "cheerful little hoot melody",
+        "soft sparkle sound",
+        "gentle night breeze"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:10",
+      "end_time": "1:25",
+      "narration": "WOW! You are SO tiny, Ellie! Are you a baby owl? No no no, Daisy! I am a GROWN-UP owl! Elf owls are the SMALLEST owls in the whole world! Teeny tiny \u2014 just like me!",
+      "visual_description": "Daisy holds up his wing next to Ellie to compare sizes \u2014 Ellie is barely as tall as Daisy's wing. Ellie stands up straight and tall with a proud smile. A fun animated size comparison graphic pops up showing Ellie next to a large coffee mug \u2014 she is the same size. Both characters laugh together.",
+      "sound_effects": [
+        "comedic boing sound for size comparison",
+        "Ellie's proud little hoot",
+        "both laughing cheerfully"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:25",
+      "end_time": "1:55",
+      "narration": "Ellie, why do you live INSIDE a cactus? Great question, Daisy! My home is called a CACTUS HOLE! Another bird made this hole first. Then I moved in! The cactus keeps me SAFE and COOL! It is my perfect little house!",
+      "visual_description": "Ellie leads Daisy on a tour of her cactus hole home. A cute cross-section animation shows the inside of the saguaro cactus with a cozy round room where Ellie sleeps. The thick green walls of the cactus glow to show they hold water and shade. Daisy peers inside with big curious eyes and gives a thumbs up.",
+      "sound_effects": [
+        "cozy interior echo sound",
+        "dripping water drop sound for cactus water",
+        "warm home ambience hum",
+        "Daisy's impressed whistle"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:55",
+      "end_time": "2:25",
+      "narration": "Whoa! And why is it DARK outside, Ellie? Are you scared of the dark? No way, Daisy! I LOVE the night! Elf owls come out at NIGHT! That means I am NOCTURNAL! Noc-tur-nal! Say it with me, friends! NOC-TUR-NAL! It means I sleep in the DAY and play at NIGHT!",
+      "visual_description": "The desert sky is now fully dark and sparkling with a million stars and a bright full moon casting a silver glow over the sand. Ellie stretches her wings and hops excitedly. The word NOCTURNAL appears on screen in big friendly glowing letters. Ellie and Daisy both look at the camera and mouth the word slowly together. An animated sun-and-moon swap graphic shows nocturnal animals waking up at night.",
+      "sound_effects": [
+        "magical night sparkle sound",
+        "Daisy and Ellie saying 'noc-tur-nal' together",
+        "owl hoot echo",
+        "soft star twinkle sounds"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "2:25",
+      "end_time": "2:45",
+      "narration": "And Daisy \u2014 look what I eat! I eat BUGS! Scorpions and moths and beetles! Yummy yummy bugs! Ellie swoops and catches a glowing cartoon bug in her tiny talons. Wow! You are a great hunter, Ellie! Tiny but MIGHTY!",
+      "visual_description": "Ellie leaps off the cactus and swoops silently through the night air in a graceful arc, her huge eyes glowing slightly in the dark. She snatches a large cartoon scorpion (drawn very cute and non-scary) and holds it up triumphantly. Glittery sparkle effects surround her. Daisy claps his wings together in applause.",
+      "sound_effects": [
+        "silent swoosh of owl wings",
+        "cartoon bug buzzing",
+        "triumphant little fanfare",
+        "Daisy clapping wings",
+        "Ellie's victorious hoot"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:45",
+      "end_time": "3:20",
+      "narration": "Oh no! Look! A BIG gust of wind! Whoooosh! Oh! Daisy's scarf blew away! It is stuck HIGH up on a cactus! I can not reach it! It is too high! Can YOU help us think? How can Ellie and Daisy get the scarf? Ellie can FLY super quietly at night! Her big eyes help her SEE in the dark! Ellie can get it!",
+      "visual_description": "A cartoon gust of wind sweeps across the desert, sending a tumbleweed rolling by. Daisy's tiny red scarf lifts off and flutters up, landing wedged on a high cactus spine far above. Daisy flaps hard but can't reach it. He looks worried and puts his wings on his cheeks. Ellie steps forward confidently, her huge yellow eyes glowing in the dark, and crouches ready to fly. The camera cuts to the viewer as Daisy asks for help.",
+      "sound_effects": [
+        "big cartoon whoosh of wind",
+        "tumbleweed rolling sound",
+        "Daisy's worried 'oh no'",
+        "Ellie's determined hoot",
+        "upbeat problem-solving musical sting"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "3:20",
+      "end_time": "3:40",
+      "narration": "Ready, Ellie? Ready, Daisy! Here I go! Whoooosh! Ellie flies UP silently in the dark. She can see the scarf perfectly! She grabs it! She brings it back! HOORAY! You did it, Ellie! Elf owls can SEE so well at night! You SAVED my scarf!",
+      "visual_description": "Ellie launches silently upward, her silhouette graceful against the starry sky. Her big eyes zoom in on the red scarf. She delicately grabs it in her tiny talons and glides back down, landing perfectly in front of Daisy. She drapes the scarf back around Daisy's neck. Both jump up and down celebrating. Stars and sparkles burst around them.",
+      "sound_effects": [
+        "silent whoosh wings",
+        "triumphant little trumpet fanfare",
+        "Daisy's joyful cheer",
+        "happy celebration music burst",
+        "sparkle and chime sounds"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:40",
+      "end_time": "4:00",
+      "narration": "Today I learned SO much! The desert is hot and sandy! Elf owls are the SMALLEST owls in the world! They live in CACTUS holes! They come out at NIGHT \u2014 they are NOCTURNAL! And even the TINIEST friend can be the BIGGEST helper! Thank you, Ellie!",
+      "visual_description": "Daisy stands proudly with his red scarf back on, counting facts on his wing feathers one by one. Each fact pops up on screen as a cute illustrated card \u2014 a cactus, a tiny owl, a moon and stars, a big heart. Ellie wraps her tiny wing around Daisy for a side hug. The desert glows beautifully in the moonlight behind them.",
+      "sound_effects": [
+        "warm gentle music swell",
+        "fact card whoosh sounds",
+        "heartbeat sound on the friendship card",
+        "Daisy and Ellie giggling softly"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "4:00",
+      "end_time": "4:15",
+      "narration": "Goodbye Daisy! Come visit me at night anytime! I will, Ellie! Bye bye, friends! Remember \u2014 Wings up, friends! If you loved the desert, give us a big THUMBS UP! And click subscribe so you never miss my next adventure! Next time I am flying somewhere VERY cold and snowy! Where do YOU think I am going?",
+      "visual_description": "Ellie waves both tiny wings from the door of her cactus hole as Daisy leaps into the night sky. Daisy does a happy loop-de-loop among the stars, red scarf trailing behind. The subscribe button bounces cheerfully in the corner. Daisy winks at the camera and zooms off into the starry desert sky until he is just a tiny dot. The screen fades to a warm navy blue with twinkling stars.",
+      "sound_effects": [
+        "Ellie's farewell hoot melody",
+        "Daisy's wings flapping",
+        "cheerful outro jingle",
+        "subscribe button pop sound",
+        "wind whoosh fade out"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Elf owls are the smallest owls in the entire world \u2014 about the size of a golf ball",
+    "Elf owls live inside holes in saguaro cactus plants in the desert",
+    "Elf owls are nocturnal \u2014 they sleep during the day and are active at night",
+    "Elf owls have very large eyes that help them see extremely well in the dark",
+    "Elf owls eat insects including scorpions, moths, and beetles",
+    "Saguaro cactus holes are made by other birds first, then elf owls move in as a safe cool home"
+  ],
+  "moral": "Even the smallest and tiniest friend can be the biggest and most helpful friend of all.",
+  "next_episode_tease": "Next time Daisy is flying somewhere very cold and full of snow \u2014 can you guess the biome?",
+  "total_duration_seconds": 255
+}

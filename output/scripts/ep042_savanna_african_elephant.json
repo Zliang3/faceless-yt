@@ -1,0 +1,131 @@
+{
+  "episode_number": 42,
+  "biome": "Savanna",
+  "guest_animal": "African Elephant",
+  "title": "Daisy Meets the BIGGEST Animal on Land! \ud83d\udc18 African Savanna Adventure",
+  "description": "\ud83d\udc18 Daisy the bluebird flies to the African Savanna and meets Ella the elephant! Learn amazing elephant facts and explore the sunny, golden grasslands together! \ud83c\udf3e\u2600\ufe0f Perfect for curious little learners who love animals and adventure!",
+  "tags": [
+    "kids",
+    "savanna",
+    "african elephant",
+    "elephant facts",
+    "animals for kids",
+    "biome",
+    "bluebird",
+    "educational",
+    "preschool",
+    "nature",
+    "wildlife",
+    "pip the bird",
+    "grasslands",
+    "africa"
+  ],
+  "thumbnail_prompt": "Cute small bluebird named Daisy wearing a tiny red scarf perched on top of a friendly smiling African elephant, bright golden savanna grassland background with acacia trees and a big blue sunny sky, vibrant warm colors, cartoon style for kids, cheerful and colorful",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! It's ME, Daisy! Today I'm flying somewhere VERY big and sunny! Can YOU guess where I'm going? Let's find out!",
+      "visual_description": "Daisy the small bluebird bursts into frame from the left wearing his tiny red scarf, big colorful swoosh of golden and yellow light behind him, he flaps his wings excitedly and winks at the camera, bright white background fades into warm gold, upbeat bouncy energy",
+      "sound_effects": [
+        "whoosh of wings flapping",
+        "bright chime jingle",
+        "upbeat musical sting"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at this place! Tall golden grass EVERYWHERE! Big flat land! And look at those funny shaped trees! Friends, this is the SAVANNA! The savanna! It is warm and sunny and SO wide open! WOW!",
+      "visual_description": "Wide panoramic reveal of a gorgeous golden African savanna, tall dry grass swaying in a gentle breeze, flat-topped acacia trees dotting the horizon, bright blue sky with puffy white clouds, warm orange sun glowing overhead, Daisy flies in slowly with wide eyes and open beak in amazement, camera pans slowly across the vast landscape",
+      "sound_effects": [
+        "warm gentle wind",
+        "distant bird calls",
+        "soft rustling grass",
+        "gentle awe musical swell"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Ooooh! What is THAT?! Something is behind that big tree! It is HUGE! And grey! And... oh my goodness! HELLO there! Wow, you are SO big! Hi! I'm Daisy! Who are YOU? ... My name is ELLA! I am an African elephant! The BIGGEST land animal in the whole world! Nice to meet you Daisy! ... WOW! The BIGGEST! That is AMAZING, Ella! What is it like living here on the savanna?",
+      "visual_description": "Daisy peeks nervously around a wide acacia tree trunk, a huge grey wrinkled leg comes into view, camera slowly pans up to reveal Ella the African elephant, she has big kind sparkly eyes, long eyelashes, large floppy ears, and a gently swaying trunk, she smiles warmly down at tiny Daisy, Daisy looks absolutely tiny next to Ella, both characters react with joy and warmth, Ella crouches her head down to be closer to Daisy's level",
+      "sound_effects": [
+        "low gentle elephant rumble",
+        "leaves rustling",
+        "soft gasp from Daisy",
+        "friendly warm musical notes",
+        "gentle thump of elephant footstep"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Oh I LOVE living on the savanna! Let me show you! First, see my BIG ears? My ears are HUGE! I flap them like this! Flap flap flap! My big ears keep me COOL! They help me stay cool in the hot sun! ... Wow! Your ears are like a fan! A big elephant fan! ... That's right Daisy! And look at my trunk! My trunk is my nose AND my hand! I use it to pick up food! Watch! ... Oh WOW! Your trunk picked up those leaves! So cool! ... And here is my favorite fact! Elephants LOVE water! I use my trunk to spray water on myself! Like a shower! Splooooosh! ... HA HA! That tickles! A trunk shower! Elephants are SO amazing!",
+      "visual_description": "Scene one shows Ella flapping her enormous grey ears slowly, a visible breeze blows the savanna grass and Daisy's red scarf flutters, Daisy mimics flapping motions with his tiny wings laughing; Scene two shows Ella's trunk reaching gracefully down to curl around a bundle of green leaves and lift them to her mouth, close up on the flexible trunk tip; Scene three shows Ella raising her trunk to a small watering hole and then spraying a big glittery arc of water into the air, some droplets land on Daisy who laughs and shakes the water off his feathers, rainbow appears in the mist, everything bright and joyful",
+      "sound_effects": [
+        "soft whooshing ear flap sound",
+        "leaves crunching",
+        "big splashy water spray sound",
+        "Daisy giggling",
+        "elephant happy rumble",
+        "water droplets sparkling sound"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh! Daisy! Look over there! That little bird is sitting on the ground. She looks too hot and tired! ... Oh no! She needs help! What do we do Ella?! ... I know exactly what to do! Remember my trunk shower? Watch this! ... Ella walked over slowly and GENTLY sprayed cool water near the tired little bird! ... Oh! That feels better! Thank you so much! ... Yay! We helped our friend! And we used what Ella taught us! Her amazing trunk! Great job Ella! Great job Daisy! YOU helped too friends! You cheered us on!",
+      "visual_description": "A small yellow canary sits drooping on a dry patch of ground looking overheated, fanning herself slowly with one wing, Daisy spots her and looks worried, Ella walks over with soft careful steps, she dips her trunk into the nearby watering hole and gently mists a cool spray of water near the canary, the canary perks up immediately with sparkling refreshed eyes and flutters her wings happily, Daisy hops excitedly, all three animals smile together, soft golden light glows around the scene",
+      "sound_effects": [
+        "soft worried music",
+        "gentle elephant footsteps",
+        "soft water mist sound",
+        "happy relieved sigh from canary",
+        "cheerful celebratory chime",
+        "uplifting short musical fanfare"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! What a day on the SAVANNA! I learned SO much! Elephants have BIG ears to stay cool! Elephants use their trunks to eat and pick things up! And elephants LOVE water and use their trunks to spray it! The savanna is a warm golden home! And Ella showed me that when you share what you know, you can help a friend! Thank you Ella! You are the BEST! ... Thank YOU Daisy! Come back and visit the savanna anytime! ... I will! I promise! Can I have a hug? ... Of course! Ella gently wrapped her trunk around little Daisy in the coziest hug!",
+      "visual_description": "Daisy stands facing the camera and counts the facts on his little wing feathers, each fact appears as a glowing icon next to him: big ear with a breeze line, a curling trunk holding leaves, a trunk spraying water, the savanna landscape glows warmly behind them, then Ella lowers her head and wraps her trunk gently around Daisy in a big soft hug, Daisy's red scarf blows slightly, both have big smiles, warm orange sunset begins to paint the sky",
+      "sound_effects": [
+        "soft recap musical chime for each fact",
+        "warm hug sound like a cozy squeeze",
+        "happy elephant rumble",
+        "gentle emotional music swell"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Bye bye Ella! Goodbye savanna! I will miss you! Wings up, friends! That was SO amazing! Did YOU learn something new today? Tell me in the comments! What was YOUR favorite elephant fact? And if you want to come on more adventures with me, hit that subscribe button! I need my BEST travel buddies! And guess what? Next time I am flying somewhere VERY cold and white! Brrrr! Where do YOU think I'm going? See you next time friends! Wings UP!",
+      "visual_description": "Daisy waves one little wing at Ella who waves her big trunk back, Daisy leaps into the air and flies toward the camera getting bigger then swoops up and away into the golden sunset sky, the savanna slowly shrinks below, Ella watches and waves from below looking happy, a subscribe button and bell icon bounce into the lower corner of the screen, snowflake emoji and question mark flash on screen at the next episode tease, final frame is Daisy silhouetted against a beautiful orange and pink savanna sunset sky with his red scarf trailing behind him",
+      "sound_effects": [
+        "cheerful goodbye music",
+        "elephant trumpet call farewell",
+        "whoosh of wings",
+        "upbeat ending theme jingle",
+        "bell notification sound effect"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "African elephants have very large ears that they flap to keep cool in the hot savanna sun",
+    "Elephants use their trunks as both a nose and a hand to grab food and other objects",
+    "Elephants love water and use their trunks to spray water on themselves to cool down",
+    "The African elephant is the biggest land animal in the whole world"
+  ],
+  "moral": "When you share what you know, you can help a friend in need.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold, icy, and white \u2014 bundle up because the Arctic adventure is coming!",
+  "total_duration_seconds": 225
+}

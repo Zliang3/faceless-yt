@@ -1,0 +1,180 @@
+{
+  "episode_number": 10,
+  "biome": "Rainforest",
+  "guest_animal": "Tapir",
+  "title": "Daisy Meets the Tapir! \ud83c\udf34 A Rainforest Adventure",
+  "description": "Join Daisy the bluebird as he flies into the amazing rainforest! \ud83c\udf34 Today Daisy meets Tara the tapir \u2014 a super special animal with a wiggly nose! \ud83d\udc3e Together they explore the rainforest and learn how every creature helps the forest grow! \ud83c\udf3f",
+  "tags": [
+    "kids",
+    "rainforest",
+    "tapir",
+    "pip the bluebird",
+    "animal facts for kids",
+    "biome learning",
+    "nature for kids",
+    "preschool",
+    "educational",
+    "youtube kids",
+    "animals",
+    "forest friends"
+  ],
+  "thumbnail_prompt": "A small cheerful bluebird wearing a tiny red scarf perched next to a friendly cartoon tapir with big eyes, surrounded by lush green rainforest leaves, tall trees with colorful parrots, bright tropical flowers, warm golden light filtering through the canopy, vibrant and colorful illustration style for kids",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi there! I'm Daisy! Today I'm flying somewhere SO green and WET! Big tall trees everywhere! Can YOU guess where I'm going?",
+      "visual_description": "Daisy the small bluebird swoops into frame from the left wearing a tiny red scarf. A giant burst of bright green and yellow light fills the screen. Daisy hovers mid-air, wings flapping, looking excitedly at the camera. Animated sparkles and leaves swirl around him.",
+      "sound_effects": [
+        "whooshing wing flap",
+        "cheerful xylophone sting",
+        "rustling leaves",
+        "upbeat intro jingle"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at this place! SO many trees! So many plants! This is the RAINFOREST! The rainforest! Drip drip drip \u2014 can you hear the rain? The rainforest is warm AND wet! Warm and wet every single day!",
+      "visual_description": "Wide cinematic reveal shot \u2014 Daisy flies through a curtain of hanging vines into a breathtaking rainforest scene. Massive green trees tower above. Colorful parrots and butterflies flutter past. Sunbeams pierce the leafy canopy above. Rain gently drips from leaves. The whole scene is lush, bright, and magical.",
+      "sound_effects": [
+        "gentle rain drops",
+        "tropical bird calls",
+        "soft rustling leaves",
+        "amazed gasping sound from Daisy",
+        "warm ambient jungle hum"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Ooooh! What is THAT? Something big is behind that bush! Look! A big, round, friendly animal with a wiggly nose! Hello there! Who are YOU? Oh WOW! That nose \u2014 it wiggles! It wiggles and sniffs! I wonder... can that nose do something special?",
+      "visual_description": "Daisy lands on a mossy branch. Large green leaves rustle and shake. A big, round, dark-colored tapir with a short wiggly trunk-like nose pokes her head out from behind tropical ferns. She has big soft brown eyes and a gentle smile. She steps fully into view and wiggles her nose playfully at Daisy. Daisy's eyes go wide with delight.",
+      "sound_effects": [
+        "leaves rustling dramatically",
+        "cute curious musical sting",
+        "tapir soft snuffling sound",
+        "Daisy giggling"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL \u2014 INTRODUCTION",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "Hi little bird! I'm Tara! Tara the tapir! I LOVE it here in the rainforest! It is my home! My wonderful, wet, green home!",
+      "visual_description": "Tara the tapir stands proudly in a small sunny clearing. She wiggles her nose again and smiles warmly. Daisy flutters down and lands on top of Tara's back, both looking at the camera together. Animated sparkles pop around them as a friendly 'new friend' musical cue plays.",
+      "sound_effects": [
+        "warm friendly musical chime",
+        "soft tapir grunt",
+        "birds chirping in background"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION \u2014 FACT 1",
+      "start_time": "1:10",
+      "end_time": "1:45",
+      "narration": "Tara, what IS that wiggly nose? It looks like a little trunk! Yes Daisy! This is my special nose! I call it a prehensile nose! Pre-HEN-sile! Say it with me \u2014 prehensile! It means I can GRAB things with it! Watch me grab this leaf! I use my nose like a hand! A grabby, wiggly hand!",
+      "visual_description": "Close-up on Tara's long flexible nose as she wiggles and stretches it toward a nearby leafy branch. She curls her nose tip around a big green leaf and pulls it off, then munches it happily. Daisy watches with his beak wide open in amazement. The word PREHENSILE appears on screen in big bouncy letters.",
+      "sound_effects": [
+        "cartoonish grabbing 'boing' sound",
+        "crunching leaf munch",
+        "Daisy saying 'Woaaah!'",
+        "playful plucking harp note"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION \u2014 FACT 2",
+      "start_time": "1:45",
+      "end_time": "2:10",
+      "narration": "Wow Tara! What else do tapirs do? Oh Daisy! I am a SEED spreader! A seed spreader! I eat lots of rainforest fruits. Then I walk around. And seeds come out the other end! Hehe! And then \u2014 WHOOSH \u2014 a new tree grows! I help make NEW trees! I help the whole rainforest grow!",
+      "visual_description": "Tara walks through the rainforest munching on colorful round fruits that fall from a tree above. An animated diagram shows: fruit goes in Tara's mouth, she walks through the forest, small seeds fall to the ground behind her, and a tiny green sprout quickly grows into a tall tree with a happy face. Daisy claps his little wings together.",
+      "sound_effects": [
+        "happy munching sounds",
+        "walking footstep thumps",
+        "magical sprouting 'ding' sound",
+        "birds cheering",
+        "gentle wind whoosh"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION \u2014 FACT 3",
+      "start_time": "2:10",
+      "end_time": "2:30",
+      "narration": "Tara, do you ever get too HOT here? The rainforest is so warm! Great question Daisy! When I am hot \u2014 I go for a SWIM! Tapirs are great swimmers! I love the water! I even breathe underwater using my nose like a snorkel! Like this \u2014 blub blub blub!",
+      "visual_description": "Tara trots happily toward a wide, shimmering river running through the rainforest. She slides in with a big splash. Underwater view shows Tara paddling gracefully with her nose tip poking above the surface like a snorkel. Colorful fish swim around her. Daisy watches from a branch above, giggling.",
+      "sound_effects": [
+        "big water splash",
+        "bubbly underwater sounds",
+        "Tara humming happily underwater",
+        "Daisy laughing",
+        "peaceful river ambience"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:30",
+      "end_time": "3:20",
+      "narration": "Oh no! Look! A little baby bird fell out of its nest! It is on the ground! It is scared! Tweet tweet! The baby bird is crying! Oh no no no! What do we do? Tara! Can you help? Hmm! I have an idea Daisy! Use my back! Stand on me! I am big and tall! Together we can reach!",
+      "visual_description": "A tiny yellow baby bird sits on the mossy ground at the base of a large tree, looking up at its empty nest high above on a thick branch. The baby bird has big teary eyes and ruffles its feathers sadly. Daisy flutters down looking worried. Tara walks over, calm and thoughtful. She stands next to the tree trunk. Daisy hops onto Tara's broad back, then hops again onto her head, then stretches his wings and flutters up the extra distance to gently nudge the baby bird up into its nest.",
+      "sound_effects": [
+        "baby bird tweeting softly",
+        "worried musical tone",
+        "Daisy saying 'Oh no!'",
+        "determined upbeat music building",
+        "fluttering wings",
+        "happy resolved chime when baby reaches nest"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM \u2014 RESOLUTION",
+      "start_time": "3:20",
+      "end_time": "3:35",
+      "narration": "We did it! The baby bird is SAFE! Yay! See friends \u2014 when we work TOGETHER, we can do BIG things! Even a little bird and a big tapir! Teamwork! Teamwork is so wonderful!",
+      "visual_description": "The baby bird chirps happily in its cozy nest up in the tree. Mama bird flies in and nuzzles the baby. Daisy and Tara high-five \u2014 Daisy taps Tara's nose with his wing. Both look up at the camera smiling. Animated golden stars and green leaves burst across the screen in celebration.",
+      "sound_effects": [
+        "happy baby bird chirping",
+        "cheering crowd sound",
+        "triumphant short fanfare",
+        "Daisy and Tara laughing together"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "3:35",
+      "end_time": "3:55",
+      "narration": "Today I learned SO much! The rainforest is warm and wet! Tara has a prehensile nose \u2014 she can GRAB with it! Tapirs help grow new trees by spreading seeds! And tapirs are amazing swimmers! AND \u2014 we learned that teamwork helps everyone! Every animal in the rainforest has a special job!",
+      "visual_description": "Soft glowing recap panel appears. Each fact shows as a small illustrated icon: a rain cloud, Tara's wiggly nose, a seed growing into a tree, Tara swimming in the river, and finally Daisy and Tara together. Daisy stands in front pointing at each one with his little wing. Warm golden light glows around the whole scene.",
+      "sound_effects": [
+        "gentle recap music",
+        "soft chime for each fact",
+        "warm cozy musical swell at end"
+      ]
+    },
+    {
+      "beat": "GOODBYE + CTA",
+      "start_time": "3:55",
+      "end_time": "4:15",
+      "narration": "Bye bye Tara! Thank you for showing me your rainforest! I will never forget you! Bye bye Daisy! Come back anytime! Friends \u2014 if you LOVED this adventure, press that subscribe button! And tell me \u2014 what was YOUR favorite part? Was it Tara's wiggly nose? Or her swimming snorkel? Let me know below! And next time \u2014 I am flying somewhere VERY cold and white! Where do YOU think I am going? Wings up, friends!",
+      "visual_description": "Tara waves her wiggly nose goodbye as Daisy wraps his tiny wings around Tara's neck for a hug. Daisy then leaps into the air, red scarf fluttering behind him. He spirals upward through the rainforest canopy, shrinking into the bright sky above the trees. A final freeze-frame shows Daisy silhouetted against a bright sky with the word 'SUBSCRIBE' in big friendly letters and a cartoon bell icon bouncing next to it.",
+      "sound_effects": [
+        "emotional warm goodbye music",
+        "Tara's soft farewell grunt",
+        "Daisy's wings flapping",
+        "adventure outro jingle building",
+        "final triumphant chord"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The rainforest is warm and wet every single day",
+    "Tapirs have a prehensile nose they can wiggle and use to grab leaves and food",
+    "Tapirs are seed spreaders \u2014 they eat fruits and spread seeds through the forest helping new trees grow",
+    "Tapirs are strong swimmers and can use their nose like a snorkel to breathe underwater"
+  ],
+  "moral": "Every animal has a special job, and when we work together as friends we can help each other and make the world a better place.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold and white \u2014 bundle up for a brand new freezing biome adventure!",
+  "total_duration_seconds": 255
+}

@@ -1,0 +1,25 @@
+# Core pipeline
+anthropic>=0.50.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+openai-whisper>=20231117
+imageio-ffmpeg>=0.4.9
+PyJWT>=2.0.0
+requests>=2.28.0
+
+# VibeVoice TTS (local, free alternative to ElevenLabs)
+# After pip install, also clone the repo:
+#   git clone https://github.com/vibevoice-community/VibeVoice <VIBEVOICE_REPO>
+#   pip install -e <VIBEVOICE_REPO> --no-deps
+torch
+transformers==4.51.3
+huggingface_hub
+soundfile
+einops
+diffusers
+accelerate==1.6.0
+librosa
+scipy
+peft
+absl-py
+ml-collections

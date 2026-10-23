@@ -1,0 +1,134 @@
+{
+  "episode_number": 35,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Arctic Tern",
+  "title": "Daisy Meets the World Traveler! | Arctic Adventure",
+  "description": "\ud83d\udc26\u2744\ufe0f Daisy the bluebird flies all the way to the Arctic and meets a very special bird \u2014 the Arctic Tern! Learn amazing facts about the coldest place on Earth and discover what makes the Arctic Tern the GREATEST traveler in the whole world! \ud83c\udf0d\u2708\ufe0f Perfect for curious little ones who love animals and adventure!",
+  "tags": [
+    "kids",
+    "arctic",
+    "tundra",
+    "arctic tern",
+    "biome",
+    "animals for kids",
+    "educational",
+    "pip the bird",
+    "nature for kids",
+    "birds",
+    "migration",
+    "cold weather animals",
+    "preschool learning",
+    "kindergarten",
+    "wildlife"
+  ],
+  "thumbnail_prompt": "Bright and colorful kids cartoon thumbnail: Daisy the small bluebird wearing a tiny red scarf stands on a snowy Arctic ice sheet, wings spread wide with a huge smile. Next to Daisy is a cheerful cartoon Arctic Tern with bright red beak and sleek white-and-gray feathers, wings outstretched proudly. Background shows glittering snow, blue icy water, the Northern Lights swirling green and purple in the sky, and the bold sun low on the horizon. Colors are vivid and eye-catching. Text space at top for episode title.",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi! It's me, Daisy! Today I'm flying somewhere VERY, VERY cold! Brrr! Can YOU guess where I'm going?",
+      "visual_description": "Daisy the small bluebird bursts onto screen from the left, tiny red scarf flapping behind. A bright starburst of icy blue and white explodes behind Daisy. Daisy shivers playfully and flaps wings fast. Snow flurries swirl around. Daisy looks directly at viewer with wide excited eyes and a big grin.",
+      "sound_effects": [
+        "whoosh of wings",
+        "upbeat cheerful music sting",
+        "icy wind gust",
+        "cartoon shiver sound"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "WHOA! Look at all the ICE and SNOW! This is the ARCTIC! The Arctic is so cold! So, so cold! Ice covers everything here. It's called the ARCTIC! Can you say Arctic? AR-CTIC! Amazing!",
+      "visual_description": "Wide sweeping aerial shot of Daisy flying over a vast glittering Arctic landscape. Endless white snow and blue ice stretch in every direction. Chunks of ice float in dark icy water. The Northern Lights shimmer faintly in the sky. Daisy lands on a big flat ice sheet, boots down softly, and looks around with huge wonder-filled eyes. Breath puffs out as little clouds.",
+      "sound_effects": [
+        "big cinematic swoosh",
+        "wind howling softly",
+        "gentle sparkle chime on ice reveal",
+        "Daisy landing soft crunch on snow"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! Who is THAT? Oh! Hello! Hello there! Wow, you look like me! You have wings AND a red beak! Who are you? ... Hi Daisy! I'm TERA the Arctic Tern! I live right here in the Arctic! ... A TERN! An Arctic TERN! So cool! What's it like living here, Tera?",
+      "visual_description": "Daisy spots a cheerful Arctic Tern standing proudly on the ice nearby. The tern \u2014 named Tera \u2014 has bright white and gray feathers, a bold red beak, and a black cap on her head. She waves a wing warmly. Daisy hops over excitedly. The two birds stand face to face. Tera puffs up proudly. Daisy tilts head curiously. Snow drifts gently around them. Both characters are warm, friendly, and expressive.",
+      "sound_effects": [
+        "curious little musical note",
+        "friendly bird chirp for Tera",
+        "soft wind",
+        "warm cheerful music underneath"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "I fly MORE than any other animal on Earth! Really?! YES! Every year I fly from the Arctic ALL the way to the other end of the world! That is SO far! It's called MIGRATION! Migration means a long trip to find food and sun! MI-GRA-TION! I migrate farther than anyone! Wow! ... And look at my wings, Daisy! They are long and thin! Long thin wings help me fly for a very long time! See how I glide? GLIDE means I float on the wind! I barely flap! I just GLIDE! ... Oh let me try! Wheee! I'm gliding! ... Yes! And one more thing! I love fish! I dive into the cold water FAST like an arrow! Splash! I catch my lunch! Watch! ... SPLASH! Got one!",
+      "visual_description": "Scene 1 \u2014 Tera spreads her wings wide and a glowing animated map appears behind her showing the Earth, with a bright dotted line stretching from the Arctic all the way down to Antarctica and back, glowing warmly. Daisy's jaw drops in amazement. Scene 2 \u2014 Close-up on Tera's long elegant wings as she lifts off and glides smoothly in a big arc, barely flapping, riding the wind effortlessly. Daisy copies her, spreading wings and gliding too, red scarf flowing. Scene 3 \u2014 Tera spots a shimmer of fish in the icy water below, tucks her wings, and dives arrow-straight into the water with a big SPLASH. She pops back up with a tiny fish, triumphant and smiling. Daisy claps wings together in delight.",
+      "sound_effects": [
+        "magical map reveal chime",
+        "soft globe spinning sound",
+        "wind whoosh on glide",
+        "Daisy giggling while gliding",
+        "big water splash",
+        "triumphant little fanfare",
+        "fish flop sound"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh! Uh oh! Look! A big wind is coming! It's a snow storm! It's blowing Daisy's red scarf away! Oh NO! My scarf! That's my favorite scarf! ... Don't worry Daisy! I know what to do! We use the WIND! Remember \u2014 we GLIDE! Ride the wind, don't fight it! ... Ok! Ok! I'll try! Wings out! Glide... GLIDE... I'm doing it! I'm riding the wind! I can reach it! ... Go Daisy go! ... GOT IT! I got my scarf! Yaaay!",
+      "visual_description": "Dark snow clouds roll in quickly. A strong gust sweeps across the ice. Daisy's tiny red scarf flies off and tumbles through the snowy air. Daisy panics, jumping and missing it. Tera swoops in confidently, mimes spreading wings and gliding. Daisy takes a deep breath, spreads wings wide, and lifts off \u2014 riding the gust instead of fighting it. Daisy surfs the wind current smoothly and snatches the red scarf in mid-air. Daisy lands triumphantly, scarf back around neck. Tera cheers and does a happy little spin. The storm clouds clear.",
+      "sound_effects": [
+        "dramatic wind whoosh",
+        "Daisy yelping oh no",
+        "encouraging music swell",
+        "Daisy straining sounds",
+        "triumphant fanfare sting",
+        "both birds cheering"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow! Thank you Tera! I learned SO much today! The Arctic is cold and icy! Arctic Terns MIGRATE \u2014 they travel farther than anyone in the world! Long wings help them GLIDE on the wind! And when something is hard \u2014 ride the wind! Don't fight it! Work with what you have! That's what friends do too! ... Daisy, you are a great flier! And a great friend! ... Aww! So are YOU Tera! Big wing hug!",
+      "visual_description": "Daisy and Tera stand together on the gleaming ice. The Northern Lights glow beautifully above them in swirling green and purple. Daisy counts facts on tiny wing feathers \u2014 one, two, three \u2014 as each fact appears as a friendly animated text bubble. Then Daisy and Tera stretch their wings wide and give each other a warm wing-hug. Both smile at the camera. Hearts float up gently. The Arctic looks peaceful and magical.",
+      "sound_effects": [
+        "soft warm piano music",
+        "gentle wind",
+        "heart pop sounds",
+        "warm cozy musical resolve"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Bye bye Tera! See you next time! ... Bye Daisy! Safe travels! ... Wasn't that AMAZING, friends? The Arctic Tern travels the WHOLE world! So cool! If YOU like adventures with Daisy \u2014 hit that subscribe button right down there! Do it with your wings! Flap flap! And next time \u2014 I'm flying somewhere with REALLY tall trees and LOTS of rain! Where do YOU think I'm going? Tell me below! Wings up, friends!",
+      "visual_description": "Daisy waves goodbye to Tera who waves back cheerfully from the ice. Daisy leaps into the air and swoops upward into a clear Arctic sky with the Northern Lights glowing. Camera pulls back wide to show the beautiful icy landscape below. A friendly subscribe button animation bounces in the corner. Daisy does a barrel roll loop in the sky and flies off into the horizon. Tera watches from below, waving one wing, smiling big.",
+      "sound_effects": [
+        "upbeat outro music",
+        "wing flap sounds",
+        "Tera's happy chirp",
+        "subscribe button pop chime",
+        "final big whoosh as Daisy flies off",
+        "cheerful closing music sting"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The Arctic is a very cold and icy place covered in snow and ice.",
+    "Arctic Terns migrate farther than any other animal on Earth \u2014 flying from the Arctic to Antarctica and back every year.",
+    "Arctic Terns have long thin wings that let them glide on the wind without flapping much.",
+    "Arctic Terns dive straight into the water like an arrow to catch fish."
+  ],
+  "moral": "When something feels hard, work WITH what you have \u2014 just like riding the wind instead of fighting it.",
+  "next_episode_tease": "Next time Daisy flies somewhere with VERY tall trees and lots and lots of rain \u2014 a whole new biome is waiting!",
+  "total_duration_seconds": 225
+}

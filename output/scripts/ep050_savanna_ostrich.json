@@ -1,0 +1,176 @@
+{
+  "episode_number": 50,
+  "biome": "Savanna",
+  "guest_animal": "Ostrich",
+  "title": "Daisy Meets the Biggest Bird in the Savanna!",
+  "description": "\ud83d\udc26 Daisy the bluebird flies to the sunny African Savanna and meets Oliver the Ostrich! \ud83c\udf3e Learn amazing facts about ostriches and the savanna together! \ud83c\udf0d A brand new adventure awaits \u2014 wings up, friends!",
+  "tags": [
+    "kids",
+    "savanna",
+    "ostrich",
+    "educational",
+    "animals",
+    "bluebird",
+    "Daisy",
+    "nature",
+    "wildlife",
+    "preschool",
+    "toddler",
+    "learning",
+    "Africa",
+    "birds",
+    "fun facts"
+  ],
+  "thumbnail_prompt": "Cute cartoon bluebird named Daisy wearing a tiny red scarf standing next to a tall friendly ostrich with big eyes and fluffy feathers, wide open golden African savanna background with acacia trees and bright blue sky, vibrant warm colors, soft rounded kid-friendly art style, bold cheerful composition",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi there! I'm flying somewhere SUPER sunny today! It's big! It's wide! It's full of tall golden grass! Can YOU guess where I'm going?",
+      "visual_description": "Daisy the tiny bluebird with a tiny red scarf swoops into frame from the left against a bright white background. A burst of golden yellow and orange colors explodes behind him. He flaps his wings excitedly and winks at the camera. The background begins hinting at open golden grass.",
+      "sound_effects": [
+        "upbeat whoosh sound",
+        "bright musical sting",
+        "cheerful wing flap"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at this place! So much golden grass! Big flat land! And wow \u2014 it is HOT! This is the SAVANNA! The savanna! Say it with me \u2014 SA-VAN-NA! The savanna has warm sun and tall dry grass. I love it here!",
+      "visual_description": "Wide cinematic reveal of a vast African savanna. Golden grasses sway in a warm breeze. Acacia trees dot the horizon. A huge warm orange sun glows in the bright blue sky. Daisy floats down slowly, eyes wide with wonder, red scarf fluttering in the breeze. Camera slowly pans across the landscape.",
+      "sound_effects": [
+        "warm ambient wind",
+        "buzzing insects",
+        "distant bird calls",
+        "gentle orchestral swell"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm. I see something over there! Something VERY tall! And fluffy! And... wow, those are LONG legs! Hello? Hello, big friend! Oh my goodness! It's an OSTRICH! A real ostrich! Hi! I'm Daisy! Who are YOU?",
+      "visual_description": "Daisy peeks around an acacia tree. The camera slowly tilts upward to reveal Oliver the Ostrich \u2014 enormously tall, with giant friendly brown eyes, fluffy black and white feathers, and two long pink legs. Oliver bends his very long neck wayyy down to meet Daisy at eye level. He blinks slowly and smiles warmly.",
+      "sound_effects": [
+        "curious plucking strings",
+        "soft ostrich low rumble sound",
+        "comedic boing as neck bends down"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "1:00",
+      "end_time": "1:10",
+      "narration": "The big bird giggled. He said \u2014 I'm OLIVER! Oliver the Ostrich! Welcome to MY savanna, little Daisy! Make yourself at home!",
+      "visual_description": "Oliver stands tall and proud, puffing out his fluffy feathers happily. He does a little wiggle of excitement. Daisy laughs and claps his tiny wings together. The two characters face the camera together, side by side \u2014 Daisy tiny, Oliver enormous \u2014 a funny and sweet size contrast.",
+      "sound_effects": [
+        "warm friendly laugh sound",
+        "feather ruffling",
+        "upbeat musical beat"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Daisy asked \u2014 Oliver, you are SO tall! Are you a bird like me? Oliver nodded. Yes! I am a bird! I am the BIGGEST bird in the whole world! The biggest bird! But Daisy \u2014 I cannot fly. I have tiny little wings. See? But LOOK what I CAN do! Oliver started to RUN! So fast! Ostriches run super fast! Faster than a car on a small road! Running helps me stay safe in the savanna!",
+      "visual_description": "Oliver stands proudly next to Daisy. He spreads his tiny wings wide to show them off \u2014 they are clearly not made for flying. Then Oliver breaks into a full sprint across the savanna, kicking up dust, legs pumping in a funny and impressive blur. Daisy watches with jaw dropped, eyes wide. Speed lines whoosh past. A little speedometer graphic pops up showing how fast ostriches run.",
+      "sound_effects": [
+        "thundering footsteps",
+        "whooshing speed sound",
+        "Daisy gasping in awe",
+        "upbeat racing music"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:20",
+      "end_time": "1:45",
+      "narration": "Wow! You are SO fast, Oliver! But what about those eyes? They are HUGE! Oliver laughed. My eyes are BIG! They are the biggest eyes of any land animal! Big eyes help me see far, far away! I can spot danger way over there! Big eyes, big safety!",
+      "visual_description": "Oliver stops running and jogs back to Daisy. He leans down and his enormous eye fills the screen in a close-up \u2014 huge, round, golden brown, with long cartoon eyelashes. The camera zooms way out to show the vast savanna and a tiny dot far on the horizon that Oliver is watching. An animated dotted line connects Oliver's eye to the distant dot.",
+      "sound_effects": [
+        "comedic zooming sound on eye close-up",
+        "soft gentle wonder music",
+        "wind blowing across plains"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:45",
+      "end_time": "2:00",
+      "narration": "Oliver also showed Daisy his nest! Look! Ostrich eggs are HUGE! Big as a melon! The biggest eggs in the world! Oliver sits on the nest to keep eggs warm. That is called incubating! In-cu-ba-ting! Oliver is a great dad!",
+      "visual_description": "Oliver waddles over to a sandy ground nest where several enormous cream-colored eggs sit. He gently lowers himself to sit on the nest. The eggs peek out from under his fluffy feathers. Daisy stands nearby, eyes enormous with wonder. A fun animated size comparison shows an ostrich egg next to a tiny regular egg.",
+      "sound_effects": [
+        "soft warm cooing music",
+        "gentle nest settling sounds",
+        "Daisy saying wow softly"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Then \u2014 oh no! A big gust of wind came! WHOOOOSH! It blew Daisy's little red scarf right off! Oh no! My scarf! It tumbled away across the grass! Daisy tried to fly after it. But the wind was so strong! Daisy couldn't catch it! Oliver! Can you help?",
+      "visual_description": "A sudden gust of wind sweeps across the savanna. Daisy's tiny red scarf is swept off his neck and tumbles end over end into the tall grass. Daisy chases it, flapping hard, but the wind pushes him back. The scarf bounces further away. Daisy looks worried. He turns to Oliver with big hopeful eyes.",
+      "sound_effects": [
+        "big whooshing gust",
+        "Daisy's worried gasp",
+        "scarf fluttering sound",
+        "tense but gentle music sting"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oliver smiled. I can help, Daisy! Remember \u2014 I can run FAST! Watch! Oliver ran super fast across the grass. His big eyes spotted the scarf quickly! He scooped it up gently in his beak. Here you go, little friend! Oliver saved the day!",
+      "visual_description": "Oliver grins confidently. He charges across the savanna at full speed \u2014 dust flying everywhere. His huge eyes scan the ground quickly. He spots the little red scarf in the grass, slows down gracefully and scoops it up with his long beak. He trots back to Daisy and carefully drops the scarf back around Daisy's neck. Daisy beams with joy.",
+      "sound_effects": [
+        "triumphant racing music",
+        "thundering ostrich footsteps",
+        "cheerful success chime",
+        "Daisy cheering"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Daisy hugged Oliver's big fluffy leg. Thank you, Oliver! You used your fast running AND your big eyes! You are amazing! Oliver nodded happily. Today Daisy learned SO much! The savanna is wide and warm. Ostriches are the biggest birds! They cannot fly \u2014 but they RUN super fast! They have the biggest eyes on land! And the biggest eggs too! Every animal has special gifts. And friends help each other! Always!",
+      "visual_description": "Daisy wraps his tiny wings around Oliver's leg in a warm hug. Oliver ruffles his feathers happily and pats Daisy gently with one wing. A soft golden-hour glow washes over the savanna. A gentle animated recap shows three small illustrated cards: 1) Ostrich running fast, 2) Giant eye close-up, 3) Enormous nest with eggs. Each card pops in with a cheerful bounce.",
+      "sound_effects": [
+        "warm heartfelt music swell",
+        "gentle savanna breeze",
+        "soft happy chime for each recap card"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Daisy waved his little wing. Goodbye, Oliver! I will never forget you! Oliver waved back. Come visit anytime, little bird! And friends \u2014 if YOU liked this adventure, please SUBSCRIBE! So you never miss a new place! And leave a comment \u2014 what is YOUR favorite animal? Now \u2014 wings up, friends! Because next time... I am flying somewhere VERY cold and icy! Brrr! Where do YOU think I am going? See you there!",
+      "visual_description": "Daisy flies upward slowly, waving his tiny wing down at Oliver who waves a stubby wing back up. The savanna glows warmly behind them. Daisy soars up into the bright blue sky, red scarf trailing behind him. A subscribe button animation bounces in the corner. The screen fades to a teaser silhouette of a snowy icy landscape with question marks. Daisy's tiny figure flies toward it.",
+      "sound_effects": [
+        "warm farewell music",
+        "whooshing takeoff",
+        "subscribe button pop sound",
+        "icy wind tease sound at end",
+        "upbeat closing theme"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Ostriches are the biggest birds in the entire world",
+    "Ostriches cannot fly but they can run faster than almost any other animal on land",
+    "Ostriches have the largest eyes of any land animal on Earth",
+    "Ostriches lay the biggest eggs of any living bird",
+    "Ostriches sit on their eggs to keep them warm \u2014 this is called incubating",
+    "The savanna is a warm biome with wide open land and tall dry golden grass"
+  ],
+  "moral": "Every animal has special gifts, and true friends use their gifts to help each other.",
+  "next_episode_tease": "Next time Daisy flies somewhere freezing cold and covered in ice and snow \u2014 bundle up for the Arctic adventure!",
+  "total_duration_seconds": 225
+}

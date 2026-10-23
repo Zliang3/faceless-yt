@@ -1,0 +1,140 @@
+{
+  "episode_number": 11,
+  "biome": "Rainforest",
+  "guest_animal": "Leafcutter Ant",
+  "title": "Daisy and the Tiny Builders! \ud83c\udf3f | Rainforest Adventure",
+  "description": "Daisy the bluebird flies into the amazing rainforest and meets Arlo the leafcutter ant! \ud83d\udc1c\ud83c\udf34 Together they discover the secrets of the rainforest and learn how even the TINIEST friends can do BIG things! \ud83c\udf43\u2728",
+  "tags": [
+    "kids",
+    "rainforest",
+    "leafcutter ant",
+    "educational",
+    "animals for kids",
+    "biome",
+    "nature",
+    "preschool",
+    "toddler learning",
+    "Daisy the bird",
+    "animated",
+    "ant facts",
+    "rainforest animals",
+    "science for kids",
+    "teamwork"
+  ],
+  "thumbnail_prompt": "Cheerful cartoon bluebird named Daisy wearing a tiny red scarf, standing nose-to-nose with a large friendly leafcutter ant holding a bright green leaf over its head, lush vibrant rainforest background with giant trees, colorful flowers, dappled golden light filtering through canopy, big expressive eyes on both characters, bright saturated colors, fun kids animated style",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Today I am flying somewhere super GREEN! It is WET and it is WILD! Can YOU guess where I am going?",
+      "visual_description": "Daisy bursts into frame from the left with a big swoosh of blue feathers, tiny red scarf fluttering. Screen flashes bright green and gold. Daisy flaps excitedly, winking at the camera. Lush green leaves swirl in the background.",
+      "sound_effects": [
+        "whoosh of wings",
+        "cheerful xylophone sting",
+        "jungle bird calls faintly in background"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all these trees! They are SO tall! And listen \u2014 drip, drip, drip! This is the RAINFOREST! The rainforest is wet and warm. Say it with me \u2014 RAIN-FOR-EST! There are more animals here than anywhere else on Earth!",
+      "visual_description": "Daisy swoops down into a breathtaking rainforest clearing. Giant trees tower overhead, sunlight beams through a thick green canopy. Colorful parrots and butterflies flutter past. Water drips from huge leaves. Daisy spins around looking up with giant amazed eyes, red scarf swaying.",
+      "sound_effects": [
+        "rain dripping on leaves",
+        "distant waterfall",
+        "tropical bird calls",
+        "soft wonder music swell"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmmm! What is THAT? Look! A tiny ant is carrying a HUGE green leaf! That leaf is bigger than HIM! Wow! Hi there, little friend! Who are YOU? \u2014 Hi Daisy! I am Arlo! I am a LEAFCUTTER ANT! \u2014 A leafcutter ant! Cool! What do you DO with that giant leaf, Arlo? \u2014 Oh, I have so much to show you! Come on!",
+      "visual_description": "Daisy lands on a mossy log and notices a trail of ants marching below, each carrying a bright green leaf piece. Daisy zooms in on Arlo, a cheerful leafcutter ant with big friendly eyes and strong mandibles, confidently holding a leaf three times his size above his head. Arlo waves a tiny leg at Daisy. Both characters look at the camera with excitement.",
+      "sound_effects": [
+        "tiny marching footsteps",
+        "upbeat curious music",
+        "leaf rustling"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Arlo says leafcutter ants CUT leaves with their sharp teeth! Snip, snip, snip! See those tiny teeth? They are called MANDIBLES! Man-di-bles! Sharp like little scissors! \u2014 Now watch where we CARRY them, Daisy! \u2014 Wow! All the ants walk in a long LINE! A trail! They carry the leaves all the way HOME underground! And HERE is the coolest part \u2014 ready? They do NOT eat the leaves! They grow a special FUNGUS on the leaves! Fun-gus! The fungus is their FOOD! So leafcutter ants are FARMERS! Tiny, tiny FARMERS!",
+      "visual_description": "Close-up of Arlo snipping a leaf with his mandibles \u2014 a satisfying SNIP animation with a sparkle. Then a wide shot of hundreds of ants in a long winding trail through the rainforest floor, each carrying a bright green piece. Daisy flies alongside the trail looking amazed. Then a cross-section view shows the underground nest with white fluffy fungus gardens glowing softly. Arlo proudly gestures at the fungus like a tour guide.",
+      "sound_effects": [
+        "snipping scissors sound",
+        "marching rhythm music",
+        "tiny triumphant fanfare",
+        "soft underground ambient hum"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION CONTINUED",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "And Arlo tells me \u2014 leafcutter ants live in HUGE families! Millions of ants! MILLIONS! That is called a COLONY! Col-o-ny! Everyone in the colony has a job. Some ants cut. Some ants carry. Some ants guard! Everyone helps!",
+      "visual_description": "An animated diagram-style view of the underground colony lights up showing different ant roles \u2014 cutter ants, carrier ants, soldier ants with bigger heads, and the queen ant deep below. Each ant type has a little label badge. Daisy points at each one with a wing, nodding enthusiastically.",
+      "sound_effects": [
+        "educational pop sound for each ant type",
+        "cheerful background music",
+        "tiny crowd cheer"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! One little ant dropped her leaf piece! It blew away in the wind! She looks SO sad! She is sitting all alone. \u2014 Oh no! That is my friend Pea! She needs her leaf to help the colony! \u2014 Can WE help, Arlo? \u2014 YES! But Daisy \u2014 the leaf is stuck up HIGH on that branch! Can YOU fly up and get it? \u2014 I CAN! Wings up! \u2014 Daisy flies up, grabs the leaf gently, and brings it back down! \u2014 Here you go, Pea! \u2014 Hooray! Pea does a happy little dance! \u2014 We did it! Together!",
+      "visual_description": "A small leaf piece tumbles in the breeze and gets caught on a low branch. A tiny ant named Pea sits below looking up with sad droopy antennae. Arlo and Daisy notice. Daisy puffs up with determination, red scarf flapping heroically. Daisy swoops up, carefully picks up the leaf with both feet, and glides back down placing it gently in front of Pea. Pea's antennae spring up happily and she does a wiggle dance. Confetti-style leaves rain down.",
+      "sound_effects": [
+        "sad little tune",
+        "heroic mini fanfare",
+        "flapping wings",
+        "happy chime resolution",
+        "tiny cheering crowd"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow, friends! I learned SO much today! Leafcutter ants live in the RAINFOREST! They cut leaves with their MANDIBLES! They grow FUNGUS for food \u2014 they are tiny FARMERS! And they live in big families called a COLONY! But the biggest lesson? Even the TINIEST friend can do something AMAZING! And when we HELP each other \u2014 we can do even MORE! Arlo, you are the best!",
+      "visual_description": "Daisy stands with Arlo and Pea on the mossy log. Warm golden light filters through the canopy. Daisy gestures with wings as each fact flashes up in cute illustrated bubbles around them \u2014 a leaf, mandibles snapping, fluffy fungus, a colony diagram. Then Daisy and Arlo do a big side hug, Daisy wrapping a wing around Arlo. Pea holds her leaf proudly. Soft heartwarming glow around the scene.",
+      "sound_effects": [
+        "warm music swell",
+        "gentle chime for each fact bubble",
+        "soft crowd aww sound",
+        "hug squish sound effect"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Goodbye Arlo! Goodbye Pea! I will never forget you! And HEY friends \u2014 if YOU liked our rainforest adventure, give this video a big THUMBS UP! And SUBSCRIBE so you never miss where Daisy flies next! Because next time \u2014 I am flying somewhere VERY cold and VERY snowy! Brrrr! Where do YOU think I am going? Tell me in the comments! Wings up, friends!",
+      "visual_description": "Daisy waves both wings wildly at Arlo and Pea who wave back with tiny legs. Daisy leaps into the air and spirals upward through the rainforest canopy, red scarf trailing. A subscribe button bounces into frame with a cute animation. Daisy pops back in from the corner, shivers in an exaggerated funny way as a little snowflake drifts past, then gives a big wink and zooms off. Final frame: Daisy silhouette flying over the rainforest canopy into a bright sky.",
+      "sound_effects": [
+        "goodbye music sting",
+        "whoosh of wings",
+        "subscribe chime sound",
+        "wind and snowflake tinkle sound",
+        "final cheerful theme sting"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Leafcutter ants live in the rainforest, which is warm, wet, and full of life",
+    "Leafcutter ants cut leaves using their sharp mouthparts called mandibles",
+    "Leafcutter ants do not eat the leaves \u2014 they use them to grow a special fungus, which is their food, making them farmers",
+    "Leafcutter ants live in huge family groups called colonies, which can contain millions of ants",
+    "Every ant in the colony has a specific job \u2014 cutting, carrying, guarding, or caring for the queen"
+  ],
+  "moral": "Even the smallest friend can do something amazing, and helping each other makes us all stronger.",
+  "next_episode_tease": "Next time Daisy flies somewhere very cold and snowy \u2014 bundle up for an Arctic adventure!",
+  "total_duration_seconds": 225
+}

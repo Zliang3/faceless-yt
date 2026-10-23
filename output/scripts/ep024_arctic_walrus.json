@@ -1,0 +1,134 @@
+{
+  "episode_number": 24,
+  "biome": "Arctic / Tundra",
+  "guest_animal": "Walrus",
+  "title": "Daisy Meets the Walrus! | Arctic Adventure \u2744\ufe0f",
+  "description": "Join Daisy the bluebird as he flies to the freezing Arctic and meets Walter the Walrus! \ud83e\uddad\u2744\ufe0f Learn cool facts about walruses and the icy Arctic biome! Perfect for curious little learners! \ud83d\udc26\u2728",
+  "tags": [
+    "kids",
+    "arctic",
+    "tundra",
+    "walrus",
+    "educational",
+    "animals",
+    "nature",
+    "biome",
+    "preschool",
+    "kindergarten",
+    "bluebird",
+    "pip",
+    "learning",
+    "wildlife",
+    "ice",
+    "ocean"
+  ],
+  "thumbnail_prompt": "Bright close-up of Daisy the small bluebird wearing a tiny red scarf, perched on a large friendly brown walrus with big white tusks, set against a stunning icy Arctic background with glittering blue-white glaciers, floating ice floes, and a pastel sky with soft snowflakes falling; warm cartoon style, vivid colors, wide eyes, cheerful expressions",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi there! Today I am flying somewhere VERY cold! Brrr! Can YOU guess where I am going?",
+      "visual_description": "Daisy the small bluebird bursts onto screen from the left in a bright blue and white color burst, tiny red scarf flapping in the wind. He swoops in a loop and faces the camera with wide excited eyes. The background is pure white with sparkle effects. Snow flurries swirl around him.",
+      "sound_effects": [
+        "whoosh of wings",
+        "cheerful upbeat jingle",
+        "sparkle twinkle sound",
+        "wind gust"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! LOOK at all the ice! It is the ARCTIC! The Arctic is cold, cold, COLD! I can see big chunks of ice floating in the water! This is the ARCTIC, friends! Brrr, it is SO freezing!",
+      "visual_description": "Wide panoramic reveal shot \u2014 Daisy flies into a breathtaking Arctic landscape. Massive white and blue glaciers fill the background. Flat ice floes float on sparkling dark blue water. Snow dusts everything. Daisy lands on an ice floe and shivers, hugging himself. His tiny red scarf blows in the icy breeze. The camera slowly pans across the beautiful frozen horizon.",
+      "sound_effects": [
+        "icy wind ambience",
+        "gentle water lapping",
+        "soft crunching snow footsteps",
+        "wonder chime sound"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Hmm! What is that big shape over there? It is HUGE! Oh WOW! Hello there! Who are YOU? ... Hi little bird! I am Walter the Walrus! Welcome to the Arctic! ... A walrus! A REAL walrus! Walter, do you LIVE here in this cold, cold Arctic?",
+      "visual_description": "Daisy hops curiously across the ice toward a very large, round, friendly-looking walrus with two big white tusks and long whiskers, lying comfortably on an ice floe. Walter opens one sleepy eye, then lifts his head with a big warm smile. He is brown and wrinkled with kind brown eyes. Daisy's beak drops open in amazement. The two face each other \u2014 Daisy tiny and wide-eyed, Walter enormous and gentle. Walter nods enthusiastically.",
+      "sound_effects": [
+        "curious plucking music",
+        "walrus low friendly grunt",
+        "gasp of amazement",
+        "warm friendly tuba musical note"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Yes! I LOVE the Arctic! It is my home! Let me show you why! ... First \u2014 feel my skin, Daisy! I have lots and lots of blubber under here! Blubber is thick fat! It keeps me WARM! Blubber, blubber, blubber! ... WOW! That is like wearing a big cozy blanket! ... Yes! And see my long tusks? These are my TUSKS! I use them to pull myself up onto the ice! Tusk, tusk, TUSK! Watch! ... Oh AMAZING! You climbed right up! ... And one more thing! I have WHISKERS! Big, long whiskers! I use them to find clams on the ocean floor! My whiskers feel the food! Cool, right?",
+      "visual_description": "Scene 1 \u2014 Walter pats his round belly proudly. Daisy reaches out a tiny wing and pokes it. A warm glowing animation shows layers under Walter's skin labeled with a simple warm-glow effect. Scene 2 \u2014 Walter waddles to the edge of the ice and dramatically hooks his two giant tusks over the ledge, heaving his huge body up with a grunt. Daisy cheers and claps his wings. Scene 3 \u2014 Close-up on Walter's impressive long bristly whiskers. They wiggle and twitch. Then a fun animation shows Walter underwater, whiskers brushing across the ocean floor, finding glowing clam shells. Daisy watches with enormous eyes.",
+      "sound_effects": [
+        "boing sound for blubber poke",
+        "effort grunt for tusk climbing",
+        "splashing underwater sounds",
+        "discovery chime",
+        "clam shell click"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! Daisy dropped his little red scarf! It is blowing away on the wind! Oh no, oh no! ... Do not worry Daisy! I will help! I can use my long whiskers to feel where it went! My whiskers are VERY good at finding things! ... Walter wiggled his whiskers! He felt the scarf! He found it behind the big ice rock! Hooray! Walter saved the day!",
+      "visual_description": "A gust of icy wind whooshes across the scene. Daisy's tiny red scarf unties and tumbles away, sliding and bouncing across the ice. Daisy flaps frantically after it, but it blows behind a large ice boulder. Daisy looks worried and sad. Walter closes his eyes and lowers his big head close to the ice. His long whiskers twitch and sweep across the frozen ground slowly and carefully. Then his eyes pop open with excitement \u2014 he nudges the ice rock aside gently with his tusk. There is the little red scarf! Daisy grabs it joyfully and ties it back on.",
+      "sound_effects": [
+        "dramatic wind whoosh",
+        "worried little violin strings",
+        "tense searching music",
+        "whisker sweeping soft sound",
+        "triumphant fanfare",
+        "happy cheering crowd sound"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Oh Walter, THANK YOU! You used your whiskers to find my scarf! Just like you find clams! ... That is what friends are for, Daisy! ... I learned SO much today, friends! The Arctic is cold, cold, cold! Walruses have BLUBBER to stay warm! They have TUSKS to climb on ice! And they have long WHISKERS to find food \u2014 and lost scarves! And the BEST thing I learned? New friends are EVERYWHERE! Even in the freezing Arctic!",
+      "visual_description": "Daisy carefully ties his red scarf back around his neck, beaming. He looks at the camera and counts the facts on his tiny wing feathers \u2014 one, two, three. A simple animated recap appears as soft glowing icons: a flame (blubber = warmth), tusks (climbing), whiskers (finding food). Walter leans down and the two share a big warm hug \u2014 Daisy barely reaches around Walter's enormous neck. Both laugh. The Arctic glitters beautifully around them.",
+      "sound_effects": [
+        "warm heartfelt music swell",
+        "counting boings",
+        "hug squish sound",
+        "gentle laughter",
+        "birds singing softly"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "Goodbye Walter! I will miss you! ... Goodbye little Daisy! Come back soon! ... Bye bye Arctic! Bye bye friends! Wings up, friends! If you want to come on MORE adventures with me, hit that subscribe button! And tell me \u2014 what was YOUR favorite fact about Walter? The blubber? The tusks? Or the whiskers? Tell me below! Next time, I am flying somewhere with REALLY tall trees and LOTS of rain! Where do YOU think I am going? See you soon, friends! Wings UP!",
+      "visual_description": "Daisy waves a tiny wing at Walter who waves a big flipper back. Daisy leaps into the air and spirals upward, red scarf trailing behind him. He does a big loop against the pale Arctic sky. Walter watches from his ice floe, smiling and clapping his flippers. Daisy gets smaller and smaller as he flies away into the horizon. A subscribe button animation bounces cheerfully in the lower corner of the screen. The screen fades to a soft white with warm sparkle effects and the show logo.",
+      "sound_effects": [
+        "goodbye warm string music",
+        "flipper clapping sound",
+        "wing whoosh upward",
+        "subscribe bell ding",
+        "outro jingle upbeat and cheerful"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "Walruses live in the Arctic, one of the coldest places on Earth",
+    "Walruses have blubber \u2014 thick fat under their skin \u2014 that keeps them warm in freezing temperatures",
+    "Walruses use their long tusks to pull themselves up onto ice floes",
+    "Walruses have long sensitive whiskers called vibrissae that help them feel and find clams and other food on the ocean floor",
+    "Ice floes are large flat chunks of floating ice found in the Arctic Ocean"
+  ],
+  "moral": "True friends use what makes them special to help the ones they care about.",
+  "next_episode_tease": "Next time Daisy flies somewhere with VERY tall trees and lots and lots of rain \u2014 the rainforest! \ud83c\udf34\ud83c\udf27\ufe0f",
+  "total_duration_seconds": 225
+}

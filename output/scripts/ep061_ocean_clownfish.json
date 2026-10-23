@@ -1,0 +1,130 @@
+{
+  "episode_number": 61,
+  "biome": "Ocean / Coral Reef",
+  "guest_animal": "Clownfish",
+  "title": "Daisy Meets the Clownfish! \ud83d\udc20 Ocean Adventure",
+  "description": "Join Daisy the bluebird as he dives into the big, beautiful ocean! \ud83c\udf0a Today Daisy meets Coral the clownfish, who lives in a colorful coral reef! \ud83d\udc20 Learn amazing ocean facts and make a new friend! \ud83e\udeb8",
+  "tags": [
+    "kids",
+    "ocean",
+    "coral reef",
+    "clownfish",
+    "animals for kids",
+    "educational",
+    "preschool",
+    "toddler learning",
+    "nature",
+    "pip the bird",
+    "animated",
+    "biome",
+    "sea animals",
+    "fish",
+    "underwater"
+  ],
+  "thumbnail_prompt": "Daisy the small bluebird wearing a tiny red scarf floating above a bright turquoise ocean, looking down excitedly at Coral the orange-and-white striped clownfish peeking out from a waving sea anemone, colorful coral reef in background with vibrant pink and purple corals, bright sunny day, cheerful cartoon style, vivid saturated colors",
+  "scenes": [
+    {
+      "beat": "HOOK",
+      "start_time": "0:00",
+      "end_time": "0:07",
+      "narration": "Wings up, friends! Hi hi hi! Today I am flying somewhere SO sparkly and blue! Can YOU guess where I am going? It is WET and WAVY and HUGE!",
+      "visual_description": "Daisy the bluebird swoops into frame from the left wearing his tiny red scarf, a giant burst of bright blue and turquoise light fills the screen behind him, he flaps his wings excitedly and looks directly at the camera with big curious eyes, small water droplets sparkle around him",
+      "sound_effects": [
+        "upbeat whoosh sound",
+        "ocean wave splash in distance",
+        "cheerful xylophone jingle"
+      ]
+    },
+    {
+      "beat": "BIOME REVEAL",
+      "start_time": "0:07",
+      "end_time": "0:25",
+      "narration": "Whoa! Look at ALL that water! This is the OCEAN! The ocean is SO big! It is the biggest place on Earth! And look DOWN there \u2014 a coral reef! The coral reef is a rainbow underwater! So many colors! So many fish!",
+      "visual_description": "Wide sweeping aerial shot of a glittering blue ocean, Daisy flies above the surface with his red scarf flapping, camera slowly tilts down to reveal a breathtaking coral reef just beneath the water surface \u2014 bright pink, orange, purple, and yellow corals, tiny fish darting everywhere, sunlight shimmering through the water, Daisy gasps and presses his face close to the water surface",
+      "sound_effects": [
+        "deep ocean ambient sound",
+        "gentle waves",
+        "bubbling water",
+        "soft magical chime as reef appears"
+      ]
+    },
+    {
+      "beat": "MEETING THE ANIMAL",
+      "start_time": "0:25",
+      "end_time": "1:00",
+      "narration": "Oh! Oh! What is THAT? A little orange and white fish! Hello little fish! Hi there! I am Daisy! Who are YOU? ... My name is Coral! I am a CLOWNFISH! Welcome to my reef, Daisy! A clownfish! Say it with me \u2014 CLOWN-FISH! Coral lives right HERE in the ocean! Is it nice here, Coral? Oh Daisy, it is the BEST home ever!",
+      "visual_description": "Daisy lands on a floating leaf at the water surface, a bright orange-and-white striped clownfish with big friendly eyes pops up through the water and waves a fin, the clownfish has a big cheerful smile and tiny bubble clusters floating around her, Daisy leans forward with excitement, the two make eye contact and both giggle, close-up on the clownfish's face as she introduces herself proudly, text bubble briefly shows the word CLOWNFISH in fun bubbly letters",
+      "sound_effects": [
+        "playful boing sound as fish appears",
+        "bubbly underwater pop sounds",
+        "cheerful giggle",
+        "soft ocean music"
+      ]
+    },
+    {
+      "beat": "FACT EXPLORATION",
+      "start_time": "1:00",
+      "end_time": "2:00",
+      "narration": "Coral, what is it like living in the ocean reef? Oh Daisy, let me show you! Fact one \u2014 I live in an ANEMONE! An anemone! It is like my cozy home! See those wavy arms? They protect me! I sleep right inside! Fact two \u2014 clownfish and anemones are FRIENDS! Best friends! The anemone keeps me safe. And I keep the anemone clean! We help each other! That is called teamwork! Fact three \u2014 the ocean reef is HOME to SO many animals! Big fish! Little fish! Crabs! Turtles! The reef is like a big, busy neighborhood! Every animal has a job!",
+      "visual_description": "Coral dives back under the water and Daisy watches from above through the clear surface like a window, animated view splits to show above and below water simultaneously, Coral swims into a beautiful waving pink sea anemone and nestles inside it happily \u2014 the anemone's tentacles gently curl around her, then Coral swims back out and picks up a tiny piece of algae with her fin showing cleaning behavior, wide shot of the entire reef reveals a sea turtle gliding past, a hermit crab waving, tiny blue fish in a school darting together, Daisy's eyes go wide with amazement",
+      "sound_effects": [
+        "soft underwater hum",
+        "gentle bubble pops",
+        "light harp notes for each fact reveal",
+        "turtle swimming whoosh",
+        "crowd of soft reef sounds"
+      ]
+    },
+    {
+      "beat": "LITTLE PROBLEM",
+      "start_time": "2:00",
+      "end_time": "2:40",
+      "narration": "Oh no! Look! Oh no oh no! A big ocean current is coming! Swoooosh! It pushed Coral away from her anemone! Coral is lost! She cannot find her home! Daisy, I cannot see my anemone! I am scared! Oh! Daisy had an idea! Coral \u2014 you always help your anemone! Look for the wavy pink arms! They need YOU too! Coral looked and looked. And then \u2014 THERE! Pink wavy arms! Her anemone was waving for her! Coral swam fast! Zoom zoom zoom! She made it home! Yay Coral!",
+      "visual_description": "A swirling blue current sweeps through the reef and spins Coral away from her anemone, Coral looks around with worried eyes and trembling fins, Daisy presses his face to the water surface looking concerned, then his eyes light up with an idea and he points excitedly, Coral squints and spots the waving pink tentacles of her anemone in the distance, she swims toward it with determined happy expression, she dives back in and the anemone wraps around her gently, both Coral and Daisy cheer",
+      "sound_effects": [
+        "swooshing current sound",
+        "worried musical tone",
+        "Daisy thinking jingle",
+        "triumphant little fanfare",
+        "happy splashing"
+      ]
+    },
+    {
+      "beat": "LESSON",
+      "start_time": "2:40",
+      "end_time": "3:20",
+      "narration": "Wow wow WOW! I learned SO much today! The ocean is the biggest home on Earth! The coral reef is a rainbow underwater! Clownfish live in anemones \u2014 their cozy safe home! Clownfish and anemones help EACH OTHER! And the reef is a neighborhood \u2014 everyone helps everyone! When we help each other, we ALL stay safe! Just like Coral and her anemone! Coral swam back and gave Daisy the biggest fin-wave ever! You are my friend, Daisy! You helped me find my way home! Thank YOU, Coral! Friends help friends \u2014 always!",
+      "visual_description": "Daisy and Coral face each other, Daisy above water, Coral below, pressing against the water surface like a glass wall, both smiling wide, a warm golden light glows around them, Coral does a happy little spin, Daisy flaps his wings joyfully, his red scarf flutters, the reef behind Coral is glowing and beautiful with all its colors, a school of tiny fish swim in a heart shape behind Coral",
+      "sound_effects": [
+        "warm gentle music swell",
+        "soft happy chime for each fact",
+        "heartfelt acoustic guitar note",
+        "fish swishing sound"
+      ]
+    },
+    {
+      "beat": "CTA + GOODBYE",
+      "start_time": "3:20",
+      "end_time": "3:45",
+      "narration": "I have to fly now, Coral! Goodbye friend! Bye Daisy! Visit again! I will! I will! And friends \u2014 if YOU liked our ocean adventure, give us a big thumbs up! And SUBSCRIBE so you never miss Daisy! We go somewhere new every time! Next time, I am flying somewhere VERY cold and covered in ICE! Where do YOU think I am going? Tell me in the comments! Wings up, FRIENDS!",
+      "visual_description": "Daisy waves his wing at Coral who splashes a big happy wave back, Daisy leaps into the sky and his red scarf streams behind him, camera pulls back to show the wide sparkling ocean below as Daisy flies upward into a bright sunny sky, a subscribe button animation bounces on screen with a small bird icon, Daisy winks directly at the camera, freeze frame on Daisy mid-flight against the blue sky with his wings fully spread and red scarf flying",
+      "sound_effects": [
+        "big water splash goodbye",
+        "upbeat outro music",
+        "whoosh as Daisy flies up",
+        "cheerful bell on subscribe prompt",
+        "final happy chord"
+      ]
+    }
+  ],
+  "facts_taught": [
+    "The ocean is the biggest home on Earth",
+    "Coral reefs are colorful underwater neighborhoods full of many different animals",
+    "Clownfish live inside sea anemones which protect them",
+    "Clownfish and sea anemones help each other \u2014 the anemone protects the clownfish and the clownfish keeps the anemone clean",
+    "The coral reef is home to fish, crabs, turtles, and hundreds of other animals all living together"
+  ],
+  "moral": "When we help each other, everyone stays safe and happy.",
+  "next_episode_tease": "Next time Daisy flies somewhere covered in ice and snow \u2014 somewhere VERY cold! Can you guess where Daisy is going?",
+  "total_duration_seconds": 225
+}
